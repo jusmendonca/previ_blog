@@ -1,1 +1,1 @@
-Sitemap: https://203fa7e6-c7ba-428c-ae1a-41016dee9658.netlify.app/sitemap.xml
+Sitemap: https://jusmendonca.quarto.pub/previ_blog/sitemap.xml

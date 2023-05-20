@@ -25,3 +25,5 @@ Exceto quando indicada outra fonte, o conteúdo aqui postado é de minha autoria
 Abaixo, estão links para os perfis nas redes sociais que utilizo atualmente.
 
 Boa leitura!
+
+*Site gerado com [![](quarto.jpg){width="76" height="18"}](https://quarto.org) no [![](RStudio-Logo-Flat.png){width="43"}](https://www.rstudio.com/tags/rstudio-ide/).*

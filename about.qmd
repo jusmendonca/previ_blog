@@ -18,12 +18,14 @@ Meu nome é [Igor Mendonça](http://lattes.cnpq.br/2771113105334392), Mestre em 
 
 Se você chegou até aqui, provavelmente é um dos meus alunos no componente "Direito Previdenciário", que ministro na [Faculdade Independente do Nordeste](https://www.fainor.com.br/v2/). Este espaço foi criado para compartilhar textos e apresentações sobre os tópicos trabalhados em sala de aula. É, portanto, apenas um conteúdo de apoio e não substitui a bibliografia indicada no [plano de curso](https://www.fainor.com.br/v2/?p=34102) da disciplina, nem constitui um meio de comunicação oficial.
 
-O blog não possui vinculação com nenhuma instituição em que desempenho minhas atividades profissionais. As opiniões veiculadas aqui são de minha exclusiva responsabilidade e possuem objetivo exclusivamente didático-científico, não expressando a posição institucional da Procuradoria-Geral Federal ou da Faculdade Independente do Nordeste.
+O blog não possui vinculação com nenhuma instituição em que desempenho minhas atividades profissionais. As opiniões veiculadas aqui são de minha exclusiva responsabilidade e possuem objetivo didático-científicos, não expressando a posição institucional da Procuradoria-Geral Federal ou da Faculdade Independente do Nordeste.
 
-Exceto quando indicada outra fonte, o conteúdo aqui postado é de minha autoria e está sob a licença CC-BY-NC-ND da [Creative Commons](https://br.creativecommons.net/licencas/). De acordo com a [licença](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.pt), você poderá **compartilhar** (copiar e redistribuir o material em qualquer suporte ou formato), **desque que atribua o conteúdo ao autor** (dar o devido crédito, fornecer um link para a licença e indicar se foram feitas alterações). Por outro lado, **não é permitido** **utilizar o texto de qualquer postagem para fins comerciais**, tampouco **distribuir material modificado** (remixado, transformado, ou criado) a partir de qualquer postagem.
+Exceto quando indicada outra fonte, o conteúdo aqui postado é de minha autoria e está sob a licença [![Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](CC_BY-NC-ND.svg.png){width="63" height="24"}](https://creativecommons.org/licenses/by-nc-nd/4.0/) da [Creative Commons](https://br.creativecommons.net/licencas/). De acordo com essa [licença](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.pt), você poderá **compartilhar** (copiar e redistribuir o material em qualquer suporte ou formato), **desque que atribua o conteúdo ao autor** (dar o devido crédito, fornecer um link para a licença e indicar se foram feitas alterações). Por outro lado, **não é permitido** **utilizar o texto de qualquer postagem para fins comerciais**, tampouco **distribuir material modificado** (remixado, transformado, ou criado) a partir de qualquer postagem.
+
+Se você notar algum erro de formatação ou de conteúdo em qualquer postagem do blog, procure, do lado direito, logo abaixo do índice, o link ![](report_an_issue.jpg) e submeta a comunicação no formulário do Github.
 
 Abaixo, estão links para os perfis nas redes sociais que utilizo atualmente.
 
 Boa leitura!
 
-*Site gerado com [![](quarto.jpg){width="76" height="18"}](https://quarto.org) no [![](RStudio-Logo-Flat.png){width="43"}](https://www.rstudio.com/tags/rstudio-ide/).*
+*(site gerado com [![](quarto.jpg){width="76" height="18"}](https://quarto.org) no [![](RStudio-Logo-Flat.png){width="43"}](https://www.rstudio.com/tags/rstudio-ide/).)*

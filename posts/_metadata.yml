@@ -3,11 +3,9 @@
 # freeze computational output
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
-
 # Enable banner style title blocks
 title-block-banner: true
-
 page-navigation: true
 number-sections: true
 toc: true
-license: Licença CC-BY-NC-ND
+license: Licença Creative Commons BY-NC-ND Atribuição-NãoComercial-SemDerivações 4.0 Internacional.

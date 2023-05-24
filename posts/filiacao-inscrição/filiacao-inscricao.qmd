@@ -1,0 +1,99 @@
+---
+title: Filiação e Inscrição
+description: |
+    Lei 8.213/91, art. 11. 
+date: "2023-05-22"
+author: 
+  - name: "Igor MENDONÇA"
+draft: true
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/segurados/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "image.jpg"
+---
+
+Relação jurídica previdenciária no RGPS
+
+Conceito
+
+Relação jurídica previdenciária é o vínculo jurídico que liga o segurado ou seu dependente ao ente previdenciário e que tem por objeto a garantia contra riscos sociais previstos em lei.
+
+Na medida em que o objeto imediato dessa relação é a garantia de interesses legítimos dos segurados em decorrência de riscos pessoais predeterminados, a relação jurídica previdenciária assemelha-se àquela originada pelo contrato de seguro[^1] (art. 757 do Código Civil brasileiro). Todavia, esse liame não é um contrato de seguro, mas uma relação administrativa de natureza especial. Por isso, em regra, esse vínculo jurídico inicia-se independentemente da vontade do trabalhador.
+
+[^1]: Art. 757. Pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados.
+
+Ocorrida concretamente a hipótese fática descrita em lei, ou seja, o risco social coberto (fato gerador) -- e satisfeitos outro requisitos legais eventualmente exigíveis --, nasce para o ente previdenciário a obrigação de conceder o benefício ou serviço previdenciário cabível, o que se dá mediante ato administrativo vinculado.
+
+Além dessa obrigação principal, de prestar a garantia contra os riscos sociais predeterminados, o ente previdenciário tem também outras, como a de prestar informações e fornecer documentos (v. g., certidão de tempo de contribuição e cópia do processo administrativo previdenciário).
+
+Uma vez que se trata de relação sujeita a um regime de Direito Público, o legislador pode alterar unilateralmente os termos da garantia, resguardados os direitos adquiridos. Por exemplo: se um segurado reúne todos os requisitos para aposentar-se, de acordo com a lei vigente à época, a alteração legislativa posterior não poderá retroagir para extinguir seu direito[^2] à aposentadoria, sob pena de violação da garantia prevista no art. 5º, XXXVI, da Constituição Federal.[^3]
+
+[^2]: LINB. Art. 2º (...).
+
+[^3]: Art. 5º (...).
+
+Não se deve confundir, porém, a situação de direito adquirido com aquela em que alguém possui mera expectativa de direito à aposentadoria. Dessa maneira, se o segurado ainda não tiver alcançado todos os requisitos para aposentar-se, a lei nova pode sim exigir o cumprimento de requisitos mais severos, pois inexiste direito adquirido a regime jurídico.[^4] Contudo, quando ocorrem tais mudanças é comum o estabelecimento de regras de transição para os já filiados à previdência social, que possuíam expectativa de se aposentarem pelas regras antigas. Em geral, essas regras de transição preveem requisitos mais severos que o regramento anterior, porém mais brandos que o novo regime.
+
+[^4]: Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. OCUPANTES DE CARGO COMISSIONADO. EC Nº 20/1998. FILIAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO, INCLUSIVE PREVIDENCIÁRIO. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO. 1. É pacífica a jurisprudência desta Corte de que não há direito adquirido a regime jurídico, inclusive o previdenciário, aplicando-se à aposentadoria a norma vigente à época do preenchimento dos requisitos para a sua concessão. 2. In casu, acertada a decisão agravada ao reformar o acórdão recorrido, o qual afirmava a irretroatividade da norma constitucional, visto que tal entendimento é dissonante do que tem afirmado este Tribunal. 3. Agravo regimental DESPROVIDO.
+
+Sujeitos
+
+No plano subjetivo, a relação jurídica previdenciária envolve, de um lado, o segurado ou dependente e, de outro, o ente legalmente competente para o reconhecimento de direitos e para a concessão de benefícios e serviços previdenciários.
+
+Segurado é a pessoa física que mantém uma relação direta com o ente previdenciário, enquanto dependente é a pessoa física cuja relação com o ente previdenciário é indireta; subordinada à do segurado.
+
+No Regime Geral de Previdência Social, o ente previdenciário é o INSS - Instituto Nacional do Seguro Social, que é uma autarquia federal.
+
+É de crucial importância saber o momento exato do início da relação jurídica previdenciária. Isso porque o regime jurídico aplicável ao fato gerador é aquele vigente à época de sua ocorrência. Trata-se da incidência do denominado "princípio tempus regit actum (literalmente,"o tempo rege o ato"). Se, por exemplo, um trabalhador falece deixando dependentes, é importante saber se na data do óbito essa pessoa mantinha a qualidade de segurado, pois somente nessa hipótese seus dependentes terão direito ao benefício de pensão por morte.
+
+É necessário conhecer dois conceitos que têm a ver com o início da relação jurídica previdenciária (aquisição da qualidade de segurado): filiação e inscrição.
+
+Filiação
+
+Conceito
+
+O art. 20 do Dec. 3.048/1999 (Regulamento da Previdência Social) conceitua a filiação como "o vínculo que se estabelece entre pessoas que contribuem para a previdência social e esta, do qual decorrem direitos e obrigações."
+
+O conceito regulamentar é equívoco. Não somente as pessoas que efetivamente contribuem para o regime geral de previdência social são filiadas ao sistema. Basta pensar no segurado empregado, cuja obrigação de recolher as contribuições previdenciárias cabe ao empregador. Neste caso, o segurado possui contribuições presumidas, não podendo o ente previdenciário indeferir um benefício com fundamento na ausência de recolhimento. Além disso, certas pessoas, apesar de manterem vínculo com o regime geral como contribuintes, não são filiadas a este mesmo regime. Exemplo dessa situação é a do servidor público efetivo, vinculado próprio de previdência social, que recolhe contribuições previdenciárias ao RGPS em decorrência da contração de um empregado doméstico. Além de equívoco, o conceito é ambíguo, na medida em que designa tanto um fato jurídico quanto a relação jurídica dele decorrente (ato de filiar-se e o próprio vínculo gerado por esse ato). Em face disso, preferimos dizer que filiação é o fato jurídico que caracteriza o início da relação jurídica previdenciária, acima conceituada. Através da filiação, adquire-se a qualidade de segurado do regime geral de previdência social. No Direito brasileiro, a filiação do segurado obrigatório (empregado, empregado doméstico, trabalhador avulso, contribuinte individual e segurado especial) tem início coincidente com o exercício de atividade laborativa remunerada lícita por esses segurados. Já para os segurados facultativos, a filiação ocorre pela inscrição seguida do pagamento da primeira contribuição previdenciária. É o que diz o § 1º do art. 20 do Dec. 3.048/1999: § 1º A filiação à previdência social decorre automaticamente do exercício de atividade remunerada para os segurados obrigatórios, observado o disposto no § 2º, e da inscrição formalizada com o pagamento da primeira contribuição para o segurado facultativo.\
+Observe-se, porém, que a filiação do trabalhador rural contratado temporariamente (por prazo até dois meses no período de um ano) por produtor rural pessoa física "decorre automaticamente de sua inclusão em declaração prevista em ato do Secretário Especial da Receita Federal do Brasil do Ministério da Economia por meio de identificação específica", conforme o § 2º do mesmo artigo, incluído pelo Dec. 10.410/2020. O ato de filiação dá origem à qualidade de segurado, que se mantém durante todo o período em que o segurado mantém a atividade laborativa e mais os chamados "períodos de graça" (art. 15 da LBPS). O aposentado do regime geral de previdência social também mantém a qualidade de segurado, mas seus direitos ficarão restritos à percepção do salário-família e do serviço de reabilitação profissional[^5], além da pensão por morte para seus dependentes.
+
+[^5]: Art. 18, § 2º da LBPS, já julgado constitucional pelo STF (Tema de repercussão geral nº. 503).
+
+Filiação e trabalho proibido
+
+A Constituição Federal veda expressamente o exercício de qualquer trabalho pelos menores 16 (dezesseis) anos, exceto na condição de aprendiz a partir dos 14 (catorze) (art. 7º, inciso XXXIII). Portanto, o trabalho do menor de 16 anos, é ilícito. Cabe perguntar, então, sobre a qualidade de segurado desse menor. Sobre a matéria, o Superior Tribunal de Justiça já se manifestou mais de uma vez, fixando a orientação de que a vedação ao trabalho do menor tem por objetivo a proteção deste, de modo que "os menores de idade não podem ser prejudicados em seus direitos trabalhistas e previdenciários, quando comprovado o exercício de atividade laboral na infância."[^6]
+
+[^6]: AgInt no AREsp n. 956.558/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 2/6/2020, DJe de 17/6/2020.
+
+Existe, ainda, a ACP n.º 5031617-51.2018.4.04.7100, com efeitos nacionais, que obriga o INSS a considerar a filiação dos menores de idade que trabalhem para efeitos previdenciários.
+
+Prova da filiação
+
+Desde a edição do Dec. 4.079/2002, os registros no CNIS (Cadastro Nacional de Informações Sociais) são equiparáveis às anotações na CTPS para efeito de prova da filiação do segurado desde a competência julho de 1994 (art. 19, caput, do RPS). Esses dados também servem para comprovar a relação de emprego, tempo de serviço ou de contribuição e salários-de-contribuição. Sobre tais anotações incide presunção iuris tantum de veracidade, podendo o INSS exigir a apresentação dos documentos que serviram de base às anotações, em caso de divergência. As anotações extemporâneas no CNIS, sejam novas ou apenas retificadoras, são aceitas pelo INSS somente se fundadas em documentos contemporâneos dos fatos a provar e desde que mencionem as datas de início e término dos vínculos e, no caso do trabalhador avulso, a duração do trabalho e a condição em que tiver sido prestada a atividade (art. 19, § 2º e 19-B do RPS).
+
+Exercício simultâneo de atividades sujeitas à filiação obrigatória
+
+O exercício simultâneo de atividades econômicas abrangidas pelo RGPS gera filiação obrigatória em cada uma dessas atividades, conforme o art. 11, § 2º da LBPS.
+
+Inscrição
+
+Conceito
+
+Já o conceito de inscrição encontra-se no caput art. 18 do mesmo Dec. 3.048. De acordo com o dispositivo citado, inscrição é o "ato pelo qual o segurado é cadastrado no RGPS, por meio da comprovação dos dados pessoais". Os incisos do caput do mesmo dispositivo indicam a forma de inscrição para cada categoria de segurado. A inscrição é um ato que possui efeitos meramente administrativos, que não dá início à relação jurídica previdenciária (o que já ocorre com a filiação), mas leva ao conhecimento do ente previdenciário a existência dessa relação e os dados pessoais do segurado. É importante perceber que, para os segurados obrigatórios, a filiação precede a inscrição, ao contrário dos segurados facultativos, para os quais a filiação sucede a inscrição e o pagamento da primeira contribuição previdenciária.
+
+Inscrição dos dependentes
+
+Ainda de acordo com o Regulamento da Previdência Social, a prévia inscrição dos dependentes não configura condição para que estes façam jus aos benefícios previdenciários que lhes couberem. Essa inscrição deve ser promovida quando do requerimento do benefício ao qual o dependente tiver direito, mediante a apresentação dos documentos elencados no art. 22 do RPS.
+
+Inscrição post mortem
+
+Por último, importa cuidar da chamada "inscrição post mortem." Trata-se da inscrição do segurado ocorrida após o seu falecimento. Em geral, essa modalidade de inscrição ocorre quando algum dos dependentes requer habilitação para fim de pensão por morte do segurado, quando este não tenha sido inscrito em vida. A situação é possível, por exemplo, quando o segurado empregado falece sem que o seu empregador tenha realizado o registro contratual eletrônico no sistema a que se refere o inciso I do caput do art. 18 do RPS. Existe, porém, uma hipótese em que a inscrição post mortem é expressamente vedada: cuida-se da regra do art. 17, § 7º, da LBPS, que proíbe a inscrição pós-óbito do segurado contribuinte individual e facultativo. No caso específico do segurado facultativo, a proibição é bastante pertinente, tendo em conta que a filiação somente ocorre após a inscrição seguida do pagamento da primeira contribuição previdenciária. Ocorrido o óbito sem a inscrição, também está ausente a qualidade de segurado naquela data, motivo pelo qual seus dependentes não farão jus à pensão por morte. Já no caso do segurado contribuinte individual, uma vez que este já se encontra filiado a partir do primeiro dia de exercício do trabalho remunerado, a vedação somente é explicável pelo objetivo de coibir fraudes em que os dependentes forjam a existência do labor pelo de cujus após sua morte, recolhendo as contribuições atrasadas, apenas para obter o benefício de pensão.
+
+§ 2º Consideram-se adquiridos assim os direitos que o seu titular, ou alguém por êle, possa exercer, como aquêles cujo comêço do exercício tenha têrmo pré-fixo, ou condição pré-estabelecida inalterável, a arbítrio de outrem.
+
+XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;
+
+(RE 413405 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 24/02/2015, ACÓRDÃO ELETRÔNICO DJe-045 DIVULG 09-03-2015 PUBLIC 10-03-2015)

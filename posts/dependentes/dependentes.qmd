@@ -1,0 +1,215 @@
+---
+title: Dependentes
+description: |
+    Lei 8.213/91, art. . 
+date: "2023-05-22"
+author: 
+  - name: "Igor MENDONÇA"
+draft: true
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/segurados/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "image.jpg"
+---
+
+1.  Dependência para fins previdenciários e dependência econômica
+
+Dependentes são pessoas que mantêm relação indireta com a Previdência Social, através de seu vínculo familiar com o segurado. A relação de dependentes para efeitos previdenciários encontra-se no art. 16 da LBPS.
+
+A dependência previdenciária não se confunde com a dependência econômica. Embora seja verdade que muitos dos dependentes para fins previdenciários sejam pessoas que efetivamente necessitam do segurado para sua manutenção, a dependência econômica não é condição necessária nem suficiente para a configuração do vínculo de dependência previdenciária, como veremos adiante.
+
+O art. 16 da LBPS divide os dependentes em classes, em número de 3. A divisão em classes institui uma preferência entre elas, de forma que a existência de dependentes de uma classe superior exclui o direito dos dependentes das classes inferiores (§ 1º). Já os dependentes da mesma classe concorrem entre si, ou seja, rateiam os benefícios a que tiverem direito em regime de paridade.
+
+A lei presume a dependência econômica dos dependentes de primeira classe, enquanto a dependência econômica dos dependentes elencados nas demais classes deve ser comprovada.
+
+Por exemplo, o cônjuge ou companheiro do segurado, mesmo que dele não dependa economicamente e tenha rendimentos superiores aos dele, será considerado seu dependente para fins previdenciários. Por isso, dissemos acima que a dependência econômica não é condição necessária nem suficiente para a configuração do vínculo de dependência previdenciária, embora a lei possa exigir sua comprovação.
+
+São dependentes de 1ª classe "o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave" (inciso I).
+
+São dependentes de segunda classe os pais do segurado (inciso II).
+
+São dependentes de 3ª classe "o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave" (inciso III).
+
+Cabe fazer algumas observações sobre os dependentes de cada uma das classes.
+
+> A Lei n.º 9.032/95 revogou a quarta classe de dependentes do segurado, composta pelo menor de 21 anos designado ou maior de 60 anos ou inválido. Súmula 04/TNU.
+
+Dependentes de 1ª classe
+
+1.1 Cônjuge e companheiro
+
+A condição de cônjuge é alcançada pelo casamento, que é comprovado pela respectiva certidão de registro civil. Já a união estável é uma situação de fato reconhecida para fins previdenciários (v. art. 226, § 3º, CF).
+
+O art. 1.723 Código Civil conceitua a união estável como a convivência pública, contínua e duradoura, estabelecida com o objetivo de constituição de família entre pessoas não impedidas de casar. Ou seja, no caso de haver impedimentos ao casamento (art. 1.521 do Código Civil), descabe falar em união estável, mas, como se verá adiante, essa regra é flexibilizada no caso de pessoas casadas que estejam separadas de fato.
+
+A comprovação da união estável exige, desde 2019 (Lei 13.846),"início de prova material" relativa aos últimos 24 meses anteriores ao fato gerador do benefício previdenciário (óbito ou recolhimento à prisão), não admitida a prova exclusivamente testemunhal, exceto força maior e caso fortuito (art. 16, § 5º, LBPS). Dessa forma, encontra-se superada a jurisprudência da TNU, consignada em súmula: Súmula 63 TNU. A comprovação de união estável para efeito de concessão de pensão por morte prescinde de início de prova material. Para a comprovação do vínculo e da dependência econômica (não só em caso de união estável, mas em qualquer situação na qual essa prova seja exigida), o Regulamento da Previdência Social exige ao menos dois documentos entre aqueles elencados exemplificativamente no § 3º de seu art. 22[^1].
+
+[^1]: Art. 22. (...).
+
+::: callout-note
+Para fatos geradores anteriores a 18/06/2019 não se exige início de prova material (Parecer Referencial n.º 16/2019 (NUP 00407.019673/2018-06).
+:::
+
+Frise-se: dizer que a prova da união estável deve remontar aos últimos 24 meses anteriores ao fato gerador não é o mesmo que dizer que a união estável deve durar 24 meses para que possa produzir efeitos previdenciários. A união estável existe a partir do primeiro dia em que se configura "a convivência pública, contínua e duradoura, estabelecida com o objetivo de constituição de família entre pessoas não impedidas de casar." O que exige a Lei é que a prova dessa convivência seja recente (relativa aos últimos 24 meses) e não remota.
+
+Importa repisar que a dependência econômica do companheiro é sempre presumida. A prova requerida pela lei é a prova da própria união estável, da qual se infere a dependência econômica, pois se trata de dependente de primeira classe.
+
+> A TNU (Tema 226) fixou a tese de que A dependência econômica do cônjuge ou do companheiro relacionados no [inciso I do art. 16](https://go.vlex.com/vid/365270849/node/16.1?fbt=webapp_preview&addon_version=6.5) da [Lei 8.213/91](https://go.vlex.com/vid/365270849?fbt=webapp_preview&addon_version=6.5), em atenção à presunção disposta no §4º do mesmo dispositivo legal, é absoluta.
+>
+> in 128/2022 (§ 1º): o inss não reconhece a união estável quando um ou ambos os companheiros é menor de 16.
+
+Acerca da condição de dependente do cônjuge e do(a) companheiro(a) cabe fazer menção a algumas situação específicas.
+
+1.1.1 Cônjuge divorciado ou separado judicialmente ou de fato que ainda dependia economicamente do segurado
+
+A pessoa divorciada, separada judicialmente, ou mesmo a separada de fato do segurado ainda manterá a relação de dependência previdenciária se receber pensão alimentícia (art. 76, § 2º, LBPS).
+
+Em verdade, a jurisprudência entende que, mesmo se não houver prestação alimentícia, pode ser reconhecida a dependência econômica do antigo cônjuge em relação ao segurado, o que deve ser comprovado por outros elementos (art. 22, § 2º do RPS):
+
+Súm. 336 STJ. O ex-cônjuge que renunciou aos alimentos, mas veio a depender economicamente do segurado até a data do óbito terá direito à pensão por morte.
+
+1.1.2 Companheiro(a) do segurado separado de fato
+
+Em relação às pessoas casadas, a jurisprudência e o INSS reconhecem a possibilidade de a pessoa separada de fato manter nova união estável, bem como os direitos previdenciários do(a) novo(a) companheiro(a).
+
+Trata-se da hipótese em que alguém casado deixa de conviver com seu cônjuge e passa a manter convivência pública com outra pessoa não impedida de casar ou também separada de fato.
+
+Neste caso, é possível que o antigo cônjuge ainda dependa economicamente do segurado, caso em que a jurisprudência do STJ admite o rateio da pensão entre a(o) viúvo(a) e a(o) companheiro(a).
+
+1.1.3 Concubino(a) do segurado
+
+Trata-se da hipótese em que o segurado casado passa a manter uma relação duradoura, mas velada, com outra pessoa. Neste caso, o STF já se manifestou pela impossibilidade do rateio.
+
+Tese 526 de repercussão geral (j. em 03/08/2021). É incompatível com a Constituição Federal o reconhecimento de direitos previdenciários (pensão por morte) à pessoa que manteve, durante longo período e com aparência familiar, união com outra casada, porquanto o concubinato não se equipara, para fins de proteção estatal, às uniões afetivas resultantes do casamento e da união estável. 1.1.4 Cônjuge ou companheiro(a) de mesmo sexo do segurado
+
+São atualmente reconhecidas pelo INSS, em atenção à evolução jurisprudencial sobre o tema as uniões homoafetivas. A Portaria MPS n.º 513/2010 estabelece que que "no âmbito do Regime Geral de Previdência Social - RGPS, os dispositivos da Lei nº 8.213, de 24 de julho de 1991, que tratam de dependentes para fins previdenciários devem ser interpretados de forma a abranger a união estável entre pessoas do mesmo sexo."
+
+> STF (tema 529). não reconhecimento para fins previdenciários. Uniões paralelas.
+>
+> IN 128/2022 (art. 178, § 5º). Será reconhecida, para fins previdenciários, a união estável entre um segurado indígena e mais de um(a) companheiro(a), em regime de poligamia ou poliandria devidamente comprovado junto à FUNAI.
+
+1.2 Filhos
+
+São também dependentes de primeira classe os filhos do segurado, não emancipados, menores de 21 anos, os filhos inválidos e aqueles que tenham deficiência intelectual ou mental, ou ainda deficiência (física) grave.
+
+Há alguns casos que merecem consideração especial.
+
+> O STJ possui precedentes no sentido de que a dependência econômica do filho maior inválido é relativa (REsp 1.567.171, j. em 07/05/2019. Na mema linha, o tema 114/TNU.
+>
+> O filiho não perde a condição pela união estável, mas somente pelo casamento (art. 181, § 3º, da IN 128/2022, a.
+>
+> Considerando a ausência de expressa definção quanto a economia própria, está prejudicada a aplicação da perda da qualidade de segurado ao filho ou irmão... art. 181, § 9º, in 128 (mais favorável ao segurado).
+
+> ARt. 23 da EC 103/2019: dependente inválido ou com deficiência intelectual ou mental ou def. grave: pode ser reconhecida antes do óbito.
+
+1.2.1 Filho que tenha entre 21 e 24 anos e que seja estudante universitário
+
+Havia uma tese recorrente sobre a manutenção da qualidade de dependente dos filhos universitários até os 24 anos. A tese baseava-se na analogia com a dependência para fins de imposto de renda, que pode ser estendida até essa idade. Porém, esse argumento foi rechaçado pelo STJ (REsp repetivivo 1.369.832, j. em 12/06/2013), bem como pela TNU: Súmula 37 TNU. A pensão por morte, devida ao filho até os 21 anos de idade, não se prorroga pela pendência do curso universitário.
+
+1.2.2 Filho menor de 21 anos que cola grau em curso superior
+
+Apesar de a colação de grau em curso superior ser uma das causas de emancipação, o Regulamento da Previdência Social expressamente estabelece que esse evento não extingue a qualidade de dependente (art. 17).
+
+É irrelevante a emancipação durante o recebimento de benefício de pensão por morte, que será mantida até o limite etário (art. 77, § 2º, II, LBPS).
+
+1.2.3 Filho que atinge o limite etário ou emancipado que, após esses eventos, mas antes do fato gerador do benefício, fica inválido ou deficiente.
+
+De acordo com o Regulamento da Previdência Social, o filho emancipado ou que ultrapassa o limite etário (21 anos) não recupera a qualidade de dependente nem mesmo se ficar inválido ou deficiente[^2]. Porém, essa restrição não possui base legal. Por isso, a jurisprudência tem reconhecido que a invalidez ou deficiência ocorridas após os 21 anos, mas antes do óbito do segurado gera direito à pensão por morte, desde que comprovada a dependência econômica (v. Pedido de Uniformização de Interpretação de Lei Federal n.º 5092432-53.2014.4.7100 TNU).
+
+[^2]: RPS.
+
+O INSS foi vencido em sede de ação civil pública sobre a matéria e editou a Portaria Conjunta DIRBEN/PFE-INSS n.º 4, de 5 de março de 2020, que assim estabelece:
+
+O DIRETOR DE BENEFÍCIOS e o PROCURADOR-GERAL DA PROCURADORIA FEDERAL ESPECIALIZADA DO INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, no uso das atribuições que lhe confere o Decreto nº 9.746, de 8 de abril de 2019, e considerando o contido no Processo nº 00417.050538/2018-19, resolvem: Art. 1º Comunicar para cumprimento a decisão judicial proferida na Ação Civil Pública-ACP nº 0059826-86.2010.4.01.3800/MG, determinando ao INSS que reconheça, para fins de concessão de pensão por morte, a dependência do filho inválido ou do irmão inválido, quando a invalidez tenha se manifestado após a maioridade ou emancipação, mas até a data do óbito do segurado, desde que atendidos os demais requisitos da lei. Art. 2º A determinação judicial a que se refere o artigo 1º produz efeitos para benefícios com Data de Entrada de Requerimento-DER a partir de 19/08/2009 e alcança todo o território nacional. Art. 3º Para os requerimentos enquadrados na decisão judicial, não mais se aplicará o disposto no art. 17, inciso III, alíneas "a" e "e" do Decreto nº 3048, de 6 de maio de 1999, cabendo a concessão de pensão por morte previdenciária (B/21) ou pensão por morte por acidente de trabalho (B/93) sempre que a invalidez do filho ou irmão for anterior ao óbito do instituidor, mesmo que posterior aos 21 (vinte e um) anos ou a eventual causa de emancipação. Art. 4º O disposto no artigo 3º se aplica apenas aos requerimentos de pensão por morte, não se estendendo aos pedidos de auxílio-reclusão ou salário-família. Art. 5º Quando se tratar de dependente irmão inválido, caberá a comprovação da dependência econômica, além da observância de que a existência de dependente filho inválido exclui o direito à pensão por morte de dependente irmão inválido, conforme o disposto no art. 16, § 1º e § 4º, da Lei nº 8.213/1991. Art. 6º Os demais requisitos para direito ao benefício de pensão por morte deverão ser observados, inclusive os referentes aos segurados na data do óbito. Art. 7º Para os requerimentos indeferidos, cuja DER seja a partir de 19/08/2009, caberá reanálise mediante requerimento de revisão a pedido dos interessados. Art. 8º O Sistema Prisma será adequado para permitir a concessão dos benefícios alcançados pela determinação judicial proferida na ACP nº 0059826-86.2010.4.01.3800/MG. Art. 9º Os requerimentos realizados de acordo com as orientações expressas nesta Portaria devem ter o tipo de benefício "001" (ação civil pública), informando o número do processo 00598268620104013800, sem pontos, hífen, barra e UF, e serem decididos com despacho normal. Art. 10. Revogam-se o Memorando-Circular Conjunto nº 6/DIRBEN/PFE/INSS, de 10 fevereiro de 2012, o Memorando-Circular Conjunto nº 4/DIRBEN/PFE/INSS, de 19 de fevereiro de 2013 e o Memorando-Circular Conjunto nº 13 /DIRBEN/PFE/INSS, de 11 de abril de 2013. Art. 11. Esta Portaria entra em vigor na data de sua publicação. 1.2.4 Enteado e menor sob tutela
+
+Os enteados e menores tutelados pelo segurado são equiparados a filhos, desde que não sejam emancipados, sejam menores de 21 anos, ou inválidos/deficientes. Serão dependentes, mediante declaração do segurado e desde que comprovada a dependência econômica (e com o termo de tutela, no caso do menor tutelado), de acordo art. 16, § 2º, da LBPS.
+
+Observe-se que a dependência econômica dos filhos menores de 21 anos ou inválidos/deficientes é presumida, ao contrário da dependência econômica dos enteados e menores sob tutela, que deve ser comprovada.
+
+> O INSS reconhece a aplicabilidade apenas para pensão, e não para auxílio-reclusão, interpretando restritivamente o título judicial.
+
+1.2.5 "Menor sob guarda" do segurado
+
+O "menor sob guarda", ou seja, o menor que não é filho, enteado, tampouco tutelado, mas que depende economicamente do segurado (exemplo: neto, em relação ao avô) foi excluído do rol de dependentes pela Lei 8.528/97.
+
+Por sua vez, a jurisprudência do STJ (Tema 732 repetitivo) garantiu o direito à concessão do benefício de pensão por morte do mantenedor, desde que comprovada a dependência econômica. O menor sob guarda tem direito à concessão do benefício de pensão por morte do seu mantenedor, comprovada sua dependência econômica, nos termos do art. 33, § 3º do Estatuto da Criança e do Adolescente, ainda que o óbito do instituidor da pensão seja posterior à vigência da Medida Provisória 1.523/96, reeditada e convertida na Lei 9.528/97. Funda-se essa conclusão na qualidade de lei especial do Estatuto da Criança e do Adolescente (8.069/90), frente à legislação previdenciária. Ressalte-se, no entanto, que, após a edição da Emenda Constitucional n.º 103/2019, não parece mais defensável esse entendimento, haja vista que seu art. 23, § 6º, dispõe o seguinte: Art. 23. (...). § 6º Equiparam-se a filho, para fins de recebimento da pensão por morte, exclusivamente o enteado e o menor tutelado, desde que comprovada a dependência econômica.
+
+> O STF, nas ADIs 4.878 e 5.083, garantiu a proteção ao menor sob guarda no âmbito previdenciário na qualidade de dependente (vincula a Adminstração). Mas o colegiado não se manifestou expressamente sobre a alteração trazida pela EC 103 (observar voto de Fachin). Então, a posição adminstrativa ainda é no sentido de excluir o menor sob guarda a partir da EC 103 (para os óbitos ocorridos a partir de 14/11/2019.
+
+2\. Dependentes de 2ª classe
+
+Em relação aos pais do segurado, deve haver comprovação da dependência econômica, mesmo que não exclusiva, conforme entendimento do antigo TFR: Súmula 229 TFR. A mãe do segurado tem direito à pensão previdenciária, em caso de morte do filho, se provada a dependência econômica, mesmo não exclusiva. É uma situação recorrente no foro aquela em que o pai ou a mãe do segurado falecido requerem a pensão por morte alegando dependência econômica em relação ao de cujus.
+
+Porém, como já vimos, a dependência econômica deve ser comprovada através de início de prova material corroborada por testemunhas.
+
+3.  Dependentes 3ª classe
+4.  
+5.  São dependentes de terceira classe "o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave."
+
+Sobre o irmão inválido ou deficiente, cabem as mesmas observações feitas a respeito dos filhos, com a observação de que os dependentes de terceira classe devem sempre comprovar a dependência econômica.
+
+4.  Inscrição do dependente
+
+De acordo com o art. 17, § 1º da LBPS e o art. 22 do RPS, a inscrição do dependente do segurado será promovida quando do requerimento do benefício a que tiver direito, mediante apresentação dos documentos que elenca. Portanto, não é necessário inscrever os dependentes antes do fato gerador dos benefícios.
+
+5.  Aquisição, manutenção, perda e reaquisição da qualidade de dependente
+
+Como já dito, o dependente mantém vínculo indireto com a Previdência Social. A partir do momento em que se configura o vínculo, adquire-se a qualidade de dependente, que permanece até o momento em que o vínculo se desfaz, ou até o momento em que sobrevém algum fato jurídico ao qual a lei prescreva esse efeito.
+
+É óbvio que, com o óbito de qualquer dependente, há perda dessa qualidade. Os casos adiante são os outros eventos que ensejam essa perda:
+
+> ver art. 17 do RPS.
+
+| Dependente                            | Aquisição                                             | Perda                                                                                                                                                                                                                                                                                                                                                                                        |
+|:-----------------------|:-----------------------|:-----------------------|
+| Cônjuge                               | Casamento                                             | Divórcio ou separação de fato (sem alimentos e sem dependência), anulação do casamento, sentença judicial transitada em julgado.                                                                                                                                                                                                                                                             |
+| Companheiro                           | União estável                                         | Dissolução (sem alimentos e sem dependência econômica)                                                                                                                                                                                                                                                                                                                                       |
+| Filho, irmão, enteado, menor tutelado | Nascimento, casamento/união estável, início da tutela | 21 anos, ou antes: casamento, emprego público efetivo, estabelecimento civil ou comercial com economia própria, emancipação outorgada por instrumento público (+16 anos)                                                                                                                                                                                                                     |
+| Dependentes em geral                  | ----                                                  | \- Cessação da invalidez/deficiência, quando a qualidade de dependente exigir esse requisito; - Condenação criminal transitada em julgado, como autor, coautor ou partícipe de homicídio doloso, ou de tentativa desse crime, cometido contra a pessoa do segurado, ressalvados os absolutamente incapazes e os inimputáveis (art. 17, § 7º, da LBPS, incluído pela Lei nº 13.846, de 2019). |
+
+> suspensão cautelar do art. 77, § 7º, LBPS.
+
+§ 3º Para comprovação do vínculo e da dependência econômica, conforme o caso, deverão ser apresentados, no mínimo, dois documentos, observado o disposto nos § 6º-A e § 8º do art. 16, e poderão ser aceitos, dentre outros: (Redação dada pelo Decreto nº 10.410, de 2020).
+
+I - certidão de nascimento de filho havido em comum;
+
+II - certidão de casamento religioso;
+
+III - declaração do imposto de renda do segurado, em que conste o interessado como seu dependente;
+
+IV - disposições testamentárias;
+
+VI - declaração especial feita perante tabelião;
+
+VII - prova de mesmo domicílio;
+
+VIII - prova de encargos domésticos evidentes e existência de sociedade ou comunhão nos atos da vida civil;
+
+IX - procuração ou fiança reciprocamente outorgada;
+
+X - conta bancária conjunta;
+
+XI - registro em associação de qualquer natureza, onde conste o interessado como dependente do segurado;
+
+XII - anotação constante de ficha ou livro de registro de empregados;
+
+XIII - apólice de seguro da qual conste o segurado como instituidor do seguro e a pessoa interessada como sua beneficiária;
+
+XIV - ficha de tratamento em instituição de assistência médica, da qual conste o segurado como responsável;
+
+XV - escritura de compra e venda de imóvel pelo segurado em nome de dependente;
+
+XVI - declaração de não emancipação do dependente menor de vinte e um anos; ou
+
+XVII - quaisquer outros que possam levar à convicção do fato a comprovar.
+
+Art. 17. A perda da qualidade de dependente ocorre:
+
+(...)
+
+§ 1º O filho, o irmão, o enteado e o menor tutelado, desde que comprovada a dependência econômica dos três últimos, se inválidos ou se tiverem deficiência intelectual, mental ou grave, não perderão a qualidade de dependentes desde que a invalidez ou a deficiência intelectual, mental ou grave tenha ocorrido antes de uma das hipóteses previstas no inciso III do caput.
+
+> DCB da pensão: será o prazo dos alimentos temporários devidos à ex-esposa ou ex-companheira do segurado falecido (art. 76, § 3º, LBPS), salvo outra hipótese de cancelamento anterior.

@@ -1,0 +1,134 @@
+---
+title: Cálculo
+description: |
+    Lei 8.213/91, art. 11. 
+date: "2023-05-22"
+author: 
+  - name: "Igor MENDONÇA"
+draft: true
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/segurados/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "image.jpg"
+---
+
+Cálculo dos benefícios previdenciários
+
+Os artigos 28 a 40 da LBPS tratam da forma de cálculo dos benefícios previdenciários. Existem quatro conceitos básicos que será necessário conhecer para compreender como se calcula o valor de um benefício previdenciário: (i) salário de contribuição; (ii) salário de benefício; (ii) período básico de cálculo e (iv) renda mensal inicial.
+
+Salário de benefício
+
+Salário de benefício é a base de calculo para a renda mensal inicial de alguns benefícios previdenciários: aposentadorias, auxílio por incapacidade temporária (auxílio-doença) e auxílio-acidente. Indiretamente, como veremos, o salário de benefício é também utilizado para o cálculo da pensão por morte. Mas a renda mensal inicial do salário-maternidade e do salário-família não é calculada sobre o salário de benefício (art. 28 da LBPS).
+
+| O salário de benefício é |                                               |                                        |
+|:-----------------------|:-----------------------|:-----------------------|
+| a base de cálculo        | utilizada diretamente para calcular a RMI     | das aposentadorias                     |
+| a base de cálculo        | utilizada diretamente para calcular a RMI     | do auxílio por incapacidade temporária |
+| a base de cálculo        | utilizada diretamente para calcular a RMI     | e do auxílio-acidente                  |
+| a base de cálculo        | e utilizada indiretamente para calcular a RMI | da pensão por morte                    |
+| a base de cálculo        | mas não é utilizado para calcular a RMI       | do salário-maternidade                 |
+| a base de cálculo        | mas não é utilizado para calcular a RMI       | e do salário-família                   |
+
+Desde a Emenda Constitucional n.º 103/2019 e "até que lei discipline o cálculo dos benefícios do RGPS", o salário de benefício equivale à média aritmética simples de todos os salários de contribuição adotados como base de cálculo para as contribuições do segurado ao RGPS, desde a competência julho de 1994 (ou desde o início das contribuições, se posterior àquela competência), atualizados monetariamente (art. 26, caput, da Emenda Constitucional n.º 103/2019). Apesar de o cálculo incluir, atualmente, 100% dos salários de contribuição, poderão ser excluídas da média as contribuições que resultem em redução do valor do benefício, desde que mantido o tempo mínimo de contribuição exigido, vedada a utilização do tempo excluído para qualquer finalidade (art. 26, § 6º, da EC 103/2019). O índice de correção monetária a ser aplicado, mês a mês, sobre os salários de contribuição para o cálculo do salário de benefício é o INPC (Índice Naiconal de Preços ao Consumidor) do IBGE (art. 201, § 3º, da Constituição Federal, c/c o art. 29-B da LBPS). O valor do salário de benefício não poderá ser superior ao valor máximo do salário de contribuição do RGPS, fixado anualmente (art. 26, § 1º, da EC 103/2019) nem inferior ao salário mínimo na data de início do benefício (art. 29, § 2º da LBPS). Pode-se dizer que o salário de benefício é uma grandeza intermediária entre os salários de contribuição e a renda mensal inicial do benefício.
+
+> Histórico
+>
+> art. 202 CF e art. 29 da LBPS. era a média aritmética simples de todos os últimos salários de contribuição dos meses imediatamente anteriores ao do afastamento, ou data do requerimento, até o máximo de 36, apurados em período não superior a 48 meses.
+>
+> Lei 9876/1999: média aritmética simples dos 80% maiores salários de contribuição de todo o período contributivo, multiplicado pelo fator previdenciário, quando fosse aplicável (alargamento do PBC e instituição do FP).
+>
+> O art. 3º da lei 9876/99 criou uma regra de transição - média dos 80% maiores salários-de contribuição do período contributivo a partir de julho de 1994. Ponto central de discussão da revisão da vida toda. Tema 1.102 do STF e 999 STJ. (isso é benéfico para quem contribuições anteriores a 1994.
+>
+> Novidades da EC 103/2019 a respeito de salário-de-benefício:
+>
+> -   possibilidade de mudança por lei superveniente;
+>
+> -   aumento do ppc para 100 dos sc
+>
+> -   status constitucional do limitador em julho de 94.
+>
+> -   média limitada ao valor máximo do sc do rgps
+>
+> -   de 13/11/2019 até 05/05/2022, ausência de divisor mínimo para as aposentadorias.
+>
+> -   proteçaõ do direito adquirido até 13/11/2019.
+>
+> -   Ausência fator previdenciário.
+>
+> Regra de descarte (art. 26, § 6º da EC 103). Opção do segurado, se mais favorável. tese do "milagre da contribuição única". Isso levou o legislador a instituir um divisor mínimo. Lei 14. 331/2022. art. 135-A. Havia um divisor fixo diferente do regramento da lei 9876/199 (que era flexível, de acordo com a data de início do benefício - mínimo de 60% do período decorrido entre 07/94 e a DIB.
+>
+> O valor do auxíli-acidnte integra o salário de contribuição para aposentadoria, porque passou a não ser possível acumulá-lo com aposentadoria. Porém, a IN 128/2022 diz que o auxílio-acidente não é computado se, no PBC, não houver salários de contribuição concomitantes (só auxílio-acidente).
+>
+> TEse 555 STJ: acumulação.
+>
+> NO caso de atividades concomitantes art. 32 da LB (redação da Lei 13.846/2019). soma dos salários de contribuição. Período anterior (antes de 2019): cálculo percentual dos vínculos existentes, quando não preenchidos os requisitos em todos os vínculos.
+>
+> Tema 1070 STJ. Após a lei, soma.
+
+Período básico de cálculo
+
+Período básico de cálculo - PBC é aquele lapso temporal considerado para apuração da média aritmética dos salários de contribuição, cujo valor resultará no salário de benefício do segurado.
+
+Salário de contribuição
+
+Em termos gerais, salário de contribuição é a base de cálculo das contribuições sociais previdenciárias devidas pelos segurados, ou seja, o elemento quantitativo[^1] do fato gerador da obrigação tributária de pagar contribuições sociais previdenciárias imposta a esses segurados. A partir dessa grandeza é que se calcula o montante devido - o quantum debeatur - nos casos previstos em lei. A imprecisão da definição acima (que tentaremos, adiante, suprimir) deriva do fato de que, em certos casos, a cota patronal das contribuições previdenciárias também é calculada sobre o salário de contribuição do empregado, quais sejam (i) a contribuição previdenciária devida pelos empregadores domésticos (art. 24, LCPS); (ii) a contribuição previdenciária devida pelo empregador enquadrado como MEI (microempreendedor individual) que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional (art. 18-C, caput, e §1º, I, da LCPS). Verifica-se, ainda, que os segurados especiais têm sua contribuição "obrigatória" calculada sobre a receita bruta proveniente da comercialização da sua produção (art. 25, caput, LCPS), e não sobre o salário de contribuição, sendo esta uma exceção à regra de que o salário de contribuição é a base de cálculo da contribuição previdenciária do segurado.[^2] Dito isso, pode-se definir, de maneira mais precisa, o salário de contribuição como a base de cálculo sobre a qual incide a alíquota da contribuição social previdenciária: (i) do segurado empregado; (ii) do segurado empregado doméstico; (iii) do trabalhador avulso; (iv) do contribuinte individual; (v) do segurado especial que recolhe, facultativamente, na forma do art. 25, § 1º, da Lei n.º 8.212/91; (vi) do segurado facultativo; (vii) a cota patronal do empregador doméstico e (viii) a cota patronal do empregador enquadrado como MEI (microempreendedor individual) que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional. Na medida em que o fato gerador das contribuições sociais previdenciárias é, grosso modo, a remuneração do trabalho paga, devida ou creditada aos segurados do RGPS, as parcelas recebidas por estes a título indenizatório não compõem, via de regra, o salário de contribuição. As parcelas componentes do salário de contribuição de cada categoria de segurados estão no art. 28 da LCPS:
+
+[^1]: AMARO, Luciano da S. DIREITO TRIBUTÁRIO BRASILEIRO. São Paulo: Editora Saraiva, 2021. *E-book*. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9786555592993>/. Acesso em: 22 abr. 2022. Pág. 116.
+
+[^2]: O segurado especial pode, facultativamente, além da contribuição "obrigatória" de que trata o art. 25, *caput*, da LCPS, recolher contribuições na forma do art. 21 da mesma Lei, ou seja, sobre 20% do salário de contribuição. Porém, a contribuição tratada como "obrigatória" pela Lei de Custeio está dispensada pelo art. 39, I, e parágrafo único da Lei de Benefícios da Previdência Social, para a concessão dos benefícios de aposentadoria por idade ou por invalidez, auxílio-doença, auxílio-reclusão, pensão por morte e salário maternidade *no valor de até um salário mínimo*. Na prática, portanto, só recolherá "facultativamente" sobre o salário de contribuição o segurado especial que pretenda fazer jus a todos os benefícios do regime geral de previdência social, sem o limite do salário mínimo, de acordo com o art. 39, II, da LBPS.
+
+-   *para o empregado e trabalhador avulso*: a remuneração auferida em uma ou mais empresas, assim entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês, destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença normativa;
+
+-   *para o empregado doméstico*: a remuneração registrada na Carteira de Trabalho e Previdência Social, observadas as normas a serem estabelecidas em regulamento para comprovação do vínculo empregatício e do valor da remuneração;
+
+-   *para o contribuinte individual*: a remuneração auferida em uma ou mais empresas ou pelo exercício de sua atividade por conta própria, durante o mês, observado o limite máximo a que se refere o § 5º;
+
+-   *para o segurado facultativo*: o valor por ele declarado, observado o limite máximo a que se refere o § 5º.
+
+Ainda, para o segurado especial que recolhe, facultativamente, na forma do art. 25, § 1º, da Lei n.º 8.212/91, o salário de contribuição será declarado por este.
+
+Renda Mensal Inicial
+
+> pode ser superior ao teto do SC em razão do acréscimo de 25% (auxílio-acompanhante). Também a ADI 1.946 (seguradas empregadas e avulsas, respeitado o teto do STF).
+>
+> Exceções ao piso: benefícios por totalização (art. 35, § 1º, do RPS): benefícios decorrentes de acordos internacionais; auxílio-acidente e salário-família, pois não são substitutivos da renda; auxílio por incapacidade temporária em atividades concoritantes (art. 73, § 4º, RPS), com afastamento em um só vinculo.
+
+A renda mensal inicial será o valor efetivamente pago ao beneficiário na data de início do benefício (DIB). A RMI será sempre uma fração ou a totalidade do salário de benefício, calculado na forma acima. As regras atinentes a cada benefício previdenciário preveem qual será o valor da RMI paga ao beneficiário. Como exemplo, pode-se citar o art. 61 da LBPS, que determina a forma de cálculo da RMI do benefício de auxílio-doença (auxílio por incapacidade temporária), estipulando-a em 91% do salário de benefício. Um exemplo prático poderá ajudar na fixação dos conceitos acima.
+
+José Carlos, empregado de uma fábrica, que conta com 100 contribuições mensais, sofreu um acidente que o deixou temporariamente impedido de exercer seu trabalho por mais de 15 (quinze) dias. Por isso, requereu ao INSS o benefício de auxílio-doença, que foi deferido pela Autarquia, após perícia médica. Como se calcula o valor do benefício?
+
+De acordo com as regras vistas acima, podemos formular um passo-a-passo (obviamente, na concessão administrativa, essas operações são feitas pelos sistemas do INSS):
+
+1.  Identificar os salários de contribuição de José Carlos durante o Período Básico de Cálculo (PBC);
+2.  Atualizar todos os salários de contribuição, mês a mês, pelo INPC;
+3.  Somar todos os salários de contribuição corrigidos;
+4.  Dividir pelo número de meses do PBC, para encontrar o SB;
+5.  Calcular 91/% do SB para encontrar a RMI;
+6.  Se for inferior ao mínimo, a RMI será de valor mínimo. Se for superior ao teto, a RMI será igual ao teto.
+
+Além disso, no caso específico, a RMI não pode exceder a média aritmética simples dos 12 últimos salários de contribuição (trata-se de uma regra aplicável à concessão do auxílio por incapacidade temporária, estabelecida pelo art. 29, § 10, LBPS). Transpondo esses cálculos para uma planilha e atribuindo valores arbitrários aos salários de contribuição, teríamos algo semelhante a isto:
+
+| Mês de competência da contribuição                                                                                 | Salário de contribuição (R$) | Salários de contribuição corrigidos pelo INPC (R$) |              |
+|:-----------------------|:-----------------------|:-----------------------|
+| 01                                                                                                                 | 2.500,00                                                                          | 4.156,87     |
+| 02                                                                                                                 | 2.500,00                                                                          | 4.122,44     |
+| 03                                                                                                                 | 2.500,00                                                                          | 4.007,02     |
+| ...                                                                                                                | ...                                                                               |              |
+| 100                                                                                                                | 5.000,00                                                                          | 5.000,00     |
+| Soma dos salários de contribuição corrigidos                                                                       |                                                                                   | *470.258,77* |
+| *SB = 470.258,77 / 100 = R\$ 4.702,25* *RMI (auxílio por incapacidade temporária = 91% do SB = RMI = R\$ 4.279,04* |                                                                                   |              |
+
+Observações
+
+No período básico de cálculo, pode ocorrer de o segurado ter gozado benefícios por incapacidade, durante os quais não há pagamento de contribuições previdenciárias. Nessa hipótese, o art. 29, § 5º, da LBPS determina que se conte esse período, considerando-se como salário de contribuição, o salário de benefício que serviu de base para o cálculo da renda mensal, reajustado nas mesmas épocas e bases dos benefícios em geral, não podendo ser inferior ao valor de 1 (um) salário mínimo. No caso do segurado especial que não contribui facultativamente para o RGPS, o salário de benefício será de um salário mínimo, de acordo com o art. 29, § 6º, da LBPS. Por sua vez, os arts. 35 e 36 da LBPS estabelecem que o segurado empregado, inclusive o doméstico, e o trabalhador avulso que tenham cumprido todas as condições para a concessão do benefício pleiteado, mas não possam comprovar o valor de seus salários de contribuição no período básico de cálculo, será concedido o benefício de valor mínimo, devendo esta renda ser recalculada quando da apresentação de prova dos salários de contribuição. Deve-se lembrar que as contribuições desses segurados devem ser arrecadadas e recolhidas pelos empregadores e tomadores de serviço, não se podendo indeferir benefícios previdenciários em razão da falta de recolhimento.
+
+Reajustamento
+
+O reajuste anual dos benefícios em manutenção é feito na mesma data do reajuste do salário mínimo. O índice a ser utilizado para o reajuste dos benefícios é o INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, pro rata, de acordo com a data de início ou último reajuste de cada benefício (art. 41-A da LBPS). Como se vê, não existe indexação do reajuste dos benefício ao percentual de reajuste do salário mínimo. Por isso, pode ocorrer eventualmente que o salário mínimo tenham aumento real, enquanto os benefícios previdenciários terão apenas atualização monetária (já que o INPC é um índice inflacionário que mede a desvalorização da moeda). No entanto, como o valor dos benefícios não pode ser inferior ao salário mínimo, aqueles que estiverem em manutenção e forem de valor equivalente ao salário mínimo deverão acompanhar seu valor. Para esta hipótese, determina o § 6º do art. 41-A que o referido aumento deverá ser compensado no momento da aplicação do disposto no caput do art. 41-A, de acordo com normas a serem baixadas pelo Ministério da Previdência Social.
+
+Data de pagamento
+
+O primeiro pagamento do benefício será efetuado até quarenta e cinco dias após a data da apresentação, pelo segurado, da documentação necessária a sua concessão (§ 5º do art. 41-A da LBPS). Os benefícios com renda mensal superior a um salário mínimo serão pagos do primeiro ao quinto dia útil do mês subsequente ao de sua competência, observada a distribuição proporcional do número de beneficiários por dia de pagamento. (§ 2º). Já os benefícios com renda mensal no valor de até um salário mínimo serão pagos no período compreendido entre o quinto dia útil que anteceder o final do mês de sua competência e o quinto dia útil do mês subseqüente, observada a distribuição proporcional dos beneficiários por dia de pagamento (§ 3º). Para efeitos de fixação da data de pagamento, considera-se dia útil aquele de expediente bancário com horário normal de atendimento (§ 4º).

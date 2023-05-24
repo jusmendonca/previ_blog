@@ -31,5 +31,26 @@
   },
   "drafts/pensao-por-morte/pensao-por-morte.qmd": {
     "pensao-por-morte.html": "d0f02d41"
+  },
+  "posts/aposentadoria-rural/aposentadoria-rural.qmd": {
+    "aposentadoria-rural.html": "049d103d"
+  },
+  "posts/calculo/calculo.qmd": {
+    "calculo.html": "c80d6eaa"
+  },
+  "posts/carencia/carencia.qmd": {
+    "carencia.html": "c4766c5e"
+  },
+  "posts/dependentes/dependentes.qmd": {
+    "dependentes.html": "0216d483"
+  },
+  "posts/filiacao-inscrição/filiacao-inscricao.qmd": {
+    "filiacao-inscricao.html": "c37f47b5"
+  },
+  "posts/manutencao-segurado/manutencao-segurado.qmd": {
+    "manutencao-segurado.html": "15b54fa6"
+  },
+  "posts/segurados/segurados.qmd": {
+    "segurados.html": "30a29bcf"
   }
 }

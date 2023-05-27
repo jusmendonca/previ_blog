@@ -4,7 +4,6 @@ description: Lei 8.213/91, arts. 74-78; Dec. 3.048/99, arts. 105-115; IN INSS/PR
 date: "2023-05-23"
 author: 
   - name: "Igor MENDONÇA"
-draft: false
 citation: 
   url: https://jusmendonca.quarto.pub/previ_blog/posts/pensao-por-morte/
   language: portuguese
@@ -152,10 +151,17 @@ São igualmente acumuláveis as pensões decorrentes das atividades militares de
 Nas hipóteses de acumulações tratadas pelo art. 24, § 1º, da EC 103/2019, é assegurada a percepção integral do benefício mais vantajoso e de um percentual do benefício menos vantajoso, acumulado de acordo com as seguintes faixas:
 
 | Faixa de valores do benefício menos vantajoso            | Percentual a ser pago ao segurado |
-|----------------------------------------------------------|-----------------------------------|
+|--------------------------------------------|----------------------------|
 | \> que um salário-mínimo até dois salários-mínimos       | 60%                               |
 | \> que dois salários-mínimos até três salários-mínimos   | 40%                               |
 | \> que três salários-mínimos até quatro salários-mínimos | 20%                               |
 | \> que quatro salários-mínimos                           | 10%                               |
 
 A aplicação do disposto no acima poderá ser revista a qualquer tempo, a pedido do interessado, em razão de alteração de algum dos benefícios (§ 3º). As restrições previstas acima não serão aplicadas se o direito aos benefícios houver sido adquirido antes da data de entrada em vigor da EC 103/2019 (13/11/2019).
+
+## Recursos complementares
+
+Vídeos:
+
+1.  [#AGUExplica "Pensão por Morte".](https://youtu.be/m50yZIXjdNM "#AGU Explica "Pensão por Morte".")
+2.  [#AGUExplica "Pensão por Morte na Nova Previdência".](https://youtu.be/7TqqSodgQ1o "#AGU Explica "Pensão por Morte na Nova Previdência".")

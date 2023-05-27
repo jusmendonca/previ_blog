@@ -6,6 +6,7 @@ date: "2023-05-22"
 author: 
   - name: "Igor MENDONÇA"
 draft: true
+number-sections: true
 citation: 
   url: https://jusmendonca.quarto.pub/previ_blog/posts/segurados/
   language: portuguese
@@ -35,7 +36,7 @@ d\) trabalhador avulso;
 
 e\) segurado especial.
 
-### Segurados obrigatórios urbanos e rurais
+### Segurados obrigatórios urbanos e rurais {#sec-urbanos-e-rurais}
 
 Quase todas as espécies de segurados obrigatórios podem desempenhar atividades urbanas ou rurais. Existem, dessa maneira, empregados urbanos e rurais, contribuintes individuais urbanos e rurais, trabalhadores avulsos urbanos e rurais. O empregado doméstico, porém exercerá sempre uma atividade de natureza urbana, enquanto o segurado especial exercerá sempre uma atividade rural.
 

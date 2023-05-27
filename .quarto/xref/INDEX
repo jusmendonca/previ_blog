@@ -52,5 +52,17 @@
   },
   "posts/segurados/segurados.qmd": {
     "segurados.html": "30a29bcf"
+  },
+  "posts/aposentadorias-voluntarias/aposentadorias-voluntarias.qmd": {
+    "aposentadorias-voluntarias.html": "eb89640d"
+  },
+  "posts/aposentadorias-voluntarias/aposentarias-programadas.md/aposentarias-programadas.md": {
+    "aposentarias-programadas.html": "683ead1f"
+  },
+  "posts/auxilio-acidente/auxilio-acidente.md": {
+    "auxilio-acidente.html": "406bf09d"
+  },
+  "posts/custeio/custeio.qmd": {
+    "custeio.html": "6f4d0083"
   }
 }

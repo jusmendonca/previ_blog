@@ -15,16 +15,15 @@ bibliography: references.bib
 google-scholar: true
 image: "image.jpg"
 ---
-
 ## Introdução
 
-Os beneficiários do Regime Geral de Previdência Social são divididos em dois grupos: os **segurados** e os **dependentes**. Neste capítulo, estudaremos as classes de segurados. Iniciaremos pelos segurados obrigatórios do RGPS.
+Os beneficiários do Regime Geral de Previdência Social dividem-se em dois grupos: *segurados* e *dependentes*. Neste capítulo, estudaremos as espécies de segurados do RGPS.
 
 ## Segurados obrigatórios
 
-Toda pessoa física que exerça atividade laborativa remunerada lícita será segurado obrigatório da previdência social. Se referida pessoa não estiver vinculada a regime previdenciário próprio, estará obrigatoriamente vinculada ao regime geral de previdência social (RGPS).
+Toda pessoa física que exerça atividade laborativa remunerada lícita será segurado obrigatório da previdência social e estará sujeito a algum regime previdenciário. Se referida pessoa não estiver vinculada a algum regime previdenciário próprio, estará obrigatoriamente vinculada ao Regime Geral de Previdência Social (RGPS).
 
-A legislação previdenciária estabelece as seguintes espécies de segurados obrigatórios (art. 11 da LBPS):
+O rol de segurados obrigatórios do RGPS encontra-se no art. 11 da Lei 8.213/91, que elenca as seguintes espécies:
 
 a\) empregado;
 
@@ -36,25 +35,13 @@ d\) trabalhador avulso;
 
 e\) segurado especial.
 
-### Segurados obrigatórios urbanos e rurais {#sec-urbanos-e-rurais}
-
-Quase todas as espécies de segurados obrigatórios podem desempenhar atividades urbanas ou rurais. Existem, dessa maneira, empregados urbanos e rurais, contribuintes individuais urbanos e rurais, trabalhadores avulsos urbanos e rurais. O empregado doméstico, porém exercerá sempre uma atividade de natureza urbana, enquanto o segurado especial exercerá sempre uma atividade rural.
-
-Embora não esteja assim tão explícita na legislação, veremos que essa divisão entre os segurados obrigatórios é relevente para efeito de concessão de benefícios previdenciários.
-
-A caracterização da condição do trabalhador como um segurado urbano ou rural não depende da atividade do seu eventual empregador ou tomador de serviços, e sim das atividades efetivamente desenvolvidas. Por exemplo, o trabalhador de uma fazenda que tenha a função de chefiar equipes, e não trabalhe efetivamente com a lavoura ou pecuária, será, para todos os efeitos, um empregado urbano. Esse critério é reconhecido tanto pela **Instrução Normativa INSS n.º 128/2022** (art. 6º, *caput*) quanto pela jurisprudência da TNU, que firmou a seguinte tese:
-
-> **Tese firmada no Tema 115/TNU**. Não é ramo de exploração de atividade econômica do empregador que define a natureza do trabalho desempenhado pelo empregado, se rural ou urbano, para fins de concessão do benefício previdenciário de aposentadoria
-
-Adiante, trataremos de cada uma das categorias elencadas.
-
 ### Empregado
 
-O conceito trabalhista de empregado é estabelecido pelo art. 3º da Consolidação das Leis do Trabalho, nos seguintes termos:
+Quando se trata de segurado empregado, é natural que façamos remissão ao conceito estabelecido pela Consolidação das Leis do Trabalho (art. 3º): 
 
 > **CLT. Art. 3º.** Considera-se empregado toda pessoa física que prestar serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário.
 
-Contudo, o conceito de empregado adotado pela legislação previdenciária é mais amplo do que o conceito celetista e abarca (art. 11, I, da Lei 8.213/91):
+Contudo, o conceito previdenciário de empregado não corresponde exatamente ao conceito trabalhista. De acordo com o art. 11, I, da Lei 8.213/91, é segurado empregado:
 
 a\) aquele que presta serviço de natureza urbana ou rural à empresa, em caráter não eventual, sob sua subordinação e mediante remuneração, inclusive como diretor empregado;
 
@@ -72,15 +59,21 @@ g\) o servidor público ocupante de cargo em comissão, sem vínculo efetivo com
 
 h\) o exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social;
 
-i\) o empregado de organismo oficial internacional ou estrangeiro em funcionamento no Brasil, salvo quando coberto por regime próprio de previdência social. São dignas de comentários as alíneas "g" e "h" acima. O "servidor público ocupante de cargo em comissão, sem vínculo efetivo com a União, Autarquias, inclusive em regime especial, e Fundações Públicas Federais" é, para efeitos funcionais, um servidor estatutário. Aplica-se a ele, no que couber, a Lei 8.112/90 (que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais). Seu vínculo estatal, portanto, não é celetista; ele não é contratado, mas nomeado para ocupar referido cargo. A despeito disso, seu regime previdenciário é idêntico ao dos trabalhadores celetistas, qual seja, o regime geral de previdência social. O "exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social" é um agente político. Seu regime jurídico é aquele previsto pela Constituição Federal, pela Constituição do Estado-membro e pela Lei Orgânica do Município ou do DF. No entanto, caso o parlamentar não esteja vinculado a regime próprio, estará obrigatoriamente vinculado ao RGPS, na qualidade de segurado empregado, apesar de --- obviamente --- não se tratar de celetista.
+i\) o empregado de organismo oficial internacional ou estrangeiro em funcionamento no Brasil, salvo quando coberto por regime próprio de previdência social. 
+
+Diversas das figuradas elencadas são, de fato, empregados celetistas. Mas merecem comentário as alíneas "g" e "h" acima, que são situações em que o segurado, mesmo estando ligado à Administração Pública por um vínculo de natureza estatutária, submete-se ao mesmo regime previdenciário dos trabalhadores celetistas.
+
+O "servidor público ocupante de cargo em comissão, sem vínculo efetivo com a União, Autarquias, inclusive em regime especial, e Fundações Públicas Federais" é, para efeitos funcionais, um *servidor público estatutário*. Aplica-se a ele, no que couber, a Lei 8.112/90 (que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais). Seu vínculo estatal, portanto, não é celetista; ele não é *contratado*, mas *nomeado* para ocupar referido cargo. Porém, seu regime previdenciário será o RGPS. 
+
+O "exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social" é um *agente político*. Seu regime jurídico é aquele previsto pela Constituição Federal, pela Constituição do Estado-membro e pela Lei Orgânica do Município ou do DF, conforme o caso. No entanto, caso o agente político não esteja vinculado a regime próprio, estará obrigatoriamente vinculado ao RGPS, na qualidade de segurado empregado. Esse é um dos casos em que se vê que o RGPS funciona como um regime previdenciário subsidiário.
 
 #### Empregado intermitente
 
-Uma das novidades trazidas pela reforma trabalhista de 2017 foi a figura do **empregado intermitente** (§ 3º do art. 443 da CLT).
+Uma das novidades trazidas pela reforma trabalhista de 2017 foi a figura do *empregado intermitente*:
 
 > **CLT. Art. 443, § 3º.** Considera-se como intermitente o contrato de trabalho no qual a prestação de serviços, com subordinação, não é contínua, ocorrendo com alternância de períodos de prestação de serviços e de inatividade, determinados em horas, dias ou meses, independentemente do tipo de atividade do empregado e do empregador, exceto para os aeronautas, regidos por legislação própria.
 
-Uma vez que se trata de espécie de empregado que alterna períodos de trabalho com períodos de de inatividade, torna-se uma situação importante saber a amplitude da proteção previdenciária desse trabalhador.
+Uma vez que se trata de espécie de empregado que alterna períodos de trabalho com períodos de de inatividade, torna-se um importante saber a amplitude da proteção previdenciária desse trabalhador.
 
 Na medida em que o trabalhador intermitente não possui garantia de pagamento de remuneração mínima mensal, tampouco de que terá salário de contribuição em todos os meses de vigência do contrato de trabalho, cabe indagar qual é a extensão do seu direito à cobertura previdenciária. Lazzari e Castro[^1] (Direito Previdenciário, ed. 2021) entendem que o trabalhador intermitente não perde a qualidade de segurado pelo fato de deixar de verter contribuições previdenciárias. Porém, seu tempo de contribuição ficará limitado ao número de competências adimplidas a partir do valor mínimo (ou seja, de meses com contribuições recolhidas), inclusive para efeito de carência. Nada impede, porém, que o trabalhador intermitente complemente as contribuições mínimas mensais ou as agrupe, nos termos do § 14 do art. 195 da Constituição Federal, incluído pela EC 103/2019: § 14. O segurado somente terá reconhecida como tempo de contribuição ao Regime Geral de Previdência Social a competência cuja contribuição seja igual ou superior à contribuição mínima mensal exigida para sua categoria, assegurado o agrupamento de contribuições. Empregado doméstico
 
@@ -267,3 +260,15 @@ Exemplificativamente (art. 11 do RPS), pode ser segurado facultativo do RGPS a p
 Do mesmo modo, o servidor público em gozo de afastamento sem remuneração pode inscrever-se como facultativo, desde que não seja permitida a manutenção do vínculo com seu regime próprio. Também pode ser segurada facultativa a pessoas que tem seu contrato de trabalho suspenso, também sem remuneração (e, por conseguinte, sem contribuição).
 
 Para o segurado facultativo, a filiação depende da prévia inscrição somada ao primeiro recolhimento (v. capítulo sobre **Filiação e Inscrição**).
+
+### Segurados obrigatórios urbanos e rurais {#sec-urbanos-e-rurais}
+
+Quase todas as espécies de segurados obrigatórios podem desempenhar atividades urbanas ou rurais. Existem, dessa maneira, empregados urbanos e rurais, contribuintes individuais urbanos e rurais, trabalhadores avulsos urbanos e rurais. O empregado doméstico, porém exercerá sempre uma atividade de natureza urbana, enquanto o segurado especial exercerá sempre uma atividade rural.
+
+Embora não esteja assim tão explícita na legislação, veremos que essa divisão entre os segurados obrigatórios é relevente para efeito de concessão de benefícios previdenciários.
+
+A caracterização da condição do trabalhador como um segurado urbano ou rural não depende da atividade do seu eventual empregador ou tomador de serviços, e sim das atividades efetivamente desenvolvidas. Por exemplo, o trabalhador de uma fazenda que tenha a função de chefiar equipes, e não trabalhe efetivamente com a lavoura ou pecuária, será, para todos os efeitos, um empregado urbano. Esse critério é reconhecido tanto pela **Instrução Normativa INSS n.º 128/2022** (art. 6º, *caput*) quanto pela jurisprudência da TNU, que firmou a seguinte tese:
+
+> **Tese firmada no Tema 115/TNU**. Não é ramo de exploração de atividade econômica do empregador que define a natureza do trabalho desempenhado pelo empregado, se rural ou urbano, para fins de concessão do benefício previdenciário de aposentadoria
+
+Adiante, trataremos de cada uma das categorias elencadas.

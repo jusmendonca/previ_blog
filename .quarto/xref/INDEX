@@ -64,5 +64,8 @@
   },
   "posts/custeio/custeio.qmd": {
     "custeio.html": "6f4d0083"
+  },
+  "posts/1-introducao/introducao.qmd": {
+    "introducao.html": "fd35cec0"
   }
 }

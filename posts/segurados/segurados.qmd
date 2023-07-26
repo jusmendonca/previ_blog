@@ -15,6 +15,7 @@ bibliography: references.bib
 google-scholar: true
 image: "image.jpg"
 ---
+
 ## Introdução
 
 Os beneficiários do Regime Geral de Previdência Social dividem-se em dois grupos: *segurados* e *dependentes*. Neste capítulo, estudaremos as espécies de segurados do RGPS.
@@ -37,7 +38,7 @@ e\) segurado especial.
 
 ### Empregado
 
-Quando se trata de segurado empregado, é natural que façamos remissão ao conceito estabelecido pela Consolidação das Leis do Trabalho (art. 3º): 
+Quando se trata de segurado empregado, é natural que façamos remissão ao conceito estabelecido pela Consolidação das Leis do Trabalho (art. 3º):
 
 > **CLT. Art. 3º.** Considera-se empregado toda pessoa física que prestar serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário.
 
@@ -59,11 +60,11 @@ g\) o servidor público ocupante de cargo em comissão, sem vínculo efetivo com
 
 h\) o exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social;
 
-i\) o empregado de organismo oficial internacional ou estrangeiro em funcionamento no Brasil, salvo quando coberto por regime próprio de previdência social. 
+i\) o empregado de organismo oficial internacional ou estrangeiro em funcionamento no Brasil, salvo quando coberto por regime próprio de previdência social.
 
 Diversas das figuradas elencadas são, de fato, empregados celetistas. Mas merecem comentário as alíneas "g" e "h" acima, que são situações em que o segurado, mesmo estando ligado à Administração Pública por um vínculo de natureza estatutária, submete-se ao mesmo regime previdenciário dos trabalhadores celetistas.
 
-O "servidor público ocupante de cargo em comissão, sem vínculo efetivo com a União, Autarquias, inclusive em regime especial, e Fundações Públicas Federais" é, para efeitos funcionais, um *servidor público estatutário*. Aplica-se a ele, no que couber, a Lei 8.112/90 (que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais). Seu vínculo estatal, portanto, não é celetista; ele não é *contratado*, mas *nomeado* para ocupar referido cargo. Porém, seu regime previdenciário será o RGPS. 
+O "servidor público ocupante de cargo em comissão, sem vínculo efetivo com a União, Autarquias, inclusive em regime especial, e Fundações Públicas Federais" é, para efeitos funcionais, um *servidor público estatutário*. Aplica-se a ele, no que couber, a Lei 8.112/90 (que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais). Seu vínculo estatal, portanto, não é celetista; ele não é *contratado*, mas *nomeado* para ocupar referido cargo. Porém, seu regime previdenciário será o RGPS.
 
 O "exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social" é um *agente político*. Seu regime jurídico é aquele previsto pela Constituição Federal, pela Constituição do Estado-membro e pela Lei Orgânica do Município ou do DF, conforme o caso. No entanto, caso o agente político não esteja vinculado a regime próprio, estará obrigatoriamente vinculado ao RGPS, na qualidade de segurado empregado. Esse é um dos casos em que se vê que o RGPS funciona como um regime previdenciário subsidiário.
 

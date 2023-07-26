@@ -1,0 +1,529 @@
+---
+title: Introdução ao Direito Previdenciário (parte I)
+description: O Direito Previdenciário como Ramo do Direito Público | Relação com outros ramos do Direito | Breve Histórico.
+date: "2023-05-23"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/introducao1/
+  language: portuguese
+categories: [aulas]
+bibliography: references.bib
+google-scholar: true
+image: "dia-de-los-muertos.jpg"
+---
+
+## Introdução ao Direito Previdenciário
+
+### O Direito Previdenciário como ramo do Direito Público
+
+A divisão do Direito em ramos e em disciplinas jurídicas é traçada por conveniência didática e de pesquisa. As produções bibliográficas de maior influência em cada área tendem a ter seu elenco de temas seguido pelos autores subsequentes, já que inexiste uma divisão "natural" do Direito. As instituições de ensino superior, de sua parte, costumam reproduzir o sumário dessas obras doutrinárias em suas ementas e programas, obedecidas as diretrizes curriculares governamentais.
+
+Para fim de aclaramento terminológico, chamam-se *ramos do Direito* suas divisões autônomas, que possuem um arcabouço normativo próprio. Por exemplo, o Direito Civil, o Direito Penal, o Direito Administrativo etc, são ramos do Direito. *Disciplinas jurídicas* são as menores subdivisões de cada ramo do Direito. Nesse sentido, o Direito das Obrigações é uma das disciplinas do Direito Civil, o Direito Penal Ambiental é uma das disciplinas do Direito Penal e o Direito Administrativo Econômico é uma das disciplinas do Direito Administrativo.
+
+Costuma-se agrupar os ramos do Direito em dois grandes ramos principais: o *Direito Público* e o *Direito Privado*. O primeiro diz respeito às relações jurídicas entre os particulares e o Poder Público e às relações entre entes públicos, enquanto o segundo diz respeito às relações dos particulares entre si. Nesse sentido, o Direito Civil é considerado um ramo do Direito Privado, enquanto o Direito Tributário é reconhecido como um ramo do Direito Público. Não obstante, a dicotomia Direito Público/Direito Privado tem sido cada vez mais questionada, tendo em conta o crescente influxo de normas de ordem pública no Direito Privado e vice-versa. Mas a diferenciação ainda é útil para fins didáticos, tendo em conta a predominância das relações jurídicas reguladas e dos interesses envolvidos.
+
+Atualmente, o Direito Previdenciário possui *status* de ramo autônomo do Direito Público, conforme a doutrina majoritária.[^1] Isso porque, em geral, as normas previdenciárias referem-se à relação jurídica entre um particular (o beneficiário) e um ente público que lhe garante proteção contra riscos sociais predeterminadas. E, mesmo nas situações em que uma pessoa jurídica de Direito Privado garante proteção previdenciária a alguém (por exemplo, na previdência complementar privada), existe uma forte regulação por normas de ordem pública, inderrogáveis pela vontade das partes.
+
+[^1]: AMADO, F. **Curso de Direito e Processo Previdenciário**. 7a ed. Salvador: Juspodivm, 2015, p. 134; GOES,\*\* **Hugo.** Manual de Direito Previdenciário.\*\* São Paulo: Grupo GEN, 2022. *E-book*, p. 80; LEITÃO, André S. **Manual de direito previdenciário.** São Paulo: Editora Saraiva, 2018. *E-book*, p. 122; DIAS, Eduardo R.; MACÊDO, José Leandro Monteiro de. **Curso de Direito Previdenciário**, 3ª edição. São Paulo: Grupo GEN, 2012. *E-book*, p. 61; LAZZARI, João B.; CASTRO, Carlos Alberto Pereira de.\*\* Direito Previdenciário.\*\* São Paulo: Grupo GEN, 2021. *E-book*, p. 23.
+
+A autonomia do Direito Previdenciário é reconhecida em razão da existência de um arcabouço normativo próprio (*autonomia normativa*), de uma extensa produção doutrinária (*autonomia científica*), e do ensino através de componente curricular apartado dos outros ramos do Direito (*autonomia didática*).
+
+De toda forma, a divisão do Direito em ramos e disciplinas jurídicas é artificial e só tem sentido considerando os objetivos que temos ao fazê-la. É comum que um ramo do Direito ganhe autonomia a partir de uma subdivisão de outro ramo, em função de fatores históricos. No Brasil, o objeto de estudo do Direito Previdenciário era, inicialmente, tratado pelo Direito do Trabalho[^2]. A evolução da proteção social do trabalhador, com o Poder Público assumindo a maior parte dos riscos inerentes ao trabalho, mudou esse cenário.
+
+[^2]: GARCIA, Gustavo F. B. **Manual de Direito Previdenciário**. 6. ed. Salvador: Editora Juspodivm, 2022, p. 38.
+
+Apesar de a divisão do Direito em ramos e disciplinas jurídicas ser artificial, é esperado que os temas tratados por cada ramo e disciplina jurídica possuam ancoragem nas escolhas organizacionais do constituinte e do legislador infraconstitucional, uma vez que o objeto de estudo da Ciência do Direito são os *textos normativos* (ao menos para o pensamento jurídico predominante). Por isso, o processo que culmina na autonomia *científica* e *didática* de um ramo do Direito é fortemente condicionado pela autonomia *normativa*, ou seja, pela existência de um complexo normativo destacado, com suas regras e princípios característicos.
+
+Tendo isso em mente, iremos adiante delimitar o objeto de estudo do Direito Previdenciário no Brasil, considerando a organização da seguridade social pela Constituição de 1988 e as normas infraconstitucionais atinentes à matéria.
+
+### A seguridade social no contexto da ordem social da Constituição de 1988
+
+Sem dúvida, a evolução do Direito Previdenciário como ramo autônomo ganhou forte impulso no Brasil com a promulgação da Constituição de 1988, que, ao contrário das anteriores, sistematizou as diversas estratégias de ação da sociedade e do Estado para a promoção do bem-estar e da justiça sociais.
+
+O Título VIII da Constituição estabelece a "Ordem Social" e se subdivide em oito capítulos:
+
+I - Disposição Geral; II - Da Seguridade Social; III - Da Educação, da Cultura e do Desporto; IV - Da Ciência, Tecnologia e Inovação; V - Da Comunicação Social; VI - Do Meio Ambiente; VII - Da Família, da Criança do Adolescente, do Jovem e do Idoso e VIII - Dos Índios.
+
+Por sua vez, o Capítulo denominado "Da Seguridade Social" é estruturado nas seguintes seções: I - Disposições Gerais; II - Da Saúde; III - Da Previdência Social; IV - Da Assistência social.
+
+Pode-se dizer que todos os capítulos do Título "Da Ordem Social" instituem sistemas normativos próprios que visam a enfrentar, de modos distintos, o objetivo geral da ordem (no sentido de "ordenação", ou "organização") social, estabelecido pelo art. 193 da Constituição: *promover o bem-estar e a justiça sociais.*
+
+Nesse contexto, a *seguridade social*, caracteriza-se como um sistema normativo que tem em vista a cobertura de *riscos sociais*. Nisso consiste o seu traço distintivo em relação aos demais conjuntos normativos da ordem social (educação, cultura, desporto, ciência e tecnologia etc.).
+
+*Riscos ou contingências sociais* são eventos que ameaçam as condições de vida digna das pessoas e que, por esse motivo, merecem especial proteção. A pessoa atingida por um desses riscos faz jus a um conjunto de ações, custeadas por toda a sociedade. Por esse prisma, a instituição de um sistema de seguridade social é uma técnica de socialização de riscos individuais, de maneira que cada pessoa atingida por eles não precise arcar, sozinha, com o ônus respectivo.
+
+São exemplos de contingências sociais: a morte do trabalhador que possua dependentes, a incapacidade para o trabalho, a extrema pobreza, a doença, a velhice, a deficiência etc.
+
+A seguridade social, entretanto, não é a única técnica existente de socialização de riscos. Basta pensar no contrato de seguro, regido pelo Direito Civil (Código Civil, art. 757). Pelo contrato de seguro, "*o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados*." É evidente que a socialização dos riscos individuais, neste caso, se dá apenas entre os contratantes, inclusive aqueles para quem o risco não se verifica, mas que também estão obrigados ao pagamento do prêmio (Código Civil, art. 764). Em outras palavras, o universo de pessoas que arcam com os ônus econômicos dos riscos individuais é sempre superior ao universo de pessoas que sofrem sinistros, sob pena de insustentabilidade do sistema.
+
+Quando falamos em seguridade social, por outro lado, estamos tratando de um modelo *público* de socialização de riscos. Neste modelo, é compulsória a participação de todas as pessoas que se encontrem nas situações descritas em lei, ao menos no que se refere ao custeio do sistema.
+
+O sistema de seguridade social prevista na Constituição de 1988, porém, não é uno, mas tripartido. Cada um dos subsistemas nos quais a seguridade se divide diferencia-se em função de seus *objetivos específicos*, dos *destinatários da proteção*, e da *contributividade.*
+
+### A tripartição do sistema de seguridade social
+
+Nos termos do *caput* do art. 194 da Constituição de 1988, "*A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.*"
+
+Uma vez que a seguridade social é um sistema normativo que pretende proteger as pessoas contra contingências sociais, que diferença existe entre suas subdivisões, ou subsistemas normativos (saúde, previdência e assistência)?
+
+Pode-se dizer que uma primeira distinção reside no *objetivo específico* de cada um dos subsistemas. Assistência, previdência e saúde possuem um modo peculiar de enfrentar o objetivo geral da ordem social, que é garantir o bem-estar e a justiça sociais.
+
+A *saúde* é o subsistema da seguridade que visa, de acordo com o texto constitucional (art. 196, *caput*), à "*redução do risco de doença e de outros agravos.*"
+
+A *previdência social*, a partir da interpretação dos incisos do *caput* do art. 201 da Constituição, visa a cobrir riscos relacionados à possibilidade de o trabalhador prover a própria manutenção e de sua família com os rendimentos de seu trabalho.
+
+A *assistência social*, por último, tem seis objetivos, estabelecidos pelos incisos do art. 203 da Constituição Federal, todos expressando o risco de vulnerabilidade socioeconômica.
+
+Os três subsistemas também se distinguem quanto a seus *destinatários.*
+
+A *assistência social* será prestada "a quem dela necessitar", de acordo com o *caput* do 203 da Constituição.
+
+A *previdência social*, por sua vez, organiza-se na forma do Regime Geral de Previdência Social, de "filiação obrigatória", devendo-se entender, por isso, que é reservada apenas a seus filiados.
+
+Já a *saúde* é um "direito de todos", de acordo com o art. 196, *caput*, da Constituição Federal.
+
+Finalmente, os subsistemas da seguridade distinguem-se em função da contributividade, entendida como a necessidade de contribuições para que o destinatário da proteção a ela faça jus.
+
+O acesso às ações e serviços de *saúde* é "universal e igualitário", ou seja, independe de contribuições (art. 196, *caput*).
+
+Da mesma maneira, a assistência social é prestada "independentemente de contribuição à seguridade social" (art. 203, *caput*).
+
+Por outro lado, o Regime Geral de Previdência Social (e também os regimes próprios, como veremos adiante) possui "caráter contributivo" (art. 201, *caput*).
+
+Disso decorrem as definições abaixo, para cada um dos subsistemas normativos identificados.
+
+A *saúde* é o subsistema não-contributivo e universal de prestações dos poderes públicos e da sociedade que tem por objetivo a redução do risco de doenças e outros agravos, através de ações e serviços para a promoção, proteção e recuperação da saúde.
+
+A *previdência social* é o subsistema contributivo de prestações dos poderes públicos e da sociedade que tem por objetivo amparar seus filiados na ocorrência de riscos a sua aptidão para manter a si mesmo e sua família com os rendimentos do trabalho.
+
+A *assistência social* é o subsistema não-contributivo de prestações dos poderes públicos e da sociedade que visa a cobrir o risco de vulnerabilidade socioeconômica, provendo um mínimo social aos necessitados.
+
+Abaixo, encontra-se um resumo esquemático da organização da seguridade social e da distinção entre seus subsistemas:
+
+```{dot}
+digraph G {
+  node [shape=box];
+  
+  "Seguridade Social" -> "Saúde";
+  "Seguridade Social" -> "Previdência Social";
+  "Seguridade Social" -> "Assistência Social";
+}
+```
+
+|                         | *Saúde*                                      | *Previdência social*                                                           | *Assistência social*                             |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| *Objetivos específicos* | cobrir o risco de doença e de outros agravos | cobrir riscos ligados à aptidão para sobreviver com os rendimentos do trabalho | cobrir o risco de vulnerabilidade socioeconômica |
+| *Destinatários*         | todos                                        | filiados                                                                       | necessitados                                     |
+| *Contributividade*      | não                                          | sim                                                                            | não                                              |
+
+### O objeto de estudo do Direito Previdenciário tendo por referência a organização constitucional da seguridade social.
+
+É correto dizer que existe um ramo do Direito mais amplo que o Previdenciário: o "Direito da Seguridade Social[^3]", incluindo o estudo dos três subsistemas citados. No entanto, é incomum encontrar bibliografia que os aborde em sua integralidade, devido a à complexidade e extensão dessas matérias. Apesar de a Constituição estabelecer as regras e princípios fundamentais nessa área, para que cada um dos subsistemas normativos da seguridade torne-se operativo, exige-se um amplo e pormenorizado desenvolvimento através de textos infraconstitucionais (leis, decretos, instruções normativas, portarias etc).
+
+[^3]: MARTINS, Sérgio P. **Direito da Seguridade Social**. 39ª ed. São Paulo: Saraiva, 2020; GARCIA, Gustavo F. B. **Manual de Direito Previdenciário.** 6ª ed. Salvador: Editora JusPodivm, 2022, p. 36.
+
+Por isso, a produção bibliográfica nacional sobre seguridade social costuma dividir-se entre obras de *Direito Previdenciário* e de *Direito Sanitário* (ou Direito da Saúde), sendo que o subsistema de assistência social é assunto tratado nos livros de Direito Previdenciário.
+
+Além do Regime Geral de Previdência Social (art. 201 da Constituição), também fazem parte da matéria "Direito Previdenciário" os demais regimes previdênciários: os regimes próprios e complementares, dos quais trataremos adiante.
+
+Por último, o financiamento da seguridade social, cujas regras fundamentais estão no art. 195 da Constituição Federal, é também assunto que compõe o sumário dos livros de Direito Previdenciário. Mas a doutrina tributarista também se ocupa da matéria (até com maior propriedade) haja vista que as contribuições sociais possuem natureza tributária[^4], conforme o Supremo Tribunal Federal já pacificou.[^5]
+
+[^4]: PAULSEN, Leandro; VELLOSO, Andrei P. **Contribuições no Sistema Tributário Brasileiro.** São Paulo: Editora Saraiva, 2019, p. 103.
+
+[^5]: RE 146.733-9/SP, rel. Min. Moreira Alves.
+
+Em resumo, o Direito Previdenciário, no Brasil, é o ramo do Direito Público que estuda os textos normativos relacionados aos seguintes temas: 
+- proteção previdenciária dos filiados a todos os regimes previdenciários existentes no ordenamento jurídico nacional; 
+- proteção assistencial aos necessitados e 
+- custeio do sistema de seguridade social.
+
+### Relação com os outros ramos do Direito
+
+Embora o Direito Previdenciário possua autonomia normativa, científica e didática, diversos outros ramos do Direito se relacionam com este. O conhecimento prévio da história, dos principais institutos e normas fundamentais desses outros ramos possibilita um melhor entendimento do nosso objeto de estudo.
+
+#### Direito Previdenciário e Direito Constitucional
+
+No Brasil, não há ramo do Direito que tenha ficado imune ao processo de constitucionalização. O Direito Previdenciário, por exemplo, é especialmente constitucionalizado. Isso significa que muitos dos seus princípios e regras são encontrados no texto constitucional. Nossa Constituição é bastante prolixa em matéria previdenciária e várias emendas constitucionais reformaram a previdência social.
+
+Além disso, o conhecimento da dogmática constitucional é indispensável, uma vez que os direitos subjetivos às prestações da seguridade social possuem natureza de direitos fundamentais[^6].
+
+[^6]: CRFB. Art. 6º São direitos sociais a educação, a **saúde**, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a **previdência social**, a proteção à maternidade e à infância, a **assistência aos desamparados**, na forma desta Constituição (*grifos acrescidos ao original*).
+
+#### Direito Previdenciário e Direito Administrativo
+
+A relação jurídica entre os os destinatários das prestações da seguridade social e os entes públicos que executam as políticas nessa área é uma relação de natureza administrativa, ou seja, é regida por normas derrogatórias e exorbitantes do direito comum. Não há, por exemplo, margem para que um trabalhador negocie as cláusulas de sua proteção previdenciária.
+
+Relaciona-se com o Direito Administrativo, também, o regramento do processo administrativo para a concessão e revisão dos benefícios previdenciários e assistenciais, que possui disposições próprias, mas ao qual se aplica, subsidiariamente, a Lei do Processo Administrativo Federal (Lei 9.784/1999).
+
+São também matérias típicas de Direito Administrativo a organização e a competência dos entes formuladores e executores das políticas públicas no âmbito da seguridade social (ministérios, autarquias etc).
+
+Existem, ainda, convênios e outros ajustes firmados entre entidades privadas e entes públicos para a promoção das políticas públicas da seguridade social, regidos pelo Direito Administrativo (V., por exemplo, a Lei 9.637/1998 e a Lei 9.790/1999).
+
+Direito Previdenciário e Direito Tributário
+
+As contribuições sociais estão inseridas no sistema tributário nacional e a elas se aplicam -- além das disposições constitucionais -- as normas gerais do Código Tributário Nacional (recebido com status de lei complementar), nos termos do art. 149 c/c o art. 146, III, da Constituição.
+
+Deve-se atentar, porém, que o Instituto Nacional do Seguro Social (INSS), autarquia federal responsável por operar o regime geral de previdência social, não mais possui capacidade tributária ativa. Desde a Lei 11.457/2007 (art. 2º), o ente que fiscaliza, arrecada e cobra as contribuições sociais previdenciárias é própria União, através da Secretaria da Receita Federal do Brasil, órgão do Ministério da Fazenda.
+
+Direito Previdenciário e Direito do Trabalho
+
+O contrato individual de trabalho (art. 442 da CLT), que origina a relação de emprego, é um dos fatos geradores da relação jurídica previdenciária. O empregado é uma das espécies de segurados obrigatórios do regime geral de previdência social (art. 11, inciso I, da Lei 8.213/1991). Consequentemente, vários eventos relacionados ao contrato de trabalho são também fatos com repercussão previdenciária, como a incapacidade laboral, o acidente de trabalho, a despedida etc.
+
+Do mesmo modo, alguns eventos de natureza previdenciária possuem implicações trabalhistas, como é o caso da concessão de benefício por incapacidade ao acidentado do trabalho, que gera estabilidade provisória no emprego (art. 118 da Lei 8.213/1991).
+
+Direito Previdenciário e Direito Civil
+
+Os conceitos doutrinários de prestação, de sujeito ativo e passivo de uma obrigação e de inadimplemento são exemplos de conceitos típicos de Direito das Obrigações, disciplina do Direito Civil, que encontram uso no Direito Previdenciário.
+
+Do mesmo modo, toda a construção doutrinária civilista em torno da prescrição e da decadência é de grande importância para entender os prazos extintivos no Direito Previdenciário, regulados pelos arts. 103 a 105 da Lei 8.213/1991).
+
+O Direito de Família também possui relações com o Direito Previdenciário. A legislação previdenciária, quando trata da relação de dependência (art. 16 da Lei 8.213/1991) remete a vários conceitos daquela disciplina, como os de filiação, casamento, união estável, maioridade etc.
+
+Finalmente, algumas relações regradas pelo Direito Previdenciário possuem natureza contratual, como a que se dá entre os entes de previdência complementar privada e seus participantes. Devido à importância desse campo de atuação econômica, existe forte regulamentação estatal desses contratos (v. art. 202 da Constituição e Lei Complementar 109/2001).
+
+Direito Previdenciário e Direito Penal
+
+O Direito Penal tipifica alguns crimes previdenciários: estelionato previdenciário (art. 171, § 3º, do Código Penal), apropriação indébita previdenciária (art. 168-A, CP), falsificação de documento público para fins previdenciários (art. 297, § 3º, CP) e sonegação fiscal previdenciária (art. 337-A, CP).
+
+Alguns conceitos básicos de Direito Penal também são utilizados pelo Direito Previdenciário, como os de dolo e de inimputabilidade (v., por exemplo, o art. 16, § 7º, da Lei 8.213/1991).
+
+Direito Previdenciário e Direito Processual Civil
+
+Atualmente, o processo civil é visto como um instrumento de tutela substancial de direitos subjetivos, e não mais como uma mera sucessão de atos dirigida pelo fetiche formalista que, por vezes, impedia a aplicação do direito material ao caso concreto.
+
+Daí porque se diz que um dos princípios que vigoram no direito processual é o da adequação[^7], que prescreve uma modalidade de tutela diferenciada em função da natureza do direito material envolvido no processo.
+
+[^7]: "O princípio da adequação pode ser visualizado em três dimensões: a) legislativa, como informador da produção legislativa das regras processuais; b) jurisdicional, permitindo ao juiz, no caso concreto, adaptar o procedimento às peculiaridades da causa que lhe é submetida; c) negocial: o procedimento é adequado pelas próprias partes, negocialmente." (DIDIER, Fredie. Curso de Direito Processual Civil. Vol. 1. 17º ed. Salvador: Juspodivm, 2015, pp.
+
+O princípio da adequação norteou, por exemplo, a criação do sistema dos Juizados Especiais Federais (Lei 10.259/2001), que objetivou dar resposta célere às inúmeras demandas ajuizadas na Justiça Federal, sendo a maioria delas de natureza previdenciária. Outro exemplo aplicação do princípio processual da adequação na seara previdenciária, em sua dimensão legislativa, é fornecido pela Lei 14.331/2022, que promoveu importantes alterações nos processos envolvendo benefícios previdenciários por incapacidade, através da inclusão do art. 129-A na Lei n.º 8.213/1991.
+
+Não há, a rigor, um "Processo Previdenciário" como procedimento autônomo. O que existem são disposições especiais que buscam adaptar o procedimento às exigências da tutela previdenciária, que envolve, na maioria das vezes, pessoas em situação de vulnerabilidade social. Com menos rigor terminológico, no entanto, costuma-se falar em "processo previdenciário" para aludir ao processo civil no qual a matéria discutida é de índole previdenciária ou assistencial.
+
+Direito Previdenciário e ciências não jurídicas
+
+Este tópico não pretende exaurir as formas de diálogo entre o Direito Previdenciário e os demais ramos do Direito; pretende apenas demonstrar a importância de se estudar a matéria com atenção aos conceitos fundamentais aprendidos nas outras disciplinas jurídicas, em especial aquelas que foram citadas nos itens precedentes.
+
+Da mesma forma, vários conhecimentos provenientes de ciências não jurídicas são importantes para o Direito Previdenciário, como a Ciência Atuarial (ramo da Matemática que se ocupa em avaliar riscos financeiros, especialmente no que toca a seguros e planos de previdência), a Economia (ciência social que estuda que a produção, distribuição, troca e consumo de bens e serviços em uma sociedade), a Medicina (ciência e arte que cuida do diagnóstico, tratamento e prevenção de doenças) etc.
+
+A litigância em matéria previdenciária é uma litigância de massa, no sentido de que existe sempre um grande volume de demandas envolvendo a matéria, sendo que muitas delas giram em torna das mesmas controvérsias. Dessa maneira, um campo de estudo interdisciplinar que tem angariado bastante interesse é o da Jurimetria. A Jurimetria pode ser definida como uma área interdisciplinar que se ocupa da aplicação de métodos quantitativos ao Direito[^8] e que utiliza ferramentas da Estatística e da Computação para modelar procedimentos e prever decisões judiciais.
+
+[^8]: ZABALA, Filipe Jaeger; SILVEIRA, Fabiano Feijó. Jurimetria: estatística aplicada ao direito. **Revista Direito e Liberdade**, Natal, v. 16, n. 1, p. 87-103, 2014.
+
+Tudo isso para dizer que o profissional do Direito, a cada dia mais, é chamado a possuir conhecimentos em várias outras áreas do saber humano, a fim de compreender seu próprio ramo de estudo e desempenhar bem o seu trabalho.
+
+1.3 Fontes
+
+Conceito
+
+"Fonte do direito" é um conceito de Teoria Geral do Direito que remonta à origem da produção normativa. Norberto Bobbio[^9] conceitua fontes do direito como "aqueles fatos e aqueles atos dos quais o ordenamento jurídico faz decorrer a produção de normas jurídicas."
+
+[^9]: BOBBIO. Norberto. **Teoria do Ordenamento Jurídico.** 2 ed. São Paulo: Edipro, 2014, p. 55.
+
+Costuma-se fazer uma distinção entre fontes formais e fontes materiais. Formais são aquelas fontes que exteriorizam o direito e independem do conteúdo das normas produzidas. Já fontes materiais são os "acontecimentos históricos sociológicos, econômicos e políticos que dão origem às normas jurídicas" e que envolvem "os fatores sociais que condicionaram o surgimento da norma jurídica, ou seja, as razões (históricas, econômicas e políticas) que influenciaram a criação das normas do Direito."[^10]
+
+[^10]: GARCIA, Gustavo F. B. **Manual de Direito Previdenciário**. 6. ed. Salvador: Editora Juspodivm, 2022, p. 45.
+
+O conceito de "fontes materiais", no entanto, parece-nos muito amplo e não propriamente jurídico, o que retira sua utilidade para os objetivos deste estudo. Dessa maneira, nos ocuparemos adiante das chamadas fontes formais do direito.
+
+Fontes primárias e secundárias do Direito Previdenciário
+
+Na tradição jurídica europeia continental, da qual somos seguidores, admite-se que a fonte (formal) do direito por excelência é a legislação. É o próprio ordenamento jurídico que disciplina a produção normativa através de regras de competência.
+
+Essa concepção impõe considerar como fontes primárias[^11] do Direito Previdenciário, no Direito brasileiro:
+
+[^11]: GOES, Hugo. **Manual de Direito Previdenciário.** São Paulo: Grupo GEN, 2022.
+
+-   a Constituição Federal;
+
+-   as emendas à Constituição;
+
+-   as leis complementares;
+
+-   as leis ordinárias;
+
+-   as leis delegadas;
+
+-   as medidas provisórias;
+
+-   os decretos legislativos;
+
+-   as resoluções (do Senado Federal).
+
+São também consideradas fontes primárias do Direito Previdenciário, embora não estejam elencados no art. 59 da Constituição, mas nos artigos 49, I, e 84, VIII :
+
+-   os tratados e convenções internacionais.
+
+As espécies normativas acima relacionadas (com a exceção óbvia da própria Constituição Federal), estão previstas no art. 59 do texto constitucional, que dispõe sobre o processo legislativo. Porém, essas não são as únicas fontes do Direito Previdenciário reconhecidas.
+
+A doutrina ainda considera a existência de fontes secundárias, assim chamadas porque são subordinados às fontes primárias e visam a torná-las operativas. São fontes secundárias do Direito Previdenciário:
+
+-   os atos administrativos normativos (decretos, regulamentos, portarias, instruções normativas, ordens de serviço, orientações normativas, circulares, resoluções administrativas etc).
+
+Reconhecem-se, também, como fontes do direito, a partir da promulgação da Emenda Constitucional n.º 45/2004:
+
+-   as súmulas vinculantes.
+
+Adiante, trataremos das fontes acima citadas e de sua importância na construção do Direito Previdenciário brasileiro.
+
+Constituição Federal
+
+Como já foi dito, o Direito Previdenciário é um ramo jurídico altamente constitucionalizado. A seguridade social é regulada pelos artigos 194 a 195 da Constituição; a previdência, pelos artigos 201 e 202 e a assistência pelos artigos 203 e 204. Além disso, o art. 40 da Constituição dispõe sobre o regime próprio de previdência social dos servidores públicos ocupantes de cargos efetivos; o art. 142, § 3º, inciso X, delega à lei (ordinária) o regramento da proteção previdenciária dos militares das Forças Armadas e o art. 42, § 1º, delega à lei específica estadual a normatização da previdência dos militares dos Estados.
+
+O direito à previdência social e à assistência aos desamparados é um direito fundamental previsto no art. 6º, caput, da Constituição Federal e seu art. 7º estabelece, como direitos dos trabalhadores urbanos e rurais diversas prestações de natureza previdenciária (seguro-desemprego, salário-família, licença à gestante "sem prejuízo do emprego e do salário" e aposentadoria - incisos II, XII, XVIII XXIV).
+
+Em razão disso, quando se trata de previdência e assistência social, cuida-se de um arcabouço normativo que desenvolve direitos fundamentais, fato que condiciona a interpretação de seus princípios e regras, como veremos adiante.
+
+Emendas à Constituição
+
+Como várias regras do texto constitucional dispõem sobre matéria de Direito Previdenciário, as reformas na área de assistência e previdência sociais costumam ser feitas através de emendas à Constituição.
+
+Não raras vezes, as próprias emendas devem ser objeto de estudo, pois instituem regras que não são incluídas no texto constitucional nem modificam seus artigos, mas também possuem hierarquia constitucional. Veja-se, por exemplo, a Emenda Constitucional 103/2019. Essa Emenda, que veiculou a mais recente reforma da previdência, possui trinta e seis artigos. Somente o primeiro deles modifica ou inclui dispositivos na Constituição Federal; os demais instituem regras próprias, que não se encontram no texto da Constituição, a exemplo daquelas que estabelecem regras de transição.
+
+Leis complementares
+
+As leis complementares devem ser aprovadas por maioria absoluta dos membros de cada Casa do Congresso Nacional (art. 69 da Constituição). Algumas matérias são reservadas à lei complementar, presumivelmente, em razão da necessidade de maior debate parlamentar.
+
+As matérias de previdência e assistência social não exigem, a priori, regulamentação através de lei complementar. No entanto, algumas questões específicas de Direito Previdenciário são reservadas a essa espécie legislativa. Os exemplos mais notáveis são:
+
+-   a criação de contribuições sociais residuais, ou seja, aquelas que não estejam previstas no art. 195, *caput*, I a IV, da Constituição, somente podem ser criadas por lei complementar (art. 195, § 4º, c/ o art. 154, I, ambos da Constituição);
+
+-   a definição de tratamento tributário diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados de recolhimento de tributos, que incluem as contribuições para a seguridade social do art. 195, I, da Constituição (art. 146, III, d);
+
+-   o regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social (art. 202, *caput*);
+
+-   a relação entre a União, Estados, Distrito Federal ou Municípios, inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, enquanto patrocinadores de planos de benefícios previdenciários, e as entidades de previdência complementar (art. 202, § 4º);
+
+-   os requisitos para a designação dos membros das diretorias das entidades fechadas de previdência complementar instituídas pelos patrocinadores de que trata o § 4º do art. 202 e disciplinar a inserção dos participantes nos colegiados e instâncias de decisão em que seus interesses sejam objeto de discussão e deliberação (art. 202, § 6º).
+
+Leis ordinárias
+
+Quando sobre a matéria previdenciária não pender reserva de lei complementar, ela poderá ser regulada por lei ordinária. A lei ordinária, para ser aprovada, exige apenas maioria dos votos de cada Casa, "presente a maioria absoluta de seus membros" (art. 47 da Constituição).
+
+São exemplos de questões importantes de Direito Previdenciário reguladas por leis ordinárias:
+
+-   a organização da seguridade social e seu plano de custeio (Lei 8.212/91, que possui fundamento tanto no art. 201, *caput*, quanto no art. 149 da Constituição);
+
+-   o plano de benefícios do regime geral de previdência social (Lei 8.213/91, que possui fundamento no art. 201, *caput*, da Constituição);
+
+-   o organização da assistência social (Lei 8.8742/93).
+
+Sempre que uma matéria deva ser regulada "na forma da lei", a Constituição estará se referindo à lei ordinária.
+
+Leis delegadas
+
+O art. 68 da Constituição dispõe que "As leis delegadas serão elaboradas pelo Presidente da República, que deverá solicitar a delegação ao Congresso Nacional." Atualmente, no plano federal, desconhecem-se leis delegadas em matéria previdenciária, mas não há uma vedação nesse sentido.
+
+Medidas provisórias
+
+Dispõe o art. 62, caput, da Constituição que, "Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional." Enquanto vigentes, as medidas provisórias possuem hierarquia idêntica à das leis ordinárias.
+
+O § 1º do mesmo dispositivo veda a edição de medidas provisórias sobre certas matérias, mas não há uma vedação genérica à edição de medidas provisórias em matéria previdenciária. Aliás, várias delas já dispuseram sobre previdência social.[^12]
+
+[^12]: Por exemplo, MP [\\2.187-1](https://www.planalto.gov.br/ccivil_03/MPV/2187-13.htm#art4)3/2001, 316/2006, 410/2007, 413/2008, 449/2008, [\\1.113](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Mpv/mpv1113.htm#art2)/2022...
+
+Porém, o inciso III do § 1º proíbe a edição de medidas provisórias quando a matéria estiver reservada a lei complementar. E, como vimos, algumas das questões de Direito Previdenciário possuem essa reserva.
+
+Decretos legislativos
+
+Os decretos legislativos são atos normativos exarados pelo Congresso Nacional no uso de sua competência exclusiva e não estão sujeitos à sanção presidencial.
+
+Em matéria previdenciária, pode-se fazer menção a dois tipos de decretos legislativos:
+
+-   os que aprovam tratados internacionais firmados pelo Presidente da República (art. 49, I, da Constituição);
+-   os que disciplinam as relações jurídicas regidas por uma medida provisória que perde sua eficácia (art. 62, § 3º).
+
+Resoluções do Senado Federal
+
+As resoluções são normas que integram o processo legislativo. Há resoluções da Câmara, do Senado e do Congresso Nacional.
+
+No Direito Previdenciário, ganham destaque as resoluções do Senado que suspendem a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal em controle difuso de constitucionalidade (art. 52, X, da Constituição). Um exemplo é a Resolução do Senado Federal n.º 26/2005, que suspendeu a execução da alínea "h", inciso I, do art. 12, da Lei n.º 8.212/91, após a declaração de inconstitucionalidade do dispositivo, pronunciada pelo STF no julgamento do RE 351.717-1.[^13]
+
+[^13]: Esse julgado, porém, já foi superado pelo Supremo no julgamento do RE 626837.
+
+Tratados e convenções internacionais
+
+Os tratados e convenção internacionais, para que entrem em vigor internamente, dependem: (i) da celebração pelo Presidente da República; (ii) da aprovação pelo Congresso Nacional, conforme o art. 84, VIII, CRFB, via decreto legislativo; (iii) da ratificação, pelo Presidente da República, mediante depósito do instrumento respectivo e (iv) da promulgação, pelo Presidente da República, mediante decreto presidencial, seguindo-se a publicação oficial do texto do tratado.[^14]
+
+[^14]:
+    v.  STF, CR 8279 AgR, Rel. Min. Celso de Mello, DJ 10/08/2000.
+
+A Lei n.º 8.212/1991, art. 85-A, estabelece que os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou organismo internacional e o Brasil sejam partes, e que versem sobre matéria previdenciária, serão interpretados como "lei especial."
+
+Os tratados mais importantes em matéria previdenciária são aqueles que estabelecem acordos multilaterais e bilaterais que possuem como principal objetivo garantir que os trabalhadores que trabalham em um Estado-parte possam ter seus períodos contributivos reconhecidos nos outros para fins de concessão de prestações previdenciárias.[^15]
+
+[^15]: V. Relação de tratados em vigor em \<https://www.gov.br/trabalho-e-previdencia/pt-br/assuntos/acordos-internacionais/acordos-internacionais\>.
+
+Atos administrativos normativos
+
+Ensina José dos Santos Carvalho Filho[^16] que os atos administrativos podem ser classificados, quanto aos destinatários, em gerais e individuais. Os atos gerais, também chamados de atos normativos, "são aqueles que regulam uma quantidade indeterminada de pessoas que se encontram na mesma situação jurídica." Prossegue dizendo que "Os atos gerais ou normativos são considerados como de natureza legislativa, por trazerem em si os aspectos de generalidade, abstração e impessoalidade. Submetem-se, por isso, em alguns casos, ao controle concentrado da constitucionalidade, como deflui do art. 102, I,"a", da CF."
+
+[^16]: FILHO, José dos Santos C. **Manual de Direito Administrativo.** São Paulo: Grupo GEN, 2022. *E-book*, p. 156.
+
+Para nós, interessam os atos administrativos que regulamentam disposições legais. A cadeia hierárquica desses atos, tem origem no poder regulamentar conferido ao Presidente da República pelo art. 84, IV, da Constituição. Logo abaixo nessa escala está a competência regulamentar conferida aos Ministros de Estado pelo art. 87, II, CRFB. Os atos exarados em decorrência desse poder regulamentar devem estrita observância à lei e servem apenas para torná-la operativa.
+
+No Direito Previdenciário, podem-se citar como exemplos de atos administrativos normativos de grande importância:
+
+-   o Decreto 3.048/99, que aprovou o Regulamento da Previdência Social;
+-   o Decreto 6.214/2007, que regulamentou o benefício de prestação continuada da Lei Orgânica de Assistência Social);
+-   a Instrução Normativa INSS/PRES 128/2022, que disciplina as regras, procedimentos e rotinas necessárias à efetiva aplicação das normas de Direito Previdenciário.
+
+Súmulas vinculantes
+
+Reconhece-se, ainda, que as súmulas vinculantes são fontes do direito, haja vista que o art. 103-A da Constituição Federal (incluído pela EC 45/2004) confere ao Supremo Tribunal Federal a prerrogativa de editá-las "de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional".
+
+Essas súmulas possuem, após sua publicação na imprensa oficial, "efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal." Na medida em que as súmulas vinculantes são enunciados que se referem à interpretação constitucional ou à interpretação da legislação infraconstitucional tendo como parâmetro a Constituição, parece mais adequado dizer que se trata, também, de fonte secundária.
+
+Jurisprudência, doutrina e costumes
+
+Embora a doutrina majoritária trabalhe com esse conceito mais restrito de fontes, de matriz positivista-normativista, pode-se defender um conceito mais amplo, que abarque outras espécies.
+
+Alf Ross, expoente do realismo escandinavo, afirma que se deve recorrer a um conceito menos preciso de fontes, que abarque todos os elementos dos quais o juiz extrai a matéria-prima para elaborar as regras de que necessita para decidir. Para Ross[^17], por "fontes do direito" entende-se "o conjunto de fatores ou elementos que exercem influência na formulação do juiz da regra na qual ele funda sua decisão" (sic). Esse conceito, bastante amplo, permite considerar fontes do direito outros fatores, como a jurisprudência, a doutrina e os costumes.
+
+[^17]: ROSS, A. **Direito e justiça.** 1. reimpressão ed. Bauru: Edipro, 2003, p. 103.
+
+A jurisprudência é o conjunto de decisões, em um mesmo sentido, de algum órgão jurisdicional. Em certos casos -- para além da súmula vinculante, já citada -- a jurisprudência é de seguimento obrigatório, conforme o art. 927 do Código de Processo Civil. O Novo Código de Processo Civil adotou um modelo de precedentes obrigatórios, aproximando nosso sistema daqueles sistemas de commom law. Porém, com a exceção da súmula vinculante, somente os juízes e tribunais estão obrigados a seguir, em seus julgamentos, a jurisprudência dos tribunais nas hipóteses elencados no art. 927. A súmula vinculante, por sua vez, possui efeitos obrigatórios também para "a administração pública direta e indireta, nas esferas federal, estadual e municipal" (art. 103-A da Constituição).
+
+A doutrina, por sua vez, é a produção científica dos doutos em determinada matéria. Em geral, não é considerada fonte do direito em uma perspectiva normativista. Riccardo Guastini[^18], no entanto, defende que é impossível, ou pouco realista, traçar uma distinção entre a linguagem do legislador e a dos juristas. Para ele, a doutrina é uma parte do próprio Direito, uma vez que possui um discurso não somente interpretativo, mas também construtivo, podendo ser apresentada como um conjunto de diretivas de sententia ferenda. Guastini afirma que, entre o discurso dos juristas e do legislador, existe um "contínuo processo osmótico" que impõe considerar a doutrina também como fonte do direito.
+
+[^18]: GUASTINI, Riccardo. El realismo jurídico redefinido. *In* **Otras distinciones**. Externado, Bogotá: 2014.
+
+Os costumes não são considerados fontes do Direito Previdenciário, para muitos doutrinadores.[^19] Tais autores, quando o fazem, justificam-se pelo caráter público das normas previdenciárias e pela vinculação estrita do administrador público, na medida em que este é obrigado a fazer apenas aquilo que a lei determina (princípio da legalidade). No entanto, essa justificativa não parece excluir o caráter supletivo dos costumes, proclamado pelo art. 4º da LINDB, também em matéria previdenciária. Por outro lado, a utilização do costume não pode resultar na criação, extensão, ou majoração de prestações previdenciárias, o que somente pode ser feito por lei que preveja a correspondente fonte de custeio total (art. 195, § 5º, c/c art. 201, caput, ambos da CF).
+
+[^19]: Afastando expressamente os costumes como fontes do Direito Previdenciário, DIAS, Eduardo R.; MACÊDO, José Leandro Monteiro de. **Curso de Direito Previdenciário.** 3ª edição. São Paulo: Grupo GEN, 2012. *E-book,* p. 61; LAZZARI, João B.; CASTRO, Carlos Alberto Pereira de. **Direito Previdenciário.** São Paulo: Grupo GEN, 2021. *E-book,* p. 34; GARCIA, Gustavo F. B. **Manual de Direito Previdenciário**. 6. ed. Salvador: Editora Juspodivm, 2022, p. 44. Outros, porém, elencam as fontes do direito reconhecidas e ignoram os costumes: VIANNA, João Ernesto A. **Direito Previdenciário.** São Paulo: Grupo GEN, 2022. *E-book*, p. 49; GOES, Hugo. Manual de **Direito Previdenciário.** São Paulo: Grupo GEN, 2022. E-book, p. 78.
+
+De toda forma, salienta-se que a jurisprudência, a doutrina e os costumes não são, para a doutrina majoritária, fontes do Direito Previdenciário.
+
+1.4 Breve histórico da seguridade social
+
+Do mundo antigo ao estado moderno
+
+Da Antiguidade até a Idade Moderna, a caridade e o mutualismo eram os principais mecanismos para enfrentar as contingências sociais sofridas pelos indivíduos. A ajuda mútua familiar era a primeira fonte de socorro. Além dela, as instituições de caridade --- laicas e religiosas --- foram as grandes provedoras das necessidades dos desfavorecidos.
+
+Somente na Idade Contemporânea surgiram os primeiros modelos estatais de seguridade social. De maneira mais exata, não se pode falar de sistemas de seguridade social --- que viriam depois a ser objeto de estudo do Direito Previdenciário --- antes da crise de legitimidade do Estado liberal à época da chamada "Segunda Revolução Industrial", que ocorreu a partir da segunda metade do século XIX (1850-). Foi apenas naquele período que se passou a exigir do Estado, com algum êxito, a provisão das condições mínimas para a existência digna das pessoas, para além dos clássicos direitos de liberdade.
+
+Costuma-se citar, como antecedente histórico, a Lei dos Pobres (Poor Law) inglesa, de 1601. Porém, a difusão dos sistemas de seguridade social na Europa continental começou mesmo na segunda metade do século XIX. As chamadas "leis sociais" que surgiram naquele período formaram o embrião do que hoje se conhece como Direito Previdenciário.
+
+Estado liberal, Revolução Industrial e trabalho assalariado
+
+A onda revolucionária do final do século XVIII e o arcabouço jurídico que lhe seguiu forjaram uma ideologia que representava a sociedade como um espécie de massa homogeneizada[^20] de indivíduos iguais. Através da diluição das identidades corporativas, que tiveram seu apogeu na Idade Média com as corporações de ofício, a ideologia liberal logrou um duplo expediente: de um lado, retirou qualquer obstáculo entre o Estado e o indivíduo e, de outro, tornou o indivíduos fraco e absolutamente inofensivo em face do Estado.
+
+[^20]: GROSSI, Paolo. Europa y el derecho. Barcelona, ed. Critica: 2008, pp. 163-.
+
+No entanto, o desenvolvimento do capitalismo industrial e os problemas sociais da classe trabalhadora colocaram em xeque o mito da igualdade jurídica construído pela ideologia liberal.
+
+Uma das típicas manifestações do êxito do capitalismo maduro nas potências europeias, já na segunda metade do século XIX (sobretudo Inglaterra, Alemanha e França), foi a macroempresa, uma organização que aspirava a produzir maior quantidade de produtos e lucros conjugando máquinas e força de trabalho. Dois efeitos sociojurídicos de grande importância ocorreram naquele cenário: (i) a primazia da máquina sobre o sujeito trabalhador; (ii) a convivência cotidiana e contínua de uma notável massa de trabalhadores. O primeiro fator tornou cada vez mais evidente o problema da insegurança no local de trabalho, diante da fragilidade do ser humano em face da máquina, enquanto o segundo engendrou o surgimento de movimentos reivindicatórios dentro do ambiente laboral.
+
+Cada vez mais, o indivíduo foi percebendo que, para buscar a igualdade material, seria necessário fazer parte de um tecido social mais amplo. Era necessário, portanto, organizar-se. Surgem, assim, as primeiras entidades associativas de trabalhadores.
+
+Duas tendências "socialísticas" se destacaram para fazer frente às demandas da classe operária organizada. A primeira, solidarista, propunha a concessão de direitos sem subversão da ordem econômica e política vigentes. A segunda tendência, socialista, visava a completa subversão da ordem econômica e do direito burgueses e a instalação de um novo regime, onde o proletariado ascendesse ao poder político.
+
+Ambas as tendências tiveram larga influência no sistema de fontes do direito. A partir dos anos 1870, com alguma dificuldade, a tendência política solidarista alcançou a aprovação de leis especiais (as chamadas "leis sociais"), que, sem derrogar os códigos, buscavam atualizar o ordenamento para atender às novas exigências.
+
+Sem dúvida, tratava-se de uma estratégia alinhada à manutenção do status quo. É emblemática a declaração de intenções da Lei alemã de 15 de julho de 1883, que instituía o seguro contra a incapacidade laboral. No texto, abordava-se o socorro aos necessitados não somente como um dever imposto pelo humanismo e pelo cristianismo, mas como um "postulado de política conservadora", para que penetrasse nas classes desfavorecidas a ideia de um Estado como uma instituição "benéfica e indispensável."
+
+Essas "leis sociais" enfrentavam os problemas mais frequentes sofridos pelas classes trabalhadoras: o trabalho dos menores, das mulheres, a higiene e segurança nas fábricas, o seguro obrigatório de "velhice" e de invalidez, as caixas de previdência e os procedimentos de conciliação e arbitragem nas controvérsias laborais. Naquela época eram indistinguíveis os objetos de estudo do que hoje conhecemos como Direito do Trabalho e Direito Previdenciário.
+
+O modelo de seguridade social pioneiro no mundo, conforme a doutrina, foi o da Alemanha da época do chanceler Otto von Bismarck. O chamado modelo bismarckiano, contudo, não era ainda público, na acepção que damos hoje à palavra. Tratava-se de um modelo de seguro obrigatório apenas para os empregados que recebessem até certa quantia de salário[^21]. Os benefícios por ele instituídos eram financiados apenas por contribuições dos patrões e dos empregados e as quotas depositadas eram capitalizadas. Não havia, portanto, participação do restante da sociedade no custeio da proteção social dos trabalhadores.
+
+[^21]: AMADO, Frederico. Curso de Direito e Processo Previdenciário. Salvador: Juspodivm, p. 99.
+
+A constitucionalização dos direitos sociais no período entreguerras ("segunda geração")
+
+A partir do fim da Primeira Guerra Mundial (1914-1918), os temas abordados pelas "leis sociais" começaram a ganhar status Constitucional.
+
+É costumeiro citar as constituições do México (1917) e da Alemanha (Constituição de Weimar, 1919) como pioneiras na constitucionalização dos direitos sociais, também chamados de "direitos de igualdade", ou "direitos de segunda geração." Essas constituições figuram como exemplos do movimento conhecido como "constitucionalismo social": a tendência de incorporação de direitos sociais nos textos constitucionais.
+
+No entanto, ao contrário das primeiras constituições, que estabeleciam princípios universais, sustentados por teses consagradas, as constituições sociais e o modelo de Estado que pretendiam implementar geravam insegurança, pois se baseavam em soluções de compromisso entre ideologias contrapostas[^22]. Sua aceitação só era garantida pelo caráter meramente programático das fórmulas introduzidas nos textos constitucionais, o que levou a uma crise do conceito jurídico de constituição, minguando sua efetividade. As antigas constituições, já resolvidas em sua positividade (ao menos do ponto de vista da aceitação social), deram lugar a novas constituições de difícil implementação, conforme escreveu Bonavides[^23]: Direitos sociais concernentes às relações de produção, ao trabalho, à educação, à cultura, à previdência, representavam uma estupenda novidade, um campo por inteiro distinto, desconhecido ao Direito Constitucional clássico. Mas dificilmente as declarações que os inseriram se prestavam a uma redução jurídica fácil, de modo a fazê-los ingressar no corpo da Constituição dotados já de aplicabilidade direta e imediata. Os princípios sociais enunciados pela Constituição oferecem obstáculos muitos mais sérios a uma conversão em direitos subjetivos correlatos do que os antigos direitos da liberdade proclamados ao alvorecer do constitucionalismo liberal (...). No período entreguerras, diz Paulo Bonavides, "o Estado liberal estava morto, mas o Estado social ainda não havia nascido." Esse trecho ilustra bem aquele momento de crise de crise de efetividade das constituições sociais.
+
+[^22]: BONAVIDES, Paulo. Curso de Direito Constitucional. 21. ed. São Paulo: Malheiros, 2007, p. 232.
+
+[^23]: *Op. cit*., p. 233.
+
+O nascimento de um modelo de fundo social público
+
+Foi em um regime de constituição não-escrita uma iniciativa que mudaria o rumo para sempre da seguridade social para sempre.
+
+No final da Segunda Guerra Mundial, o economista William Beveridge, que havia sido colaborador de John Maynard Keynes[^24], recebeu o encargo de sistematizar as leis inglesas de proteção social. O chamado "Sistema Universal de Luta contra a Pobreza", ou "Plano Beveridge" instituiu, a partir de 1944, um fundo público de proteção social financiado por toda a sociedade e não somente pelos trabalhadores empregados e seus empregadores.
+
+[^24]: LAZZARI, João B.; CASTRO, Carlos Alberto Pereira D. Direito Previdenciário. São Paulo: Grupo GEN, 2021, p. 50.
+
+Diferentemente do que caracterizava o sistema bismarckiano, o sistema de William Beveridge baseava-se na solidariedade social. Ao contrário do sistema bismarckiano, que era de capitalização e cujos ingressos restringiam-se às contribuições de empregados e empregadores, Beveridge montou um sistema baseado na repartição simples do fundo comum, custeado por contribuições de toda a sociedade, para enfrentar as necessidades daqueles que viessem a ser atingidos pelos riscos sociais legalmente previstos.
+
+Até os dias atuais, costuma-se analisar os modelos nacionais de seguridade social a partir desses dois modelos:
+
+-   o *modelo* *bismarckiano*, mais assemelhado a um seguro privado, financiado somente pelos próprios trabalhadores e empregadores, cujas contribuições são vertidas para fundos individuais e no qual o Estado possui um papel somente regulador;
+-   o *modelo beveridgeano*, cuja principal função é redistributiva, visando a redução da pobreza, em que o orçamento do Estado possui grande peso e cujas contribuições da sociedade são vertidas a um fundo comum, que custeia os benefícios concedidos.
+
+O primeiro modelo foi adotado por Alemanha, França, Bélgica, Holanda e Itália. Já o segundo modelo foi adotado por Suécia, Noruega, Finlândia, Dinamarca e Reino Unido[^25].
+
+[^25]: LAZZARI, *op. cit*.
+
+Hoje, porém, é difícil encontrar modelos puros. A maioria dos sistemas de seguridade social no mundo conjuga ambos os paradigmas. É o caso do Brasil, em que o regime geral de previdência social é norteado pelo modelo beveridgeano, mas o regime complementar de previdência privada aproxima-se do modelo bismarckiano.
+
+A proteção social no pós-Segunda Guerra
+
+Após a Segunda Guerra Mundial, a proteção social foi tratada pela Declaração Universal dos Direitos Humanos, de 1948, em seu art. 25, que dispõe: 1. Todo ser humano tem direito a um padrão de vida capaz de assegurar a si e à sua família saúde, bem-estar, inclusive alimentação, vestuário, habitação, cuidados médicos e os serviços sociais indispensáveis e direito à segurança em caso de desemprego, doença, invalidez, viuvez, velhice ou outros casos de perda dos meios de subsistência em circunstâncias fora de seu controle.  Naquele momento histórico, universaliza-se no texto das constituições a proteção social como direito fundamental. Trata-se da chamada "fase de expansão" da proteção social no mundo, em que as ideias intervencionistas de Keynes ganharam ampla adesão, a fim de fomentar o crescimento das economias mundiais abaladas pela guerra.
+
+A crise dos sistemas de proteção social
+
+A partir dos anos 1970, viu-se (e ainda se vê) uma época de crise dos sistemas de proteção social no mundo. Essa crise se confunde com a crise das próprias finanças públicas das nações em que o modelo do Welfare State veio a ser implantado. De acordo com Gustavo Filipe Barbosa Garcia[^26], verifica-se um conjunto de "insuficiências econômicas para a manutenção da ampla estrutura de atendimento e cobertura de necessidades sociais." É nesse contexto que surge o pensamento neoliberal, que retoma as premissas do liberalismo econômico, propugnando uma redução do papel do Estado na implementação de políticas públicas.
+
+[^26]: GARCIA. Gustavo F. B. G. Manual de Direito Previdenciário. Salvador: Juspodivm, 2022, p. 29.
+
+Nos livros de Direito Previdenciário, é difícil encontrar mais que um ou dois parágrafos dedicados ao tema, que ganha importância quando se trata das propostas de "reforma", que, de tempos em tempos, são colocadas em discussão.
+
+O certo é que os contextos de "crise" mundial não afetam todos os países do mundo ao mesmo tempo, não afetam a todos da mesma maneira e, em um mesmo país, não afetam todas as pessoas igualmente. Em um país de "modernidade tardia"[^27], como o nosso, parece-nos que a discussão sobre reformas na seguridade social merece ser travada levando-se em conta que o Estado de Bem Estar Social, prescrito pela Constituição de 1988, ainda carece de implantação.
+
+[^27]: STRECK, Lenio. Hermenêutica jurídica e(m) crise. Porto Alegre: Livraria do Advogado, 2005.
+
+Principais marcos temporais referentes à seguridade social no Brasil
+
+Até o final do século XIX, enquanto as nações centrais europeias tinham suas primeiras experiências no âmbito da proteção social, o Brasil ainda era um país cujo modelo econômico era eminentemente rural, baseado na monocultura para exportação, sustentada pelo trabalho escravo.
+
+Mesmo após a abolição da escravidão, em 1888, o modelo não teve grande avanço. De acordo com Bresser Pereira[^28], o Brasil continuou, até o início do século XX, "produzindo em termos absolutamente tradicionais. Não houve, por exemplo, nenhum progresso técnico significativo na agricultura do café entre 1830 e 1930. O Brasil 'desenvolvia-se', aumentava sua produção por habitante à medida que se especializada na produção de um bem mais rentável, o café, não à medida que aumentava a produtividade."
+
+[^28]: PEREIRA, Luiz C. Bresser. Economia brasileira: uma introdução crítica. São Paulo: ed. 34, 1998, p. 37
+
+A falta de industrialização gerou um sério anacronismo em relação ao mundo desenvolvido em termos de proteção social. O Brasil demorou muito para ter grandes indústrias e um proletariado urbano suficientemente numeroso e coeso para que o Poder Público levasse a sério a necessidade de garantir proteção social.
+
+No século XIX, a seguridade social no Brasil ainda se caracterizava, sobretudo, pelo assistencialismo. Um exemplo disso é a atuação das Santas Casas de Misericórdia, instituições presentes em território nacional desde o século XVI[^29]. Posteriormente, o mutualismo também se fez presente, podendo-se citar como exemplo o Plano de Beneficência dos Órfãos e Viúvas dos Oficiais da Marinha.
+
+[^29]: <https://www.cmb.org.br/cmb/index.php/institucional/quem-somos/historico>. Acesso em 12/08/2022.
+
+A primeira categoria para quem foi previsto o direito à aposentadoria foram os professores, através de um ato de 1821. Depois, os funcionários dos correios, em 1888, e das Estradas de Ferro, em 1890. De início, todas essas aposentadorias tinham natureza de benesses estatais, pois não havia recolhimento de contribuições.
+
+A doutrina costuma citar como marco inicial da Previdência Social no Brasil a Lei Elói Chaves (Dec-Leg. 4.982/1923), que instituiu as Caixas de Aposentadorias e Pensões das Estradas de Ferro. Isso porque os ferroviários eram uma importante categoria de trabalhadores privados e, na época, foi instituído efetivamente um sistema de custeio por contribuições dos empregados e dos empregadores, em regime de capitalização. Mas não havia um sistema amplo, e sim uma caixa de assistência e pensão para cada empresa.
+
+A partir dos anos 1930, houve uma reordenação do sistema de previdência através dos Institutos de Aposentadorias e Pensões das Categorias Profissionais (IAPM, IAPI, IAPTEC, etc).
+
+A Constituição de 1934 foi a primeira a prever a repartição do custeio entre o Estado, os empregados e os empregadores. Em 1939, foram regulamentadas as aposentadorias públicas. A Constituição de 1946 foi a primeira a utilizar a expressão "previdência".
+
+Em 1949, houve a regulamentação de todas as Caixas de Aposentadorias e Pensões, que passaram a assumir um regime único.
+
+Em 1953, houve a fusão de todas as caixas então existentes, na Caixa Nacional, transformada em Instituto pela Lei Orgânica da Previdência Social (LOPS), de 1960, vigente até 1990. Naquela época, ainda estavam excluídos do regime os trabalhadores rurais e os domésticos.
+
+Em 1967 foi criado o INPS, extinguindo-se todos os institutos então existentes.
+
+Em 1971, foi criado o FUNRURAL (LC 11/1971), que instituiu a previdência dos trabalhadores rurais.
+
+Em 1972, os trabalhadores domésticos passaram a ter direito à previdência, através da Lei 5.859/72.
+
+Em 1984, as leis previdenciárias foram consolidadas (CLPS: consolidação das leis previdenciárias).
+
+O sistema de seguridade, tal como nós conhecemos hoje, e que que prevê a "uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais", foi criado pela Constituição Federal de 1988. A Constituição Federal de 1988 criou um regime geral de previdência social e, em paralelo, regimes próprios para os servidores públicos civis, membros de poderes e militares.
+
+Após a Constituição de 1988, destacam-se:
+
+-   1990: criação do Instituto Nacional do Seguro Social;
+-   1991: principais leis regulamentadoras dos dispositivos constitucionais em matéria previdenciária (8.812 e 8.213);
+-   1993: Lei 8.742 (Lei Orgânica da Assistência Social).
+
+As emendas constitucionais que modificaram o sistema de seguridade foram as seguintes:
+
+-   EC 20/1998;
+-   EC 41/2003;
+-   EC 47/2005;
+-   EC 103/2019.
+
+114-116). O eminente processualista baiano, fundado nas lições de Galeno de Lacerda, aponta três "critérios de adequação": o subjetivo, o objetivo e o teleológico. Mais adiante afirma: "Três são, basicamente, os critérios objetivos de que se vale o legislador para adequar a tutela jurisdicional pelo procedimento: um, a natureza do direito litigioso, cuja relevância impõe uma modalidade de tutela diferenciada; o segundo, a evidência como se apresenta o direito material no processo; o terceiro, a situação processual da urgência."

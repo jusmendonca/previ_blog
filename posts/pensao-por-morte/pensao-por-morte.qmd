@@ -11,6 +11,7 @@ categories: [aulas]
 bibliography: references.bib
 google-scholar: true
 image: "dia-de-los-muertos.jpg"
+draft: true
 ---
 
 ## Fato gerador

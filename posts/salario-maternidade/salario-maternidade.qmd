@@ -12,6 +12,7 @@ categories: [aulas]
 bibliography: references.bib
 google-scholar: true
 image: "image.jpg"
+draft: true
 ---
 
 ## Fatos geradores
@@ -117,7 +118,7 @@ A CLT também prevê a possibilidade de antecipação do início do benefício e
 Por se tratar de um benefício que pretende substituir a remuneração da(o) segurada(o) e que impede o exercício concomitante de atividades laborativas, a RMI do salário-maternidade não pode ser inferior ao salário-mínimo (art. 73, *caput*). Na tabela abaixo, estão resumidas as formas de cálculo da RMI do salário-maternidade, conforme a espécie de segurado:
 
 | *Segurada*                                      | *RMI*                                                                                                   | *Fundamento legal (Lei 8.213/91)*       |
-|:------------------|:---------------------------------|:-------------------|
+|:------------------|:--------------------------------|:-------------------|
 | Empregada doméstica                             | Valor correspondente a seu último salário de contribuição                                               | Art. 73, I.                             |
 | Segurada especial                               | 1/12 do valor sobre o qual incidiu sua última contribuição (se contribuinte) ou um salário-mínimo.      | Art. 73, II e art. 39, parágrafo único. |
 | Empregada ou trabalhadora avulsa                | Remuneração integral                                                                                    | Art. 72, caput.                         |

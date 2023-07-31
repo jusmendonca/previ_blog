@@ -13,6 +13,7 @@ categories: [aulas]
 bibliography: references.bib
 google-scholar: true
 image: "image.jpg"
+draft: true
 ---
 
 ## Fato gerador

@@ -1,0 +1,18 @@
+---
+title: Entrevista com Marina Silva
+# description: 
+date: "2023-08-12"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/indicacao1/
+  language: portuguese
+categories: [podcasts]
+image: "marina.jpg"
+---
+
+Marina Osmarina da Silva, ou Marina Silva, tem uma daquelas trajetórias improváveis. Muito cedo - aos dez anos - começou a trabalhar com sua família em um seringal no Estado do Acre para ajudar seu pai a pagar uma dívida. Aprendeu a falar "língua de gente besta" ouvindo as novelas do rádio, de autoria de Benedito Ruy Barbosa e Ivani Ribeiro. Só se alfabetizou aos 16 anos, por vontade própria, pois aprendeu em um cordel que gente humilde sempre se dá mal se não quiser estudar. Apesar da malária, da leishmaniose, das onças pintadas e da contaminação por mercúrio, não morreu cedo, como era esperado de quem vivia no seringal Bagaço. Queria ser freira, mas acabou se tornando marxista e lutou ao lado de Chico Mendes, assassinado em 1988. Formou-se em história, elegeu-se vereadora, deputada, senadora e hoje é Ministra do Meio Ambiente e Mudança do Clima. 
+
+Certamente, ela rechaçaria o epíteto de "símbolo", pois enxerga-se e merece ser vista como uma realizadora. Ou, pelo menos, como vanguardista, pois já defendia a ideia de desenvolvimento sustentável quando isso era só coisa de comunista e comedor de alface. Na entrevista dada a [Mano Brown, no podcast Mano a Mano (Spotify)](https://open.spotify.com/episode/4bKuxIPKxYzTlXqtOkonM8?si=55b1e399e0dd433e), que recomendo fortemente, Marina defende suas posições, baseada em dados. Demonstra reconhecer os limites da política. Rechaça qualquer generalização da comunidade protestante no Brasil, mas reconhece a instrumentalização das religiões, ocorrida nos últimos anos. Ensina um pouco da vida na Amazônia, que conhecemos pouco e da qual falamos muito. 
+
+Por que indicar essa entrevista a uma turma de Direito Previdenciário? Primeiro, porque Marina e seus pais eram exemplos do que conhecemos como "segurados especiais" em um espaço geográfico diferente do nosso. Segundo, para entendermos melhor a importância da proteção social às populações rurais. Em alguma medida, a Constituição de 1988 pretendeu saldar um débito histórico com essas populações, que, apesar de inseridas no contexto global de produção das matérias primas do desenvolvimento, continuavam completamente excluídas de seus benefícios.

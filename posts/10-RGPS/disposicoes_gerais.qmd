@@ -1,0 +1,109 @@
+---
+title: Organização Administrativa do Regime Geral de Previdência Social (RGPS)
+# description: 
+date: "2023-08-23"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/organizacao/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "inss.jpg"
+---
+
+## Palavras iniciais
+
+Dentre os regimes de previdência social previstos pela Constituição Federal de 1988, o maior e mais importante é o regime geral de previdência social (RGPS), que tem fundamento em seu art. 201.
+
+O RGPS teve sua organização e seu plano de custeio institutos pela Lei 8.212 e seu plano de benefícios pela Lei 8.213, ambas de 1991.
+
+No plano infralegal, o Decreto 3.048/1999 estabeleceu o regulamento da previdência social e a Instrução Normativa Pres/INSS 128/2022 é o ato administrativo normativo que, atualmente, disciplina as regras, procedimentos e rotinas necessárias à efetiva aplicação das normas de direito previdenciário.
+
+Neste tópico, estudaremos como o RGPS se *organiza*, e quais são seus *princípios regentes*.
+
+## Organização do RGPS
+
+### Conselho Nacional de Previdência Social (CNPS)
+
+O Conselho Nacional de Previdência Social (CNPS) é o órgão superior de deliberação colegiada do regime geral de previdência social, composto por 15 membros, representantes do governo e da sociedade civil (art. 3º da Lei 8.213), assim distribuídos:
+
+I - seis representantes do Governo Federal; II - nove representantes da sociedade civil, sendo: a) três representantes dos aposentados e pensionistas; b) três representantes dos trabalhadores em atividade; c) três representantes dos empregadores.
+
+Não se trata de uma pessoa jurídica, mas de um *órgão* componente da estrutura do Ministério da Previdência Social. A Resolução CNPS 1.212/2002 aprovou seu regimento interno.
+
+As atribuições do CNPS estão no art. 4º da Lei 8.213 e art. 296 do Dec. 3.048.
+
+Dentre elas, destacam-se:
+
+-   estabelecer diretrizes gerais e apreciar as decisões de políticas aplicáveis à previdência social;
+-   participar, acompanhar e avaliar, sistematicamente, a gestão previdenciária;
+-   apreciar e aprovar os planos e programas da previdência social;
+-   apreciar e aprovar as propostas orçamentárias da previdência social, antes da consolidação na proposta orçamentária da previdência social;
+
+Trata-se, portanto, um órgão de *formulação* e *acompanhamento* de políticas públicas em matéria previdenciária e não um órgão executivo dessas políticas públicas, como o INSS.
+
+O Decreto 3.048/99 instituiu ainda os Conselhos de Previdência Social (CPS) que funcionarão junto às Gerências Executivas do INSS. Trata-se de órgãos consultivos e de assessoramento das Gerências Executivas do INSS, instituídos como unidades descentralizadas do CNPS.
+
+### Instituto Nacional do Seguro Social (INSS)
+
+O Instituto Nacional do Seguro Social foi criado em 1990, pelo Decreto 99.350/90, através de autorização conferida ao Poder Executivo pela Lei 8.029/90. O INSS teve suas atribuições alteradas em 2007 pela Lei 11.457. Sua atual estrutura regimental está estabelecida pelo Decreto 10.995, de 2022.
+
+Trata-se de uma *autarquia federal*, ou seja, uma pessoa jurídica de direito público interno, sujeita à supervisão ministerial do Ministério da Previdência Social.
+
+Em resumo, a finalidade do INSS é *promover o reconhecimento do direito ao recebimento de benefícios previdenciários*, cabendo-lhe:
+
+-   conceder e manter os benefícios previdenciários;
+
+-   emitir certidões de tempo de contribuição (CTC) relativas ao RGPS;
+
+-   gerir os recursos do fundo do RGPS;
+
+-   calcular o montante das contribuições dos trabalhadores e empregadores, além de emitir o correspondente documento de arrecadação, com vistas ao atendimento conclusivo para concessão ou revisão de benefício requerido.
+
+::: {.callout-caution appearance="minimal"}
+O INSS não possui mais atribuições arrecadatórias. A Lei n.º 11.457, de 2007 transferiu à Receita Federal do Brasil a competência para arrecadar, fiscalizar, lançar e normatizar o recolhimento das contribuições sociais devidas pelos trabalhadores e empregadores. Portanto, o INSS dedica-se integralmente à concessão, manutenção e pagamento benefícios e serviços previdenciários, além de atividades afins. O INSS é também responsável pela operacionalização do BPC-LOAS (art. 3º do Dec. 6.214), apesar de não se tratar de um benefício previdenciário, mas assistencial.
+:::
+
+### Conselho de Recursos da Previdência Social (CRPS)
+
+O Conselho de Recursos da Previdência Social é o órgão de controle das decisões administrativas do INSS nos processos referentes aos benefícios operados pela Autarquia. O CRPS não possui personalidade jurídica própria, sendo um órgão da estrutura do Ministério da Previdência Social.
+
+Suas competências julgadoras estão no art. 126 da Lei 8.213 (alterada em 2019 pela Lei n. 13.876):
+
+- julgar recursos das decisões do INSS nos processos de interesse dos beneficiários julgar contestações e recursos relativos à atribuição, pelo Ministério da Economia, do Fator Acidentário de Prevenção aos estabelecimentos das empresas; 
+- julgar recursos das decisões do INSS relacionados à comprovação cadastral de atividade rural ou demais informações relacionadas ao CNIS (Cadastro Nacional de Informações Sociais); julgar recursos de processos relacionados à compensação financeira entre o RGPS e os RPPS, na contagem de contagem do tempo de contribuição para efeito de aposentadoria (Lei n.º 9.796,Lei nº 9.796/99), 
+- julgar recursos de processo relacionados à supervisão e à fiscalização dos regimes próprios de previdência social de que trata a Lei n.º 9.717/98, exercida pela Subsecretaria dos Regimes Próprios de Previdência Social (órgão do Ministério do Trabalho e Previdência).
+
+O CRPS é composto pelos seguintes órgãos:
+
+- Juntas de Recursos, no primeiro grau (hoje, são 29); 
+- Câmaras de Julgamento, no segundo grau (hoje, são 4);
+- Conselho Pleno, com a competência para uniformização de "jurisprudência" previdenciária e assistencial, mediante enunciados, bem como outras competências regimentais. 
+
+No RGPS, não existe curso administrativo forçado, ou seja, não é necessário esgotar a via administrativa antes de ajuizar ação judicial pelo indeferimento, suspensão ou cancelamento de benefício. Mas a propositura de ação com pedido idêntico ao do recurso administrativo implica renúncia ao direito recorrer na via administrativa, bem como desistência do recurso que já tenha sido eventualmente interposto.
+
+O julgamento dos recursos pelo CRPS possui "efeito vinculante" para o INSS, não podendo a Autarquia recusar-se a cumprir as decisões do órgão recursal, exceto quando for demonstrado que foi deferido ao recorrente benefício mais vantajoso e desde que haja manifestação expressa do interessado nesse sentido. 
+
+### Órgãos relacionados ao custeio
+
+Os recursos administrativos que tratem de matéria de contribuições sociais para a seguridade social não são de competência do CRPS, mas do Conselho Administrativo de Recursos Fiscais (CARF), órgão colegiado vinculado ao Ministério da Fazenda 
+
+O CARF é composto por Seções e Câmaras de Recursos Fiscais, que configuram, por assim dizer, a "segunda instância" administrativa em matéria tributária. A primeira instância fica a cargo das Delegacias da Receita Federal de Julgamento (DRJ).
+
+```{dot}
+digraph G {
+rankdir=TB;
+  node [shape=box];
+  
+  "Organização do RGPS" -> "CNPS";
+  "Organização do RGPS" -> "INSS";
+  "Organização do RGPS" -> "CRPS";
+  "CRPS" -> "Conselho Pleno";
+  "CRPS" -> "Câmaras de Julgamento";
+  "CRPS" -> "Juntas de Recursos";
+  "Organização do RGPS" -> "CARF";
+  "CARF" -> "DRJ";
+}
+```

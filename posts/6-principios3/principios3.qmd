@@ -1,0 +1,80 @@
+---
+title: Princípios do Custeio da Seguridade Social
+# description: 
+date: "2023-08-08"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/principios3/
+  language: portuguese
+categories: [aulas]
+bibliography: references.bib
+google-scholar: true
+image: "principios3.jpg"
+---
+
+## Introdução
+
+Como já vimos, o objeto de estudo do Direito Previdenciário abrange as normas sobre o custeio do sistema de seguridade social como um todo. Esse custeio, em grande parte, é proveniente das contribuições sociais estabelecidas pelo art. 195 da Constituição Federal:
+
+> Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais: I - do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre: a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício; b) a receita ou o faturamento; c) o lucro; II - do trabalhador e dos demais segurados da previdência social, podendo ser adotadas alíquotas progressivas de acordo com o valor do salário de contribuição, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo Regime Geral de Previdência Social; III - sobre a receita de concursos de prognósticos. IV - do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.
+
+Todas essas contribuição são instituídas por lei ordinária. Mas, além delas, pode o legislador infraconstitucional instituir contribuições sociais diversas (as chamadas "contribuições sociais residuais"), desde que o faça por *lei complementar*, nos temos do § 4º do mesmo artigo:
+
+> § 4º A lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social, obedecido o disposto no art. 154, I.
+
+Conforme já decidiu o Supremo Tribunal Federal, todas essas contribuições são *tributos essencialmente vinculados ao financiamento da seguridade social* (ADC nº 8-MC, rel. Min. Celso de Mello, j. 13.10.1999, DJ 04.04.2003). Este não é o momento em que trataremos especificamente de cada contribuição social. Agora, cuidaremos apenas dos chamados "princípios do custeio" da seguridade social, localizados no texto da Constituição Federal.
+
+## Orçamento diferenciado
+
+De acordo com o art. 165, § 4º, da Constituição Federal, a lei orçamentária anual deverá compreender três peças orçamentárias:
+
+(i) o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público;
+(ii) o orçamento de investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto;
+(iii) o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público.
+
+Enxerga-se nesse mandamento constitucional uma tentativa de evitar que os recursos da seguridade social sejam desviados para outras finalidades[^1], o que não se logrou conseguir, pois várias foram as leis que ordenaram o remanejamento de verbas do orçamento da seguridade social para atividades estatais diversas.[^2]
+
+[^1]: @lazzari2021, p. 76; @vianna2022, p. 110.
+
+[^2]: VIANNA, @vianna2022, p. 110, citando estudo feito por Wagner Balera.
+
+Outro problema noticiado por @vianna2022 e que reduz a força normativa dessa disposição constitucional é a falta de repasse, pelo Tesouro Nacional, das contribuições sociais incidentes sobre o faturamento e o lucro à seguridade social. Como reforço dessa finalidade, a EC 20/1998, incluiu o inciso XI no art. 167 da Constituição Federal, que veda "a utilização dos recursos provenientes das contribuições sociais de que trata o art. 195, I, a, e II, para a realização de despesas distintas do pagamento de benefícios do regime geral de previdência social de que trata o art. 201."
+
+Contudo, note-se que a própria Constituição Federal prevê possibilidade de autorização legislativa específica para a utilização de recursos dos orçamentos fiscal e da seguridade social, a fim de suprir necessidade ou cobrir déficit de empresas, fundações e fundos (art. 167, VIII, interpretado a contrario). Segundo Vianna, foi a realidade de sucessivos superávits do orçamento da seguridade social que fundamentou a aprovação da Desvinculação das Receitas da União, a DRU, através da Emenda Constitucional n.º 42/2003. A DRU nada mais é do que a permissão para redirecionar para outras finalidades 20% da arrecadação da União, a título de impostos, contribuições sociais e de intervenção no domínio econômico, já instituídas ou que vierem a ser criadas no período, bem como seus adicionais e respectivos acréscimos legais (art. 76, ADCT). Posteriormente, as emendas constitucionais nºs 56/2007 e 68/2011 prorrogaram a DRU, respectivamente, até 31/12/2011 e 21/12/2015. Em 2016, a Emenda Constucional n.º 93 prorrogou novamente a DRU até 31/12/2023, aumentando-a para o percentual de 30%. Uma nova realidade fiscal de sucessivos déficits na seguridade social, decorrentes da crise que se verificou desde o ano 2016, levou o constituinte reformador a excluir da DRU as receitas das contribuições sociais destinadas ao custeio da seguridade social (EC 103/2019, que acrescentou o § 4º no art. 76 do ADCT).
+
+## Precedência da fonte de custeio
+
+Nenhum benefício ou serviço da seguridade social poderá ser *criado*, *majorado* ou *estendido* sem a correspondente fonte de custeio total (art. 195, §5º). Não se trata de uma novidade da Constituição de 1988. Já havia previsão nesse sentido no art. 158, § 1º, da Constituição de 1967, que foi mantida no parágrafo único do art. 165 da EC 01/1969.
+
+Trata-se de um "princípio" que tem íntima relação com o do equilíbrio financeiro e atuarial (art. 201, *caput*, da Constituição Federal).
+
+Não basta indicar a fonte de custeio, mas que essa fonte cubra *integralmente* a nova despesa criada através da instituição, majoração ou extensão do benefício.
+
+Recentemente, o STF aplicou o "princípio" ao suspender, por decisão monocrática, o aumento do critério de "miserabilidade" para efeito de deferimento do BPC-LOAS. Lê-se na parte dispositiva do julgado:
+
+> Concedo, em parte, a medida cautelar postulada, ad referendum do Plenário, apenas para suspender a eficácia do art. 20, § 3º, da Lei 8.742, na redação dada pela Lei 13.981, de 24 de março de 2020, enquanto não sobrevier a implementação de todas as condições previstas no art. 195, §5°, da CF, art. 113 do ADCT, bem como nos arts. 17 e 24 da LRF e ainda do art. 114 da LDO (ADPF 662 MC/DF, relator Gilmar Mendes)
+
+## Compulsoriedade da contribuição
+
+O *caput* do art. 201 da Constituição estabelece que a previdência social será organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória. Contribuição social (art. 149, CF) é, em todos os aspectos, tributo, ou seja, "prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada" (art. 3º, CTN).
+
+Dentro do gênero "contribuições sociais", temos a espécie "contribuição previdenciária", que é devida (art. 195, I, "a" e II, ambos da Constituição Federal): (i) pelo empregador, empresa ou entidade a ela equiparada, incidente sobre a folha de salários e demais rendimentos do trabalho, pagos ou creditados, a qualquer título à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício; (ii) pelo trabalhador e demais segurados da previdência social .
+
+Todas as contribuições sociais são prestações compulsórias; no entanto, ao estabelecer ao "caráter contributivo" e a "filiação obrigatória", o *caput* do art. 201 parece referir-se às contribuições devidas pelos trabalhadores, na qualidade de filiados ao regime geral de previdência social.[^3] Não é assim em todos os países do mundo. Na Nova Zelândia, por exemplo, vigora um regime no qual inexiste compulsoriedade de contribuir para a previdência social, sendo os benefícios nessa área custeados pelos tributos em geral.[^4]
+
+[^3]: O caráter contributivo dos regimes próprios dos servidores públicos titulares de cargos efetivos é garantido pelo caput do art. 40 da Constituição.
+
+[^4]: @lazzari2021, p. 78.
+
+O caráter contributivo é ínsito ao sistema previdenciário no Brasil, mas as contribuições podem eventualmente ser dispensadas ou o ônus de seu recolhimento pode ser transferido para outra pessoa. Exemplo da primeira hipótese é a dispensa do recolhimento de contribuições previdenciárias para que o segurado especial faça jus a certos benefícios no valor de um salário mínimo (Lei 8.213/91, art. 39, I, e parágrafo único). Exemplo da segunda hipótese é a responsabilidade que recai sobre a empresa de arrecadar e recolher as contribuições dos segurados empregados e trabalhadores avulsos a seu serviço, descontando-as da respectiva remuneração (Lei 8.212, art. 30, I, a).
+
+## Anterioridade tributária
+
+Determina o art. 195, § 6º, da Constituição Federal que as contribuições sociais de que trata o mesmo artigo só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o disposto no art. 150, III, "b".
+
+Tais espécies tributárias seguem, portanto, a chamada "anterioridade nonagesimal", ou "noventena". Na medida em que o dispositivo constitucional exclui a incidência do art. 150, III, "b", a criação ou aumento de contribuições sociais *não respeita a anterioridade de exercício*, ou seja, podem até mesmo ser cobradas no mesmo exercício financeiro da publicação da lei que as tiver criado ou majorado.
+
+Deve-se atentar para o fato de que o princípio da anterioridade nonagesimal aplica-se apenas à *criação* e à *majoração* de contribuições sociais. Não se aplica, por outro lado, às leis que reduzam o valor dessas contribuições ou isentem certos contribuintes de seu recolhimento. Obviamente, também não se aplicam às leis que criam novos benefícios no âmbito da seguridade social. Nesses dois últimos casos, a data de vigência, em geral, será estabelecida pela própria lei. No caso de não haver previsão sobre a data de entrada em vigor, aplica-se o art. 1º da LINDB.[^5]
+
+[^5]: Decreto-Lei nº 4.657/1942. Art. 1º. Salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada.

@@ -1,0 +1,225 @@
+---
+title: Princípios da Seguridade Social
+# description: 
+date: "2023-08-06"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/principios/
+  language: portuguese
+categories: [aulas]
+bibliography: references.bib
+google-scholar: true
+image: "principios.png"
+---
+
+## Sobre princípios e regras
+
+A interpretação dos textos normativos pode originar dois tipos de *normas*: as *regras* e os *princípios.*
+
+De acordo com o pensamento de Robert Alexy[^1], bastante acolhido pela doutrina e pela jurisprudência nacionais, os princípios são *mandamentos de otimização*. É dizer, "são normas que ordenam que algo seja realizado na maior medida possível, dentro das possibilidades fáticas e jurídicas existentes." Dessa maneira, os princípios podem ser satisfeitos em graus variados. No âmbito das possibilidades jurídicas que limitam a realização dos princípios, temos as outras regras e princípios colidentes, o que possibilita o cumprimento gradual.
+
+[^1]: @alexy2008, pp. 90-91.
+
+Já as regras são *mandamentos definitivos*; isto é, ou são cumpridas, ou não o são. Se uma regra é válida, "deve-se fazer exatamente aquilo que ela exige; nem mais, nem menos."
+
+Um exemplo poderá esclarecer a distinção.
+
+O art. 37 da Constituição Federal determina que a administração pública direta e indireta de qualquer dos Poderes da União, dos Estados do Distrito Federal e dos Municípios deve obedecer aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência. Neste caso, o esforço argumentativo do intérprete para classificar essas normas como princípios é bastante reduzida, pois o próprio texto os qualifica dessa forma. De fato, não há, no *caput* do art. 37, descrição das condutas que configurem cumprimento desses princípios. A Constituição manda respeitá-los, sem dizer como.
+
+Tomemos como exemplo o princípio da *publicidade.* Uma das formas pelas quais o texto constitucional pretende garanti-lo é o acesso de todos às informações armazenadas pelos órgãos públicos e que sejam de interesse particular ou de interesse coletivo ou geral (art. 5º, XXXIII). Mas o próprio texto ressalva aquelas informações que sejam imprescindíveis à segurança da sociedade e do Estado.
+
+Regulamentando o dispositivo constitucional, a Lei de Acesso à Informação (Lei n.º 12.527/2011) classifica como "informações imprescindíveis à segurança da sociedade ou do Estado" aquelas que possam "pôr em risco a defesa e a soberania nacionais ou a integridade do território nacional." (art. 23, I).
+
+Conclui-se que o mandamento de publicidade, que rege a Administração Pública, obedece a alguns limites, entre os quais está a "segurança da sociedade e do Estado." Esse mandamento deverá, assim, ser garantido *na maior medida possível*, desde que respeitados os condicionamentos existentes no ordenamento jurídico nacional. Confirma-se, desse modo, seu caráter de princípio, pois a norma pode ser cumprida em graus variados, devendo ser "ponderada" com outras normas vigentes.
+
+Leia-se agora o inciso XVI do mesmo artigo 37, que estabelece o seguinte: "é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI: a) a de dois cargos de professor; b) a de um cargo de professor com outro técnico ou científico; c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas;"
+
+Não há dúvida de que se trata de uma norma-regra: é proibida a acumulação, com as exceções descritas no texto constitucional. Existe um *mandamento definitivo* que somente admite cumprimento ou descumprimento, nunca cumprimento gradual. Se alguém acumula cargos públicos fora das exceções constitucionais, descumpre a regra; se não o faz, cumpre-a.
+
+Para quem admite, como nós, que as normas são o *produto* da interpretação dos textos normativos, e não seu *objeto*, importa pouco que o discurso das fontes anuncie algo como um princípio. Se a Constituição diz expressamente que algo é princípio ou uma regra, isso não é garantia de que assim seja. O que importa, na realidade, é reconduzir o texto normativo a conceitos teóricos de regra e de princípio.
+
+Esse distinção não é desprovida de consequências. Sobretudo quando se considera que existe, na prática judiciária, por um lado, um relevante deficit de efetividade das normas principiológicas e, por outro, uma proliferação, tanto criativa quanto inconsequente, de princípios jurídicos.[^2]
+
+[^2]: V. @streck2013.
+
+```{dot}
+digraph G {
+rankdir=LR;
+  node [shape=box];
+  
+  "Texto" -> "Interpretação";
+  "Interpretação" -> "Normas";
+  "Normas" -> "Princípios";
+  "Normas" -> "Regras";
+  "Princípios" -> "Mandamentos de otimização";
+  "Regras" -> "Mandamentos definitivos";
+}
+```
+
+Feitas essas observações, é hora de avançar no estudo dos princípios constitucionais da seguridade social. Começaremos por aqueles que, de acordo com a interpretação corrente, estão *explícitos* no texto constitucional (art. 194, parágrafo único).
+
+## Princípios constitucionais da seguridade social (art. 194, parágrafo único, CF)
+
+O parágrafo único do art. 194 da Constituição Federal confere competência ao Poder Público, para, nos termos da lei, organizar a seguridade social, com base em alguns objetivos. A interpretação doutrinária enxerga, nesses objetivos anunciados pelo texto constitucional, os chamados "princípios constitucionais da seguridade social."[^3]
+
+[^3]: @lazzari2021, p. 73.
+
+### Universalidade da cobertura e do atendimento (inciso I)
+
+O inciso I do parágrafo único art. 194 estabelece o "princípio" da "universalidade da cobertura e do atendimento." A doutrina interpreta esse enunciado dizendo que se trata, na verdade, de um duplo princípio (universalidade da cobertura e universalidade do atendimento).
+
+O subprincípio da *universalidade da cobertura* (prisma objetivo) é um mandamento para que o Poder Público preveja cobertura securitária a todos os eventos em que a subsistência das pessoas esteja ameaçada.
+
+O subprincípio da *universalidade do atendimento* (prisma subjetivo) é um mandamento para que o Poder Público garanta "ações, prestações e serviços da seguridade social."a todos aqueles que necessitarem.
+
+No entanto, o princípio da universalidade da cobertura e do atendimento concorre com outros princípios e regras de status constitucional. Deve ser coordenada, por exemplo, com o princípio da *seletividade e distributividade na prestação dos benefícios e serviços*, tratado adiante (art. 194, parágrafo único, inciso III).
+
+Existe também a necessidade de prever a *fonte de custeio total* caso o legislador venha a criar, majorar ou estender (art. 195, § 5º) benefícios e serviços no âmbito da seguridade social. Por fim, especificamente quando ao subsistema previdenciário, deve-se ter em conta a *contributividade* que lhe é inerente (art. 201, *caput*), de forma que somente os contribuinte --- e não "todos" --- terão direito a prestações previdenciárias.
+
+```{dot}
+digraph G {
+rankdir=LR;
+  node [shape=box];
+  
+  "Universalidade da cobertura e do atendimento" -> "Universalidade da cobertura";
+  "Universalidade da cobertura e do atendimento" -> "Universalidade do atendimento";
+  "Universalidade da cobertura" -> "Prisma objetivo (eventos)";
+  "Universalidade do atendimento" -> "Prisma subjetivo (pessoas)";
+  "Universalidade da cobertura e do atendimento" -> "deve ser ponderado com";
+  "deve ser ponderado com" -> "seletividade e distributividade na prestação dos benefícios e serviços (inc. III)";
+  "deve ser ponderado com" -> "precedência da fonte de custeio total (art. 195, § 5º)";
+  "deve ser ponderado com" -> "contributividade do subsistema de previdência social (art. 201,caput)";
+}
+```
+
+### Uniformidade e equivalência dos benefícios e serviços das populações urbanas e rurais (inciso II)
+
+O art. 7º, *caput*, da Constituição Federal elenca direitos sociais dos trabalhadores "urbanos e rurais", não diferenciando tais trabalhadores entre si. De forma mais genérica, o *caput* do art. 5º da Constituição proclama que "todos são iguais perante a lei, sem distinção de qualquer natureza." Vê-se que, não satisfeito com a previsão ampla do *caput* do art. 5º, o constituinte entendeu relevante dispor expressamente sobre o princípio da igualdade no que concerne à proteção social das populações urbanas e rurais, quebrando uma antiga tradição de discriminação em relação aos trabalhadores rurais.
+
+Quando foi promulgada a Constituição 1988, estava vigente a Lei Complementar n.º 11/1971, que dispunha sobre a previdência rural, destinada à prestação dos benefícios de aposentadoria por velhice, aposentadoria por invalidez, pensão, auxílio-funeral, serviço social e serviço de saúde aos trabalhadores rurais e aos seus dependentes. Já para os demais trabalhadores, vigorava a Lei 3.807/1960 (LOPS - Lei Orgânica da Previdência Social), que previa diversos outros benefícios e excluia os trabalhadores rurais expressamente (art. 3º, II).
+
+Nesse contexto normativo, a Constituição 1988 pretendeu equiparar todas as categorias de trabalhadores, obrigando o legislador a instituir benefícios e serviços *uniformes* e *equivalentes.* Benefícios e serviços diferenciam-se pelo objeto das prestações envolvidas: enquanto os primeiros consistem em prestações pecuniárias (obrigações de dar dinheiro), os últimos são obrigações de fazer. O que pretende a Constituição é que o legislador preveja *idênticos benefícios e serviços* (uniformidade) para *os mesmos eventos cobertos* (equivalência)[^4].
+
+[^4]: @lazzari2021, p. 73.
+
+A Constituição não parece, contudo, vedar a *discriminação positiva* em favor dos trabalhadores rurais, em decorrência das peculiaridade que lhes são inerentes e na medida dessas desigualdades. Na realidade, o próprio texto constitucional traz previsões nesse sentido, sendo digna de nota a existência de critérios diferenciados para a aposentadoria por idade (art. 201, inciso II). No âmbito infraconstitucional, a Lei 8.213/91 *garante*, para os segurados especiais (que são uma espécie de trabalhadores rurais), a concessão de certos benefícios no valor de um salário mínimo, dispensando, dessa forma, o recolhimento de contribuições previdenciárias (art. 39, I, e parágrafo único).
+
+```{dot}
+digraph G {
+rankdir=LR;
+  node [shape=box];
+  
+  "Uniformidade e equivalência" -> "uniformidade";
+  "Uniformidade e equivalência" -> "equivalência";
+  "uniformidade" -> "mesmos benefícios e serviços";
+  "equivalência" -> "mesmos eventos cobertos";
+}
+```
+
+### Seletividade e distributividade na prestação dos benefícios e serviços (inciso III)
+
+A universalidade da cobertura e do atendimento é um objetivo que possui diversos condicionamentos. Um deles certamente é a escassez de recursos públicos para fazer frente a todos os riscos sociais a que estão submetidas as pessoas e que, em abstrato, poderiam ser objeto de proteção social. Lembremo-nos de que, embora a seguridade social seja uma área de atuação estatal bastante importante, o Estado também deve prestar diversos outros serviços públicos, como a segurança, a educação, a cultura etc.
+
+A vasta gama de atividades estatais exigidas constitucionalmente torna necessária a existência de recursos públicos suficientes. No entanto, a capacidade de arrecadação estatal varia em função de aspectos estruturais e conjunturais da economia nacional. Daí porque é necessário que a seguridade social selecione as contingências sociais mais importantes do ponto de vista do impacto social que podem causar, a fim de contra elas proteger as pessoas.
+
+*Seletividade na prestação dos benefícios e serviços* é, nesse contexto, uma diretriz para o legislador infraconstitucional, que prescreve a adoção de critérios de relevância dos riscos sociais que devem ser objeto de proteção[^5].
+
+[^5]: @goes2022, p. 48.
+
+Como exemplo, podemos citar o benefício por incapacidade temporária do segurado empregado (auxílio-doença). De acordo com o art. 60 da Lei 8.213/91, esse benefício será devido ao segurado empregado a contar do décimo sexto dia do afastamento da atividade, e, no caso dos demais segurados, a contar da data do início da incapacidade e enquanto ele permanecer incapaz. Dessa maneira, se o segurado empregado ficar incapaz para o trabalho por até quinze dias, incumbe à empresa pagar-lhe o salário integral (§ 3º do mesmo artigo). Aqui se tem um caso evidente de distribuição do risco social entre os empregadores e o Estado. É dizer: o legislador ordinário, cumprindo o mandamento constitucional que determina a cobertura do evento incapacidade temporária para o trabalho (art. 201, CRFB), seleciona a hipótese de incapacitação por mais de quinze dias do segurado empregado, entendendo-a relevante para a proteção previdenciária.
+
+*Distributividade*, por sua vez, é uma diretriz mediante a qual se deve entender a prestação dos benefícios e serviços da seguridade social como um meio de distribuição de renda e garantia do bem-estar social. Ou seja, além de selecionar os riscos sociais de maior relevância, deve o legislador distribuir os benefícios e serviços pertinentes de maneira a alcançar a parcela mais necessitada da população. Pretende-se, dessa forma, cumprir o objetivo da ordem social na Constituição de 1988: promover o *bem estar* e a *justiça sociais* (art. 193).
+
+```{dot}
+digraph G {
+rankdir=LR;
+  node [shape=box];
+  
+  "Seletividade e distributividade" -> "seletividade";
+  "Seletividade e distributividade" -> "distributividade";
+  "seletividade" -> "adotar o critério de relevância dos riscos cobertos";
+  "distributividade" -> "atentar para o caráter redistributivo de renda";
+}
+```
+
+### Irredutibilidade do valor dos benefícios (inciso IV)
+
+Não nos parece que a irredutibilidade do valor dos benefícios seja um princípio da seguridade social, se adotarmos o conceito defendido por Alexy.
+
+Isso porque não se trata de um mandamento de otimização, e sim de um mandamento definitivo. Se alguém é titular de um benefício, então esse benefício não pode ser reduzido. Não se enxerga forma de cumprir parcialmente esse objetivo.
+
+Anunciar que compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base em vários objetivos, entre os quais a "irredutibilidade do valor dos benefícios" parece-nos uma forma mais obscura (e pouco elegante) de dizer que o Poder Público simplesmente *não pode* (está proibido de) reduzir o valor dos benefícios da seguridade social. Nada além disso. Trata-se de uma regra.
+
+Uma questão subsequente é saber se o dispositivo constitucional garante a irredutibilidade do valor *nominal* ou *real.*
+
+A jurisprudência do Supremo Tribunal Federal já decidiu que o dispositivo em comento garante a irredutibilidade do valor *nominal* dos benefícios[^6]. Por outro lado, o § 4º do art. 201 da Constituição garante a preservação do valor *real* dos benefícios, "conforme critérios definidos em lei." Ou seja, além de não poderem ser reduzidos (art. 194, *caput*, inciso IV ), os benefícios da seguridade social dever ser reajustados (art. 201, § 4º), de modo a preservar o seu valor real (o seu poder de compra) de acordo com os critérios legais. As regras são complementares.
+
+[^6]: EMENTA: RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. LEIS 8542/92 E 8700/93. CONVERSÃO DO BENEFÍCIO PARA URV. CONSTITUCIONALIDADE DA PALAVRA "NOMINAL" CONTIDA NO INCISO I DO ARTIGO 20 DA LEI 8880/94. ALEGAÇÃO PROCEDENTE. 1. O legislador ordinário, considerando que em janeiro de 1994 os benefícios previdenciários teriam os seus valores reajustados, e que no mês subseqüente se daria a antecipação correspondente à parcela que excedesse a 10% (dez por cento) da variação da inflação do mês anterior, houve por bem determinar que na época da conversão da moeda para Unidade Real de Valor fosse observada a média aritmética das rendas nominais referentes às competências de novembro e dezembro de 1993 e janeiro e fevereiro de 1994, período que antecedeu a implantação do Plano Real, dado que a URV traduzia a inflação diária. 2. Conversão do benefício para URV. Observância das Leis 8542/92, 8700/93 e 8880/94. Inconstitucionalidade da palavra nominal contida no inciso I do artigo 20 da Lei 8880/94, por ofensa à garantia constitucional do direito adquirido (CF, artigo 5º, XXXVI). Improcedência. O referido vocábulo apenas traduz a vontade do legislador de que no cálculo da média aritmética do valor a ser convertido para a nova moeda fossem considerados os reajustes e antecipações efetivamente concedidos nos meses de novembro e dezembro de 1993 e janeiro e fevereiro de 1994. Recurso extraordinário conhecido e provido.
+
+Atualmente, o art. 41-A da Lei n.º 8.213/91 regulamenta o § 4º do art. 201 da Constituição, determinando que os benefícios em manutenção devem ser reajustados "anualmente, na mesma data do reajuste do salário mínimo, pro rata, de acordo com suas respectivas datas de início ou do último reajustamento, com base no Índice Nacional de Preços ao Consumidor - INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE." O Supremo Tribunal já decidiu pela constitucionalidade da previsão do INPC como índice de reajuste do valor dos benefícios[^7].
+
+[^7]: EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. BENEFÍCIO. CRITÉRIO DE REAJUSTE. INCISO II DO ART. 41 DA LEI 8.213/1991 (REDAÇÃO ORIGINAL). CONSTITUCIONALIDADE. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da constitucionalidade do inciso II do art. 41 da Lei 8.213/1991 (redação original), que determinou o reajuste dos valores dos benefícios em manutenção de acordo com as suas respectivas datas e com base na variação integral do INPC. Precedentes. 2. Agravo regimental desprovido.
+
+### Equidade na forma de participação no custeio (inciso V)
+
+O custeio da seguridade social é mantido pelo orçamento dos entes federativos e pelas contribuições sociais para a seguridade social (art. 195, CRFB).
+
+O princípio da equidade na forma de participação no custeio é uma decorrência do princípio da igualdade e, no âmbito tributário, da capacidade contributiva (ou econômica), previsto expressamente no art. 145, § 1º, do texto constitucional para os impostos, "sempre que possível".
+
+Dessa maneira, as contribuições sociais também devem obedecer ao critério de capacidade contributiva, de forma a tratar desigualmente os desiguais, na medida de suas desigualdades (econômicas).
+
+São exemplos de concretização desse princípio: (i) a previsão constitucional de alíquotas diferenciadas da contribuição social previdenciária devida pelas empresas em função de sua atividade econômica, da utilização intensiva de mão de obra, do porte da empresa ou da condição estrutural do mercado de trabalho;[^8] (ii) o Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional)[^9].
+
+[^8]: CRFB, art. 195, § 9º.
+
+[^9]: Lei Complementar n.º 123/2006.
+
+### Diversidade da base de financiamento, identificando-se, em rubricas contábeis específicas para cada área, as receitas e as despesas vinculadas a ações de saúde, previdência e assistência social, preservado o caráter contributivo da previdência social (inciso VI)
+
+Poderíamos reconstruir o "princípio" da diversidade da base de financiamento em duas *regras.*:
+
+(i) o Poder Público está obrigado a recorrer a diversas fontes para custear as ações no âmbito da seguridade social. A extensão dessa diversidade é conferida pelo art. 195 do texto constitucional, que assim dispõe:
+
+> Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:  I. do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre: a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício; b) a receita ou o faturamento; c)o lucro; II. do trabalhador e dos demais segurados da Previdência Social, podendo ser adotadas alíquotas progressivas de acordo com o valor do salário de contribuição, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo Regime Geral de Previdência Social; III. sobre a receita de concursos de prognósticos. IV. do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar. Além disso, o § 4º do mesmo artigo determina que: § 4º A lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social, obedecido o disposto no art. 154, I.[^10]
+
+[^10]: Trata-se das chamadas "contribuições sociais residuais" que só podem ser criadas por lei complementar, conforme disposto no art. 154, I, CRFB.
+
+(ii) o Poder Público está obrigado a elencar rubricas contábeis específicas (nas peças orçamentárias) para os três subsistemas da assistência social: saúde, previdência e assistência, tanto na parte das receitas quanto na parte das despesas, "preservado o caráter contributivo da previdência social."[^11]
+
+[^11]: Essa é uma repetição inócua, haja vista que o caráter contributivo da previdência já é estabelecido pelo *caput* do art. 201.
+
+A última regra foi inserida pela Emenda Constitucional n.º 103/2019.
+
+### Caráter democrático e descentralizado da administração, mediante gestão quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos colegiados (inciso VII)
+
+Mediante a democratização da administração, chamam-se a participar, no processo decisório, aqueles que sofrerão a repercussão das decisões governamentais.
+
+A gestão quadripartite envolve trabalhadores, empregadores, aposentados e governo. No entanto, deve-se lembrar que só existem *aposentados* do subsistema de previdência social, não dos sistemas de saúde e assistência.
+
+No plano infraconstitucional, vê-se a concretização desse princípio nos conselhos deliberativos existentes nos subsistemas de assistência, previdência e saúde:
+
+(i) Conselho Nacional de Previdência Social, com a seguinte composição (art. 3º da Lei 8.213/91):
+
+-   6 (seis) representantes do governo e
+-   9 (nove) representantes da sociedade civil, sendo:
+-   3 (três) representantes dos aposentados e pensionistas
+-   3 (três) representantes dos trabalhadores em atividade
+-   3 (três) representantes dos empregadores.
+
+(ii) Conselho Nacional de Assistência Social, com a seguinte composição (art. 17, § 1º, Lei 8.742/93):
+
+-   9 (nove) representantes governamentais, incluindo 1 (um) representante dos Estados e 1 (um) dos Municípios;
+
+-   9 (nove) representantes da sociedade civil, dentre representantes dos usuários ou de organizações de usuários, das entidades e organizações de assistência social e dos trabalhadores do setor, escolhidos em foro próprio sob fiscalização do Ministério Público Federal.
+
+(iii) Conselho Nacional de Saúde, com 48 membros titulares, sendo (art. 2º do Dec. 5.839/2006):
+
+-   cinqüenta por cento de representantes de entidades e dos movimentos sociais de usuários do SUS; e
+-   cinqüenta por cento de representantes de entidades de profissionais de saúde, incluída a comunidade científica da área de saúde, de representantes do governo, de entidades de prestadores de serviços de saúde, do Conselho Nacional de Secretários de Saúde - CONASS, do Conselho Nacional de Secretários Municipais de Saúde - CONASEMS e de entidades empresariais com atividade na área de saúde.
+
+Ao contrário do afirmam Lazzari e Castro[^12], não nos parece que a Constituição Federal exija que a composição dos órgãos colegiados com competência deliberativa dos subsistemas da seguridade social seja paritária entre as categorias mencionadas.
+
+[^12]: @lazzari2021, p. 75.
+
+<!--#  (RE 313382, Relator(a): MAURÍCIO CORRÊA, Tribunal Pleno, julgado em 26/09/2002, DJ 08-11-2002 PP-00042 EMENT VOL-02090-06 PP-01122 RTJ VOL-00183-03 PP-01154) (AI 581403 AgR, Relator(a): AYRES BRITTO, Segunda Turma, julgado em 28/09/2010, DJe-227 DIVULG 25-11-2010 PUBLIC 26-11-2010 EMENT VOL-02439-01 PP-00140)-->

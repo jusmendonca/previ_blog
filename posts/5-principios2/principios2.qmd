@@ -1,0 +1,138 @@
+---
+title: Princípios Gerais do Direito Previdenciário
+# description: 
+date: "2023-08-07"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/principios2/
+  language: portuguese
+categories: [aulas]
+bibliography: references.bib
+google-scholar: true
+image: "principios2.jpg"
+---
+
+Os princípios de que tratamos anteriormente estão expressos na Constituição. Mas há outros que a doutrina *constroi* a partir de uma interpretação sistemática de certos dispositivos constitucionais. Trata-se dos chamados "princípios gerais do Direito Previdenciário."
+
+## Solidariedade
+
+A manutenção da seguridade social somente é possível através de contribuições da sociedade. Todo o sistema se funda na ideia de que, além dos direitos individuais e coletivos, existem alguns deveres dos indivíduos para com a sociedade, entre os quais está o de contribuir para o sustento do sistema de seguridade social.
+
+O dever de pagar tributos para que o Estado proveja as necessidades dos cidadãos expressa essa concepção de solidariedade, diretamente vinculada à ideia de contrato social. Não se trata de impor aos cidadãos uma virtude, mas de admitir que a vida em sociedade depende das contribuições de todos em favor daqueles que se encontram em situações de risco social.
+
+Apesar de não haver uma base textual evidente na Constituição, o princípio da solidariedade pode ser extraído do art. 3º, inciso I, que anuncia como um dos objetivos da República Federativa do Brasil "construir uma sociedade livre, justa e solidária", em conjunto com os artigos 195, *caput* ("a seguridade social será financiada por toda a sociedade" e 194, VI (diversidade da base de financiamento), todos da Constituição Federal.[^1] Interpretando sistematicamente esses dispositivos, podemos concluir que a construção de uma sociedade livre, justa e solidária deve ser alcançada através de contribuições de todos, que o fazem através de tributos.
+
+[^1]: @vianna2022, p. 115; @goes2022, p. 56; @lazzari2021, p. 70.
+
+Dessa maneira, o citado princípio não impõe um dever moral de ser solidário. Seu conteúdo jurídico representa, na verdade, uma imposição de *contribuir* para o atendimento dos interesses da parcela da população atingida por algum tipo de contingência social, seja a perda ou redução da capacidade de o trabalhador autossustentar-se (previdência), seja a situação de vulnerabilidade social (assistência), seja o risco de doenças e outros agravos (saúde).
+
+Desse modo, estamos diante de uma solidariedade normativa, que impõe a uma maioria (o conjunto de todos os contribuintes) aportar recursos para atender as necessidades de uma minoria (o conjunto das pessoas atingidas por contingências sociais). Cuida-se, portanto, de uma força contramajoritária cuja necessidade deriva de um interesse geral de que as pessoas em situação de risco social tenham suas necessidades supridas pelo Estado, sob pena de criar uma instabilidade que prejudicaria a todos.[^2]
+
+[^2]: Em sentido semelhante, @sunstein2019, onde se lê: "Os governos liberais também têm de impedir que a disparidade entre o luxo e a miséria cresça e apareça ao ponto de o ódio entre as classes começar a pôr em risco a estabilidade social e o próprio regime de propriedade privada."
+
+A solidariedade se concretiza *direta* ou *indiretamente*[^3]; de forma direta, através do pagamento de contribuições sociais, que são espécies tributárias especificamente voltadas ao financiamento da seguridade social; de forma indireta, através do pagamento dos demais tributos que irão compor os orçamentos dos entes federativos (União, Estados, DF e Municípios) e que também serão investidos em ações de seguridade, entre outras finalidades.
+
+[^3]: @vianna2022, p. 115.
+
+O princípio da solidariedade pode também ser analisado sob a óptica *vertical* ou *horizontal.* Do ponto de vista vertical "significa que uma geração deve trabalhar para pagar os benefícios da geração anterior (pacto intergeracional)." Já do ponto de vista horizontal, "representa a redistribuição de renda entre as populações (pacto intrageracional)[^4]."
+
+[^4]: @kertzman2011, p. 68.
+
+No âmbito específico da previdência, o caráter solidário do sistema implica a inexistência de equivalência entre as contribuições feitas pelo segurado e os benefícios a serem eventualmente recebidos por ele. Isso torna possível, por exemplo, que um jovem trabalhador recém contratado, colhido por um evento acidentário grave e incapacitante, faça jus a um benefício previdenciário que receberá por tempo muito superior ao seu período contributivo (aposentadoria por incapacidade permanente, ou por "invalidez"). Simetricamente, o dependente de um trabalhador aposentado que venha a falecer pode receber um benefício de pensão em valor menor ao montante total de suas contribuições e por tempo bastante inferior ao período contributivo. Essas aparentes discrepâncias derivam do fato de que o trabalhador paga contribuições para financiar os benefícios *de todos* aqueles que se encontram nas situações descritas em lei e não apenas os seus próprios benefícios e de seus dependentes. Vigora aqui a mesma lógica da distribuição dos riscos no contrato de seguro.
+
+Um entendimento semelhante fundamentou o julgamento do tema da "desaposentação" no STF. A tese da desaposentação (desaposentadoria, reaposentação ou reaposentadoria) consistia no seguinte. O regime geral de previdência social, em regra, não veda que o trabalhador aposentado volte a trabalhar em uma atividade sujeita a filiação ao mesmo regime. Nesta hipótese, ele receberá, além de seu benefício previdenciário, os rendimentos de seu trabalho. Tais rendimentos estão sujeitos à incidência de contribuições previdenciárias. Essas contribuições, no entanto, não geram os mesmos direitos que gerariam se ele não estivesse aposentado. Isso porque o art. 18, § 2º, da Lei 8.213/91, com redação dada pela Lei 9.527/97, assim dispõe:
+
+> § 2º O aposentado pelo Regime Geral de Previdência Social--RGPS que permanecer em atividade sujeita a este Regime, ou a ele retornar, não fará jus a prestação alguma da Previdência Social em decorrência do exercício dessa atividade, exceto ao salário-família e à reabilitação profissional, quando empregado.
+
+Diante disso, não é possível, por exemplo, que o aposentado na situação descrita venha a pedir nova aposentadoria no RGPS ("reaposentação"), abdicando do benefício anterior ("desaposentação"), para que sejam levados ao cálculo do novo benefício as contribuições que ele fez depois de aposentar-se. A despeito disso, muitos aposentados postularam esse direito em juízo, a fim de aumentar o valor de suas aposentadorias. Mas, para ser vitoriosa, essa tese necessitava da declaração de inconstitucionalidade do dispositivo mencionado. Por isso, a discussão chegou ao Supremo Tribunal Federal, que terminou julgando *constitucional* o art. 18, § 2º, da Lei 8.213/91:
+
+> Tese de Repercussão Geral n.º 503/STF. A Constituição de 1988 desenhou um sistema previdenciário de teor solidário e distributivo. inexistindo inconstitucionalidade na aludida norma do art. 18, § 2º, da Lei nº 8.213/91, a qual veda aos aposentados que permaneçam em atividade, ou a essa retornem, o recebimento de qualquer prestação adicional em razão disso, exceto salário-família e reabilitação profissional.
+
+Está implícita na tese fixada pelo Supremo a noção de solidariedade aqui trabalhada. Na medida em que as contribuições servem não só para financiar benefícios do segurado, a lei pode restringir seus efeitos. Mas nada impede que o legislador disponha de maneira diversa, prevendo expressamente, no futuro, o direito à desaposentação e à reaposentação, ou mesmo revogando o § 2º do art. 18 da Lei 8.213/91.
+
+## Vedação ao retrocesso social (efeito *cliquet*)
+
+De acordo com a doutrina, o princípio da vedação ao retrocesso social corresponde a uma proibição, dirigida ao Estado, de retroceder na implementação de direitos fundamentais já concretizados através de atos normativos.
+
+Lazzari e Castro[^5] extraem esse princípio do art. 5º, § 2º[^6] e do art. 7º, *caput*[^7], todos da Constituição Federal. Eles consideram que o princípio implica uma tríplice proteção: quanto às *pessoas* abrangidas pelas políticas públicas de seguridade, quanto aos *eventos* geradores das prestações da seguridade e quanto aos *valores* dos benefícios. Dessa maneira, uma lei não poderia diminuir a proteção em nenhum desses aspectos.
+
+[^5]: @lazzari2021, p. 70.
+
+[^6]: "Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte."
+
+[^7]: "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:"
+
+Outro dispositivo constitucional que poderia ser invocado para sustentar a existência desse princípio é o que o art. 3º, III, que elenca como objetivo da República Federativa do Brasil "erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais." Portanto, iria na contramão desses objetivos qualquer medida estatal que retrocedesse em direitos sociais já implementados por leis e atos infralegais.
+
+Ana Paula Barcellos[^8] expressa essa ideia como uma das modalidades de eficácia dos direitos fundamentais:
+
+[^8]: @barcellos2020, p. 58.
+
+> (...) o que a eficácia vedativa do retrocesso propõe se possa exigir do Judiciário é a invalidade da revogação dos enunciados que, regulamentando o princípio constitucional, ensejaram a aplicação e fruição dos direitos fundamentais ou os ampliaram, toda vez que tal revogação não seja acompanhada de uma política substitutiva.
+
+Dessa forma, o "princípio da vedação ao retrocesso" imporia a formação de um de "bloco de constitucionalidade" intangível, formado pelos enunciados constitucionais que reconhecem direitos fundamentais e pelos atos normativos infraconstitucionais regulamentadores.
+
+Sigamos com um exemplo, também tomado de Ana Paula Barcellos.
+
+A Constituição, em seu art. 5º, inciso XXXII, estabelece que "o Estado promoverá, na forma da lei, a defesa do consumidor." A fim de regulamentar esse dispositivo, consagrador de um direito fundamental, foi promulgada a Lei 8.078/90 - Código de Defesa do Consumidor.
+
+Digamos que seja promulgada uma lei ordinária que simplesmente revogue o CDC. De acordo com aqueles que defendem a existência do princípio da vedação ao retrocesso, essa lei seria inconstitucional, por contrariar a disposição constitucional que manda promover a defesa do consumidor.
+
+Porém, uma situação desse tipo é bastante rara. É mais comum que sobrevenha uma nova lei modificando certos aspectos do regramento infraconstitucional do direito fundamental. Nesse caso, é mais difícil saber se existe ou não inconstitucionalidade, pois a regulamentação de um direito fundamental considera fatores de diversas ordens: políticos, econômicos, culturais, históricos etc. Esses fatores podem exigir que, em determinada época, seja modificado o regramento de algum direito fundamental, até mesmo para dificultar, em alguma medida, sua fruição.
+
+É justamente o que ocorre com as chamadas "reformas da previdência", que se autojustificam como mudanças necessárias para adequar o subsistema previdenciário a novas exigências conjunturais e estruturais. Muitas vezes, essas reformas impõem requisitos mais severos para a fruição de direitos previdenciários, como carência, idade mínima, prova da relação de dependência etc., como também modificam a forma de cálculo dos benefícios previdenciários, tornando-a menos favorável aos novos beneficiários. Sendo assim, deveriam ser consideradas inconstitucionais todas essas mudanças?
+
+Em princípio, parece-nos que não. O "congelamento" da regulamentação dos direitos fundamentais não respeita a ideia de que a própria extensão desses direitos é moldada por fatores histórico-culturais.
+
+O que não se pode admitir é que a nova regulamentação viole o *núcleo intangível* do direito fundamental regulado. Por exemplo, uma emenda à Constituição que passasse a exigir uma idade mínima para aposentadoria muito próxima ou até superior à expectativa de vida média da população brasileira esvaziaria por completo esse direito social, violando certamente o seu núcleo intangível. A modificação legislativa que reduzisse o valor dos benefícios a valores irrisórios também teria esse mesmo efeito. Ambos os atos normativos hipotéticos deveriam, portanto, ser considerados inconstitucionais por violação ao princípio da vedação ao retrocesso social.
+
+O Supremo Tribunal Federal já aplicou o princípio da vedação ao retrocesso, no julgamento da ADI 1.946/DF, que questionava a constitucionalidade do art. 14 da Emenda Constitucional n.º 20/1998, com a seguinte redação:
+
+> Art. 14 - O limite máximo para o valor dos benefícios do regime geral de previdência social de que trata o  art. 201 da Constituição Federal é fixado em R\$ 1.200,00 (um mil e duzentos reais), devendo, a partir da data da publicação desta Emenda, ser reajustado de forma a preservar, em caráter permanente, seu valor real, atualizado pelos mesmos índices aplicados aos benefícios do regime geral de previdência social.
+
+Ocorre que o art. 7º, XVIII, da Constituição Federal estabeleceu "licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias" (grifo acrescido ao original). Assim, surgiu a questão de saber se o salário-maternidade, pago durante o período de afastamento da mulher, deveria ter seu valor limitado pelo art. 14 da EC 20/1998, ou deveria corresponder ao valor integral do salário da beneficiária.
+
+Naquele julgamento, o Supremo decidiu o seguinte:
+
+> 1.  O legislador brasileiro, a partir de 1932 e mais claramente desde 1974, vem tratando o problema da proteção à gestante cada vez menos como um encargo trabalhista (do empregador) e cada vez mais como de natureza previdenciária. Essa orientação foi mantida mesmo após a Constituição de 05.10.1988, cujo art. 6º determina: a proteção à maternidade deve ser realizada "na forma desta Constituição", ou seja, nos termos previstos em seu art. 7º, XVIII: "licença à gestante, sem prejuízo do empregado e do salário, com a duração de 120 dias". 2. Diante desse quadro histórico, não é de se presumir que o legislador constituinte derivado, na Emenda 20/1998, mais precisamente em seu art. 14, haja pretendido a revogação, ainda que implícita, do art. 7º, XVIII, da Constituição Federal originária. Se esse tivesse sido o objetivo da norma constitucional derivada, por certo a EC nº 20/1998 conteria referência expressa a respeito. E, à falta de norma constitucional derivada, revogadora do art. 7º, XVIII, a pura e simples aplicação do art. 14 da EC nº 20/1998, de modo a torná-la insubsistente, implicará um retrocesso histórico, em matéria social-previdenciária, que não se pode presumir desejado. (...) (STF, ADI nº 1.946/DF, Pleno, rel. Min. Sydney Sanches, DJ 16.05.2003).
+
+Percebe-se que, na ADI 1.946/DF a vedação ao retrocesso foi usada em uma estratégia argumentativa mais ampla, apenas para conferir uma interpretação sobre a intenção do constituinte reformador. Ou seja: uma vez que a proteção à gestante tem sido cada vez mais tratada como uma incumbência estatal, de natureza previdenciária, não se pode presumir que o constituinte reformador tenha pretendido retroceder nessa proteção.
+
+Em outro julgamento, porém, o Supremo adotou um conceito restrito do princípio da vedação ao retrocesso social. Trata-se da ADI 5.013, na qual o STF declarou constitucional a revogação de lei que aumentava a base de cálculo do adicional de insalubridade de trabalhadores em energia (e, assim, terminava por reduzir o valor do adicional). Leia-se o acórdão:
+
+> ADICIONAL DE PERICULOSIDADE -- BASE DE CÁLCULO -- ALTERAÇÃO. Ausente parâmetro de controle a estabelecer patamar mínimo alusivo ao adicional de periculosidade, surge constitucional ato normativo mediante o qual alterada base de cálculo. NORMA INFRACONSTITUCIONAL -- PARÂMETRO DE CONTROLE ESTRITO -- VEDAÇÃO AO RETROCESSO SOCIAL -- IMPROPRIEDADE. Tendo em conta avanço na tutela de direitos mediante norma infraconstitucional, é impróprio, considerado tratamento estrito dado à matéria pela Constituição Federal, potencializar o princípio da vedação ao retrocesso social, a ponto de, invertendo a ordem natural, transformar em cláusula pétrea legislação ordinária ou complementar. (ADI 5013, Relator(a): EDSON FACHIN, Relator(a) p/ Acórdão: MARCO AURÉLIO, Tribunal Pleno, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-272 DIVULG 13-11-2020 PUBLIC 16-11-2020).
+
+Vê-se, que o STF não admite uma versão extrema do princípio da vedação ao retrocesso social, embora reconheça sua existência.
+
+## Proteção ao hipossuficiente (*in dubio pro misero*)
+
+A parcela majoritária da doutrina previdenciarista[^9] admite a existência do princípio da proteção ao hipossuficiente. A jurisprudência[^10] em matéria previdenciária também costuma fazer menção a esse princípio. Porém, tanto a doutrina quanto a jurisprudência não costumam delimitar bem seu conteúdo jurídico, tampouco indicar sua base textual. Na maioria dos casos, transplanta-se de maneira acrítica o princípio da proteção (*in dubio pro operario*), reconhecido na seara trabalhista, ao campo previdenciário.
+
+[^9]: LAZZARI e CASTRO (@lazzari2021, p. 72) por exemplo, afirmam que, "com cada vez mais frequência", tem-se admitido o "postulado" de que "as normas dos sistemas de proteção social devem ser fundadas na ideia de proteção ao menos favorecido." Mais adiante, dizem que "Daí decorre, como no Direito do Trabalho, a regra de interpretação in dubio pro misero, ou pro operario, pois este é o principal destinatário da norma previdenciária." Em sentido semelhante, Marcelo Leonardo Tavares (@tavares2009, p. 23) afirma que o princípio *in dubio pro misero* no Direito Previdenciário "deriva" do controverso princípio similar do Direito do Trabalho e funciona como uma "presunção" em favor da parte hipossuficiente na relação processual, que se aplica em caso de dúvida. Já Frederico Amado (@amado2015, p. 209) discorda da existência do princípio *in dubio pro misero* no Direito Previdenciário, seja porque "nem sempre o beneficiário da seguridade social será uma pessoa hipossuficiente" seja porque "a relação jurídica previdenciária é diversa da trabalhista ou consumerista, que visam tutelar a parte mais fraca." Em lugar do princípio da proteção ao hipossuficiente prescreve "adotar a fórmula *in dubio pro societatis*, pois os recursos para o pagamento dos benefícios previdenciários são de origem pública e das demais fontes de custeio, inclusive dos trabalhadores vinculados ao regime."
+
+[^10]: Exemplificativamente, podem-se citar as seguintes aplicações: (i) para desconsiderar imperfeição técnica da prova pericial produzida em Juízo, em favor do segurado (TNU. Pedido de Uniformização de Interpretação de Lei 0517104-27.2016.4.05.8013, Rel. Tais Vargas Ferracini de Campos Gurgel, julgado em 11/10/2019; STJ, Segunda Turma, AAINTARESP 900658 2016.00.89129-0, Rel. Min. Og Fernantes, DJe de 10/12/2018); (ii) como critério para resolução de antinomias em favor do segurado (STJ, Primeira Seção. REsp 1361410 2013.00.09861-4, Rel. Min. Benedito Gonçalves. DJe de 21/02/2018); (iii) para dispensar a prova de um fato juridicamente relevante (STJ, Quinta Turma. REsp 95211, Rel. Min. José Dantas DJ de 24/02/1997); (iv) para decidir sobre a eficácia probatória de documentos em face de divergências entre provas (TRF3, Sétima Turma. Apelação Cível n. 5293161-48.2020.4.03.9999. Publicado em 28/04/2022) e até mesmo (v) para alargar as hipóteses de cabimento da ação rescisória (TRF da 3ª Região - 3ª Seção. Ação Rescisória 0036457-26.2011.4.03.0000. DJe de 28/09/2021).
+
+Apesar da divergência, é majoritário o posicionamento doutrinário que reconhece a existência do princípio. Admite-se, com mais frequência, que se trata de uma diretriz interpretativa, dirigida ao órgão julgador, que manda aplicar a norma mais favorável ao destinatário da proteção social, quando duas ou mais normas puderem resultar da leitura de um mesmo texto legal.
+
+Em estudo sobre tema[^11], concluímos que "o princípio da proteção ao hipossuficiente, ou 'princípio in dubio pro misero', no Direito Previdenciário, pode ser extraído do princípio da dignidade da pessoa humana, em sua vertente positiva (como regra hermenêutica), equivalente ao brocardo 'in dubio pro dignitate.' Isso porque o direito à previdência social é um direito fundamental da pessoa trabalhadora, cuja pretensão é garantir a subsistência desta e de sua família em face da ocorrência de contingências sociais legalmente previstas."
+
+[^11]: @gomes2022 .
+
+Sigamos com um exemplo.
+
+O art. 16 da Lei 8.213/91 enumera como dependentes do segurado do Regime Geral de Previdência Social, entre outros, "o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave." Digamos que um dos filhos do segurado complete 21 anos e não seja inválido ou pessoa com deficiência. Nessa hipótese, a relação de dependência estará superada. Mas o filho que complete 21 anos e, depois disso, fique inválido/deficiente retoma a qualidade de dependente? Duas interpretações igualmente plausíveis podem resultar do texto legal.
+
+(i) A invalidez ou deficiência somente pode ser causa de manutenção da qualidade de dependente se ocorridas antes dos 21 anos. Dessa maneira, o filho do segurado que fique inválido/deficiente após completar aquela idade não poderia ser considerado dependente do segurado. Esta inclusive foi a interpretação adotada pela Administração (RPS, art. 17, § 1º).
+
+(ii) A legislação não faz a exigência de que a invalidez ou deficiência seja anterior ao limite etário. Dessa maneira, o filho maior de 21 anos que venha a ficar inválido ou deficiente retornará à condição de dependente do segurado.
+
+Diante disso, como deveria decidir um juiz que se deparasse com uma ação previdenciária de pensão por morte proposta pelo filho do segurado, maior de 21 anos, cuja invalidez ou deficiência tenha ocorrido após o limite etário?
+
+Parece-nos que, admitida a existência do princípio da proteção ao hipossuficiente, a interpretação "ii" é a deve ser escolhida pelo julgador como *premissa normativa* de sua sentença.
+
+Hoje, a questão encontra-se pacificada, haja vista que a TNU já decidiu em sentido semelhante (v. Pedido de Uniformização de Interpretação de Lei Federal n.º 5092432-53.2014.4.7100 TNU) e o INSS foi condenado em Ação Civil Pública a adotar esse mesmo entendimento (ACP nº 0059826-86.2010.4.01.3800/MG, cujo cumprimento foi determinado pela Portaria Conjunta DIRBEN/PFE-INSS n.º 4, de 5 de março de 2020). Mas o exemplo segue tendo interesse didático.
+
+Além dessa função hermenêutica, alguns autores também consideram que o princípio da proteção ao hipossuficiente funciona como *regra probatória*, a ser adotada no momento em que o juiz se depara com provas conflitantes. Nesse viés, o princípio da proteção ao hipossuficiente determinaria que se considerasse provada a hipótese fática favorável ao segurado.\[\^12\]
+
+Em todo caso, o princípio da proteção ao hipossuficiente é cabível apenas nos casos de dúvida objetiva, seja da interpretação da lei, seja da valoração da prova (para aqueles que admitem essas modalidades de eficácia). Não há campo para a aplicação do *in dubio pro misero* quando a interpretação menos favorável ao segurado for aquela acolhida pacificamente pela comunidade jurídica ou quando o conjunto probatório corrobora a hipótese fática contrária a seus interesses.

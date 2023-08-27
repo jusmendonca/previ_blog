@@ -1,0 +1,219 @@
+---
+title: Regimes Previdenciários
+# description: 
+date: "2023-08-13"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/regimes/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "regimes.jpg"
+---
+
+## Introdução
+
+A *previdência social* é o subsistema contributivo de prestações dos poderes públicos e da sociedade que tem por objetivo amparar seus filiados na ocorrência de riscos a sua aptidão para manter a si mesmos e a sua família com os rendimentos do trabalho.
+
+O objeto desta seção é dar uma visão panorâmica dos *regimes* de previdência social previstos na Constituição Federal. Adiante, iniciaremos o estudo do Regime Geral de Previdência Social, que é o mais relevante deles.
+
+## Conceito de regime jurídico
+
+*Regime jurídico* é um conjunto de normas que *rege* determina relação jurídica. *Regimes previdenciário*s são, dessa maneira, os diferentes conjuntos de normas que regem as relações jurídicas entre determinadas categorias de indivíduos e os entes que lhes garantem cobertura previdenciária.
+
+Há uma pluralidade de regimes previdenciários na Constituição Federal. Inicaremos classificando-os.
+
+## Classificação dos regimes de previdência social
+
+Os regimes constitucionais de previdência social podem ser classificados quanto à *obrigatoriedade.* Com esse critério, podemos diferenciar os *básicos* dos *complementares.*
+
+Os regimes básicos são os que possuem caráter obrigatório. No Brasil, todo trabalhador que desempenhe atividade remunerada lícita será segurado obrigatório de algum regime básico de previdência social.
+
+## Regimes básicos
+
+Os regimes básicos previstos no texto constitucional são os seguintes:
+
+-   regime geral de previdência social (RGPS) e
+-   regimes próprios de previdência social (RPPS)
+
+Entre os *regimes próprios* de previdência social, podemos citar:
+
+-   regime próprio dos servidores públicos civis da União, suas autarquias e fundações públicas federais;
+-   regime dos militares das forças armadas;
+-   regimes dos militares dos Estados e do DF;
+-   regime de seguridade social dos congressistas.
+
+```{dot}
+digraph G {
+rankdir=LR;
+  node [shape=box];
+  
+  "Regimes previdenciários" -> "básicos";
+  "básicos" -> "RGPS";
+  "básicos" -> "RPPS"
+  "RPPS" -> "regime próprio servidores públicos civis"
+  "RPPS" -> "militares das FFAA";
+  "RPPS" -> "militares dos Estados e DF";
+  "RPPS" -> "congressistas";
+  "Regimes previdenciários" -> "complementares";
+}
+```
+
+### O regime geral de previdência social (RGPS)
+
+Trata-se do regime que atinge o maior número de pessoas e é o mais complexo. Encontra-se previsto pelo art. 201, *caput*, da Constituição:
+
+> Art. 201. A previdência social será organizada sob a forma do Regime Geral de Previdência Social, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, na forma da lei, a: (...)
+
+No âmbito infraconstitucional, a Lei 8.213/91 estabelece seu plano de benefícios, enquanto a Lei 8.212/91 estabelece sua forma de custeio.
+
+O RGPS abrange:
+
+-   todos os trabalhadores do setor privado, inclusive os trabalhadores de empresas públicas e sociedades de economia mista (que são pessoas jurídicas de direito privado);
+-   todos aqueles que exerçam atividade econômica ou profissional por conta própria;
+-   todos os servidores públicos civis que não estejam vinculados a regime próprio, como os exercentes exclusivos de cargo em comissão e os servidores dos entes federativos que não tenham instituído seu próprio regime de previdência.
+
+Pode-se dizer que o RGPS é um regime *residual*, no sentido de que, se o trabalhador não estiver vinculado a qualquer regime próprio, estará filiado ao RGPS, obrigatoriamente.
+
+O fato de que o RGPS é um regime de filiação obrigatória não impede a existência de segurados facultativos (não trabalhadores) que, aliás, ampliam a base contributiva. A existência dos segurados facultativos está amparada pelo princípio da universalidade da cobertura e do atendimento, elencado no art. 194. Tais pessoas podem aderir ao sistema especial de inclusão previdenciária, nos termos do § 12 do art. 201 da CF, disciplinado pelo art. 13 da Lei 8.213.
+
+> Constituição Federal. Art. 201 (...) § 12. Lei instituirá sistema especial de inclusão previdenciária, com alíquotas diferenciadas, para atender aos trabalhadores de baixa renda, inclusive os que se encontram em situação de informalidade, e àqueles sem renda própria que se dediquem exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencentes a famílias de baixa renda.
+
+> Lei 8.213/91. Art. 13. É segurado facultativo o maior de 14 (quatorze) anos que se filiar ao Regime Geral de Previdência Social, mediante contribuição, desde que não incluído nas disposições do art. 11.
+
+Quando estudarmos as espécies de segurados do RGPS, nos ocuparemos dos segurados facultativos com maior profundidade.
+
+### Regimes próprios de previdência social (RPPS)
+
+#### Regimes próprios dos servidores públicos civis ocupantes de cargos efetivos e agentes políticos ocupantes de cargos vitalícios.
+
+São também regimes contributivos e de filiação obrigatória. Existem vários regimes próprios de previdência social vigorando no Brasil. Os regimes próprios dos servidores civis titulares de cargos efetivos possuem fundamento no art. 40 da Constituição Federal, que disciplina as normas básicas para todos os entes federativos. Cada um dos entes federativos deve instituir o seu regime com respeito às regras constitucionais.
+
+> Constituição Federal. Art. 40. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial.
+
+Os regimes próprios de previdência social dos servidores públicos civis ocupantes de cargos efetivos abrangem:
+
+-   todos os servidores públicos civis (não militares) que mantenham vínculo efetivo (não de natureza temporária ou precária) com pessoas jurídicas (de direito público) que tenham instituído regimes próprios;
+-   todos os agentes políticos ocupantes de cargos vitalícios (magistrados, membros do MP e Tribunais de Contas).
+
+No entanto, não é obrigatório que os entes federativos instituam regimes próprios para seu pessoal civil. Caso determinado ente não o tenha instituído, seus servidores públicos civis serão regidos pelo RGPS.
+
+Na medida em que a competência para legislar sobre previdência social é *concorrente* entre União e os demais entes federativos (art. 24, XII, da Constituição), a União tem o papel de estabelecer normas gerais (art. 24, §1º, da Constituição Federal). No exercício dessa competência, foi promulgada a Lei 9.717/1998, que "dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal e dá outras providências." Trata-se do que a doutrina chama de "lei nacional", haja vista que é uma lei que obriga os demais entes federativos.
+
+No âmbito federal, temos a lei 8.112 que é o Regime Jurídico Único dos Servidores Públicos Civis da União. Essa mesma lei institui um regime previdenciário para esses servidores. No Estado da Bahia, por exemplo, há a lei 6.677/94, que é o Estatuto dos Servidores Públicos Civis do Estado da Bahia e estabelece o regime próprio para os servidores efetivos estaduais.
+
+Na maior parte dos municípios brasileiros, contudo, não há regime próprio. Nesses casos, os servidores públicos civis estão regidos pelo RGPS. Além disso, a própria Lei Orgânica do Município pode optar por determinar a vinculação de seu pessoal civil ao RGPS. Cite-se o exemplo do Município de Vitória da Conquista, que, em sua Lei Orgânica, estabelece:
+
+> Art. 51. O regime de aposentadoria aplicável aos servidores públicos municipais será o do Regime Geral de Previdência Social - RGPS, gerido pelo Instituto Nacional do Seguro Social - INSS, ressalvado se existir regime próprio ou complementar de Previdência Social.
+
+#### Regime dos militares das Forças Armadas
+
+O art. 142, § 3º, inciso X, do texto constitucional remete à lei ordinária as "condições de transferência do militar para a inatividade":
+
+> Art. 142. As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. (...) X - a lei disporá sobre o ingresso nas Forças Armadas, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade, os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra.
+
+Apesar de a Constituição Federal não estabelecer expressamente um "regime próprio" dos militares das Forças Armadas (ao contrário do que faz com o regime dos servidores públicos civis), esse dispositivo determina a instituição de um regime previdenciário diferenciado para essa categoria de servidores estatais.
+
+Quando foi promulgada a Constituição de 1988, já estava vigente o atual Estatuto dos Militares (Lei 6.880/1980). Essa lei rege a *reforma* e a *reserva remunerada* dos miliatares das FFAA. Pode-se dizer, *grosso modo*, que a *reforma* dos militares equivale à aposentadoria por incapacidade permanente, enquanto a *reserva remunerada* equivale à aposentadoria programada dos servidores civis. Já a *pensão militar* (equivalente à pensão por morte) está disciplinada por lei específica (Lei 3.765/1960, ainda vigente, com modificações).
+
+#### Regimes dos militares dos Estados e do DF
+
+Os militares dos Estados e DF (policiais militares e membros dos corpos de bombeiros militares) também possuem regimes próprios de previdência social. Quanto a estes, a Constituição estabelece:
+
+> Art. 42 Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do Distrito Federal e dos Territórios. § 1º Aplicam-se aos militares dos Estados, do Distrito Federal e dos Territórios, além do que vier a ser fixado em lei, as disposições do art. 14, § 8º; do art. 40, § 9º; e do art. 142, §§ 2º e 3º, cabendo a lei estadual específica dispor sobre as matérias do art. 142, § 3º, inciso X, sendo as patentes dos oficiais conferidas pelos respectivos governadores.
+
+Note-se que o art. 142, § 3º, X, da Constituição Federal defere competência à lei ordinária para dispor sobre as "condições de transferência do militar para a inatividade." Logo, cada Estado e DF terá uma lei para instituir o regime próprio de seus militares, devendo seguir as disposições constitucionais e as normas gerais instituídas pela Lei Federal n.º 9.717/98.
+
+#### Regime dos congressistas
+
+Trata-se do regime instituído pela Lei 9.506/1997 para os deputados e senadores.
+
+Lembre-mos que o congressista, antes de tomar posse, pode estar previamente vinculado a algum regime próprio de previdência social (por exemplo, policial federal que, eleito deputado federal, licencia-se do seu cargo público para exercer o mantato). Se for do interesse do parlamentar, ele poderá manter-se no regime próprio. Porém, a Lei 9.506/1997 permite a adesão a um regime diferenciado:
+
+> Lei 9.506/1997. Art. 13. O Deputado Federal, Senador ou suplente em exercício de mandato que não estiver vinculado ao Plano instituído por esta Lei ou a outro regime de previdência participará, obrigatoriamente, do regime geral de previdência social a que se refere a Lei nº 8.213, de 24 de julho de 1991.
+
+Se, por outro lado, o congressista não estiver vinculado a nenhum regime de previdência social, deverá aderir ao regime dos congressistas. Se não o fizer, será obrigatoriamente vinculado ao Regime Geral de Previdência Social, na qualidade de segurado *empregado* (art. 11, I, h, da Lei n.º 8.213/91)
+
+Vê-se que o regime dos congressistas é um regime *básico*, mas *alternativo*, pois o deputado ou senador que não estiver vinculado a regime próprio e não aderir ao regime da Lei 9.506/97, estará obrigatoriamente vinculado ao RGPS.
+
+## Regimes complementares
+
+Antes da Constituição Federal de 1988, já existiam regimes previdenciários complementares, de adesão facultativa. O mais conhecido deles é o regime complementar privado, previsto pelo art. 202, *caput*, da Constituição Federal, que deve ser regulado por complementar. Mas esse não é o único regime complementar existente hoje. Isso porque a Emenda Constitucional 20/98 previu a instituição de regimes complementares públicos para os servidores civis e agentes políticos vinculados aos regimes próprios de previdência social.
+
+```{dot}
+digraph G {
+rankdir=LR;
+  node [shape=box];
+  
+  "Regimes previdenciários" -> "básicos";
+  "Regimes previdenciários" -> "complementares";
+  "complementares" -> "RPC dos servidores públicos civis"
+  "complementares" -> "privados";
+  "privados" -> "das entidades fechadas (EFPC)";
+  "privados" -> "das entidades abertas (EAPC)";
+}
+```
+
+### Regimes complementares dos servidores públicos civis ocupantes de cargos efetivos da União, DF, Estados e Municípios
+
+A Emenda Constitucional nº 20/1998 incluiu a seguinte regra no art. 40 da Constituição Federal:
+
+> Art. 40. (...) § 14 - A União, os Estados, o Distrito Federal e os Municípios, desde que instituam regime de previdência complementar para os seus respectivos servidores titulares de cargo efetivo, poderão fixar, para o valor das aposentadorias e pensões a serem concedidas pelo regime de que trata este artigo, o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201.
+
+Percebe-se que a instituição dos regimes complementares públicos teve por objetivo aproximar os regimes próprios de previdência ao RGPS no que concerne ao teto do valor dos benefícios pagos. Para os servidores ingressantes no serviço público de algum ente federativo após a efetiva implantação do regime complementar, a aposentadoria e a pensão poderá ser fixada no teto do RGPS.
+
+Sobre a matéria, dispõe a Lei Complementar 108/2001, que trata da relação das entidades de previdência complementar instituídas pela União, DF, Estados e Municípios com seus entes patrocinadores (ou seja, com os próprios entes federativos). Além dela, importa conhecer a Lei Complementar nº 109/2001, que dispõe sobre os regimes de previdência complementar, operados por entidades fechadas ou abertas.
+
+No caso da União, o regime de previdência complementar para seus servidores públicos civis ocupantes de cargos efetivos e vitalícios foi instituído pela Lei 12.618/2012. Essa Lei autorizou a constituição de entidades de previdência complementar fechada para operar esse regime. Tais entidades foram efetivamente constituídas no mesmo ano. São elas:
+
+-   Funpresp-EXE, através do Decreto 7.808/2012;
+-   Funpresp-Jud, através da Resolução STF 496/2012.
+
+Os atos de criação dão a essas entidades a qualificação de "fundações de natureza pública, com personalidade jurídica de direito privado e autonomia administrativa, financeira e gerencial."
+
+A partir da efetiva criação das entidades de previdência complementar, passou a ser possível, no serviço público federal, a aplicação integral do § 14 do art. 40 da CF, que limitou o valor dos benefícios pagos ao valor-teto do RGPS. Aos servidores que ingressaram no serviço público até a data da publicação dos citados atos de criação, deu-se a opção de ingressar no novo regime.
+
+Nessa seara, uma alteração importante foi feita pela EC 109/2019. O § 14 do art. 40 foi modificado para tornar obrigatória a instituição dos regimes complementares pelos entes federativos. Leia-se a redação atual do dispositivo:
+
+> Art. 40. (...) § 14. A União, os Estados, o Distrito Federal e os Municípios **instituirão**, por lei de iniciativa do respectivo Poder Executivo, regime de previdência complementar para servidores públicos ocupantes de cargo efetivo, observado o limite máximo dos benefícios do Regime Geral de Previdência Social para o valor das aposentadorias e das pensões em regime próprio de previdência social, ressalvado o disposto no § 16. (*Negrito acrescido ao original*).
+
+Na medida em que as fundações que operam os regimes de previdência complementar público possuem personalidade jurídica de direito privado, sua relação com os participantes é de natureza privada. Por esse motivo, mesmo em se tratando de servidor público federal, a competência para processar e julgar os litígios entre os participantes e tais entidades não é da Justiça Federal, e sim da Justiça Estadual (Tema de Repercussão Geral 190/STF)
+
+### Regime complementar privado
+
+O art. 202, *caput*, da Constituição Federal faz menção, no singular, ao "regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social." Mas, na verdade, existem duas classes de regimes complementares privados, que estudaremos a seguir.
+
+#### Regimes complementares das entidades fechadas
+
+A Lei Complementar 109/2001 criou dois tipos de entidades de previdência complementar: as entidades *fechadas* e entidades *abertas.*
+
+As entidades fechadas de previdência complementar (EFPC) são fundações ou sociedades civis sem fins lucrativos, acessíveis a empregados de empresas, grupos de empresas ou servidores de entes públicos (essas entidades são aquelas conhecidas popularmente como "fundos de pensão").
+
+São exemplos de entidades *fechadas* de previdência complementar os próprios FUNPRESP-EXE e FUNPRESP-JUD acima citados. Porém, seus planos são acessíveis apenas a servidores públicos civis ocupantes de cargos efetivos federais e possuem fundamento no art. 40 da Constituição Federal, e não no art. 202.
+
+No presente tópico estamos tratando das entidades de previdência complementar fechada acessíveis a pessoas *que não são servidores públicos efetivos*, a exemplo das seguintes:
+
+-   PREVI - Caixa de Previdência dos Funcionários do Banco do Brasil, patrocinada pelo Banco do Brasil;
+-   FUNCEF - Fundação dos Economiários Federais, patrocinada pela Caixa Econômica Federal;
+-   AVONPREV - Sociedade de Previdência Privada, que tem como patrocinadores as empresas Avon Cosméticos, Avon Industrial, Avonprev e Instituto Avon;
+-   EMBRAERPREV - Sociedade de Previdência Complementar, que tem como patrocinadora a EMBRAER.
+
+Os participantes dos planos das entidades fechadas são apenas seus empregados (sejam eles públicos --- no caso do Banco do Brasil e da Caixa Econômica Federal --- ou privados), não estando acessíveis a outras pessoas sem vínculo com os patrocinadores. Nesses regimes, tanto *participantes* quanto *patrocinadores* arcam com o custeio dos planos de benefícios, com vistas à complementação dos benefícios pagos pelo INSS, no âmbito do Regime Geral de Previdência Social.
+
+O ente fiscalizador das entidades fechadas de previdência complementar é a PREVIC --- Superintendência Nacional de Previdência Complementar ---, que é uma autarquia federal de natureza especial, dotada de autonomia administrativa e financeira e patrimônio próprio, vinculada ao Ministério do Trabalho e Previdência.
+
+#### Regimes complementares das entidades abertas de previdência complementar (EAPC)
+
+As entidades abertas de previdência complementar são sociedades anônimas que exploram o ramo de previdência complementar privada. São exemplos de entidades abertas de previdência complementar (EAPC):
+
+-   BRASILPREV;
+-   ALLIANZ;
+-   LIBERTY SEGUROS.
+
+Podem ser participantes dos planos dessas entidades quaisquer pessoas, uma vez que se trata de um ramo de negócio explorado por instituições financeiras em regime de concorrência.
+
+Nada impede, por exemplo, que um servidor público federal esteja vinculado ao RPPS da União (obrigatoriamente), ao RPC dos servidores públicos civis da União (facultativamente) e, ainda, a algum regime previdenciário complementar privado (também facultativamente). Neste caso, sua renda, na aposentadoria, será paga pelo RPPS da União até o valor-teto do RGPS, pelo RPC dos servidores públicos civis da União e pela entidade de previdência privada (essas últimas pagarão benefícios de acordo com as contribuições que o participante tenha acumulado e capitalizado).
+
+O ente fiscalizador das entidades abertas de previdência complementar é a SUSEP --- Superintendência de Seguros Privados, que é uma autarquia federal vinculada ao Ministério da Economia.

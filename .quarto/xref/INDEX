@@ -70,5 +70,41 @@
   },
   "posts/2-Fontes/fontes.qmd": {
     "fontes.html": "82a51757"
+  },
+  "posts/3-historico/historico.qmd": {
+    "historico.html": "eded4e62"
+  },
+  "posts/4-principios/principios_da_seguridade.qmd": {
+    "principios_da_seguridade.html": "daae1412"
+  },
+  "posts/5-principios2/principios2.qmd": {
+    "principios2.html": "ac54c03f"
+  },
+  "posts/6-principios3/principios3.qmd": {
+    "principios3.html": "ace59a04"
+  },
+  "posts/principios3.md": {
+    "principios3.html": "29cb8991"
+  },
+  "posts/7-indicacao1/indicacao1.qmd": {
+    "indicacao1.html": "9d88a9e0"
+  },
+  "posts/8-regimes/regimes.qmd": {
+    "regimes.html": "7bb6570f"
+  },
+  "posts/9-falacias/falacias.qmd": {
+    "falacias.html": "7d5dc6cb"
+  },
+  "posts/10-RGPS/relacao_jprev.qmd": {
+    "relacao_jprev.html": "50341764"
+  },
+  "posts/10-RGPS/disposicoes_gerais.qmd": {
+    "disposicoes_gerais.html": "afcd6bdb"
+  },
+  "posts/11-relacao/relacao_jprev.qmd": {
+    "relacao_jprev.html": "7c1a8476"
+  },
+  "posts/11-relacao/relacao.qmd": {
+    "relacao.html": "fbac97fa"
   }
 }

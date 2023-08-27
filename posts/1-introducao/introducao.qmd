@@ -11,6 +11,7 @@ bibliography: references.bib
 google-scholar: true
 image: "bb.jpg"
 ---
+
 ## O Direito Previdenciário como ramo do Direito Público
 
 A divisão do Direito em ramos e em disciplinas jurídicas é traçada por conveniência didática e de pesquisa. As produções bibliográficas de maior influência em cada área tendem a ter seu elenco de temas seguido pelos autores subsequentes, já que inexiste uma divisão "natural" do Direito. As instituições de ensino superior, de sua parte, costumam reproduzir o sumário dessas obras doutrinárias em suas ementas e programas, obedecidas as diretrizes curriculares governamentais.
@@ -108,10 +109,10 @@ digraph G {
 ```
 
 |                         | *Saúde*                                      | *Previdência social*                                                           | *Assistência social*                             |
-|:-----------------|:-----------------|:-----------------|:-----------------|
+|:------------------------|:---------------------------------------------|:-------------------------------------------------------------------------------|:-------------------------------------------------|
 | *Objetivos específicos* | cobrir o risco de doença e de outros agravos | cobrir riscos ligados à aptidão para sobreviver com os rendimentos do trabalho | cobrir o risco de vulnerabilidade socioeconômica |
 | *Destinatários*         | todos                                        | filiados                                                                       | necessitados                                     |
-| *Contributividade*      | não                                          | sim                                                                            | não                                             |
+| *Contributividade*      | não                                          | sim                                                                            | não                                              |
 
 ## O objeto de estudo do Direito Previdenciário tendo por referência a organização constitucional da seguridade social.
 
@@ -129,10 +130,7 @@ Por último, o financiamento da seguridade social, cujas regras fundamentais est
 
 [^5]: RE 146.733-9/SP, rel. Min. Moreira Alves.
 
-Em resumo, o Direito Previdenciário, no Brasil, é o ramo do Direito Público que estuda os textos normativos relacionados aos seguintes temas: 
-- proteção previdenciária dos filiados a todos os regimes previdenciários existentes no ordenamento jurídico nacional; 
-- proteção assistencial aos necessitados e 
-- custeio do sistema de seguridade social.
+Em resumo, o Direito Previdenciário, no Brasil, é o ramo do Direito Público que estuda os textos normativos relacionados aos seguintes temas: - proteção previdenciária dos filiados a todos os regimes previdenciários existentes no ordenamento jurídico nacional; - proteção assistencial aos necessitados e - custeio do sistema de seguridade social.
 
 ```{dot}
 digraph G {
@@ -181,7 +179,7 @@ Do mesmo modo, alguns eventos de natureza previdenciária possuem implicações 
 
 ### *Direito Previdenciário e Direito Civil*
 
-*Prestação*, *obrigação*,  *sujeito ativo*, *sujeito passivo* e *inadimplemento* são exemplos de conceitos típicos do Direito das Obrigações, disciplina do Direito Civil, que encontram uso no Direito Previdenciário.
+*Prestação*, *obrigação*, *sujeito ativo*, *sujeito passivo* e *inadimplemento* são exemplos de conceitos típicos do Direito das Obrigações, disciplina do Direito Civil, que encontram uso no Direito Previdenciário.
 
 Do mesmo modo, toda a construção doutrinária civilista em torno da prescrição e da decadência é de grande importância para entender os prazos extintivos no Direito Previdenciário, regulados pelos arts. 103 a 105 da Lei 8.213/1991.
 
@@ -205,8 +203,7 @@ Daí porque se diz que um dos princípios que vigoram no direito processual é o
 
 Uma das aplicações do *princípio da adequação* no Direito Previdenciário foi a criação do sistema dos Juizados Especiais Federais (Lei 10.259/2001), que objetivou dar resposta célere às inúmeras demandas ajuizadas na Justiça Federal, sendo a maioria delas de natureza previdenciária. Outro exemplo é a Lei 14.331/2022, que promoveu importantes alterações nos processos envolvendo benefícios previdenciários por incapacidade, através da inclusão do art. 129-A na Lei n.º 8.213/1991.
 
-Não há, a rigor, um "processo previdenciário" como procedimento autônomo. O que existem são disposições especiais que buscam adaptar os procedimentos às exigências da tutela previdenciária, que envolve, na maioria das vezes, pessoas em situação de vulnerabilidade social. Com menos rigor terminológico, no entanto, costuma-se falar em "processo previdenciário" para aludir ao processo civil
-no qual se discute matéria previdenciária ou assistencial.
+Não há, a rigor, um "processo previdenciário" como procedimento autônomo. O que existem são disposições especiais que buscam adaptar os procedimentos às exigências da tutela previdenciária, que envolve, na maioria das vezes, pessoas em situação de vulnerabilidade social. Com menos rigor terminológico, no entanto, costuma-se falar em "processo previdenciário" para aludir ao processo civil no qual se discute matéria previdenciária ou assistencial.
 
 ### *Direito Previdenciário e ciências não jurídicas*
 
@@ -214,11 +211,12 @@ Este tópico não pretende exaurir as formas de diálogo entre o Direito Previde
 
 Vários conhecimentos provenientes de ciências não jurídicas também são importantes para o Direito Previdenciário, como a Ciência Atuarial (ramo da Matemática que se ocupa em avaliar riscos financeiros, especialmente no que toca a seguros e planos de previdência), a Economia (ciência social que estuda que a produção, distribuição, troca e consumo de bens e serviços em uma sociedade) e a Medicina (ciência e arte que cuida do diagnóstico, tratamento e prevenção de doenças) etc.
 
-A litigância em matéria previdenciária é uma *litigância de massa*, no sentido de que existe sempre um grande volume de demandas envolvendo a matéria. De acordo com dados do CNJ, o Instituto Nacional do Seguro Social é o maior litigante do País[^8]. 
+A litigância em matéria previdenciária é uma *litigância de massa*, no sentido de que existe sempre um grande volume de demandas envolvendo a matéria. De acordo com dados do CNJ, o Instituto Nacional do Seguro Social é o maior litigante do País[^8].
+
+[^8]: V. https://grandes-litigantes.stg.cloud.cnj.jus.br/
 
 Por isso, um campo de estudo interdisciplinar que tem angariado bastante interesse é o da Jurimetria. A Jurimetria pode ser definida como uma área interdisciplinar que se ocupa da aplicação de métodos quantitativos ao Direito[^9] e que utiliza ferramentas da Estatística e da Computação para, entre outras aplicações, modelar procedimentos e prever decisões judiciais.
 
-[^8]: V. https://grandes-litigantes.stg.cloud.cnj.jus.br/
-[^9]: @zabala2014, p. 87-103. 
+[^9]: @zabala2014, p. 87-103.
 
 Tudo isso para dizer que o profissional do Direito, a cada dia mais, é chamado a possuir conhecimentos em várias outras áreas do saber humano, a fim de compreender seu próprio ramo de estudo e desempenhar bem o seu trabalho.

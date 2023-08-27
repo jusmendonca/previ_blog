@@ -2,14 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jusmendonca.quarto.pub/previ_blog/about.html</loc>
-    <lastmod>2023-07-31T00:57:06.304Z</lastmod>
+    <lastmod>2023-08-23T11:20:54.805Z</lastmod>
   </url>
   <url>
     <loc>https://jusmendonca.quarto.pub/previ_blog/index.html</loc>
-    <lastmod>2023-07-31T00:57:07.414Z</lastmod>
+    <lastmod>2023-08-23T11:20:56.467Z</lastmod>
   </url>
   <url>
     <loc>https://jusmendonca.quarto.pub/previ_blog/posts/1-introducao/introducao.html</loc>
-    <lastmod>2023-07-31T00:57:10.497Z</lastmod>
+    <lastmod>2023-08-23T11:20:59.199Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/10-RGPS/disposicoes_gerais.html</loc>
+    <lastmod>2023-08-23T11:21:01.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/11-relacao/relacao.html</loc>
+    <lastmod>2023-08-23T11:21:03.125Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/2-Fontes/fontes.html</loc>
+    <lastmod>2023-08-23T11:21:06.815Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/4-principios/principios_da_seguridade.html</loc>
+    <lastmod>2023-08-23T11:21:13.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/5-principios2/principios2.html</loc>
+    <lastmod>2023-08-23T11:21:16.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/6-principios3/principios3.html</loc>
+    <lastmod>2023-08-23T11:21:19.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/7-indicacao1/indicacao1.html</loc>
+    <lastmod>2023-08-23T11:21:21.216Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/8-regimes/regimes.html</loc>
+    <lastmod>2023-08-23T11:21:24.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jusmendonca.quarto.pub/previ_blog/posts/9-falacias/falacias.html</loc>
+    <lastmod>2023-08-23T11:21:26.306Z</lastmod>
   </url>
 </urlset>

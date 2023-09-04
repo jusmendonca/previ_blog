@@ -91,6 +91,8 @@ h)  a pessoa física que exerce, por conta própria, atividade econômica de nat
 
 a)  sindicalizado ou não, preste serviço de natureza urbana ou rural a diversas empresas, ou equiparados, sem vínculo empregatício, com intermediação obrigatória do órgão gestor de mão de obra, nos termos do disposto na Lei nº 12.815, de 5 de junho de 2013, ou do sindicato da categoria, assim considerados:
 
+<!-- -->
+
 1.  o trabalhador que exerça atividade portuária de capatazia, estiva, conferência e conserto de carga e vigilância de embarcação e bloco;
 2.  o trabalhador de estiva de mercadorias de qualquer natureza, inclusive carvão e minério;
 3.  o trabalhador em alvarenga (embarcação para carga e descarga de navios);
@@ -100,7 +102,11 @@ a)  sindicalizado ou não, preste serviço de natureza urbana ou rural a diversa
 7.  o guindasteiro; e
 8.  o classificador, o movimentador e o empacotador de mercadorias em portos; e
 
+<!-- -->
+
 b)  exerça atividade de movimentação de mercadorias em geral, nos termos do disposto na Lei nº 12.023, de 27 de agosto de 2009, em áreas urbanas ou rurais, sem vínculo empregatício, com intermediação obrigatória do sindicato da categoria, por meio de acordo ou convenção coletiva de trabalho, nas atividades de: (Redação dada pelo Decreto nº 10.410, de 2020).
+
+<!-- -->
 
 1.  cargas e descargas de mercadorias a granel e ensacados, costura, pesagem, embalagem, enlonamento, ensaque, arrasto, posicionamento, acomodação, reordenamento, reparação de carga, amostragem, arrumação, remoção, classificação, empilhamento, transporte com empilhadeiras, paletização, ova e desova de vagões, carga e descarga em feiras livres e abastecimento de lenha em secadores e caldeiras;
 2.  operação de equipamentos de carga e descarga;
@@ -204,7 +210,7 @@ Exemplificativamente (art. 11 do RPS), trata-se da pessoa que se dedica a ativid
 
 Para o segurado facultativo, a filiação depende da prévia inscrição somada ao primeiro recolhimento, uma vez que não exerce atividade laborativa remunerada.
 
-```{dot} 
+```{dot}
 digraph G {
     rankdir=LR;
     node [shape=box];

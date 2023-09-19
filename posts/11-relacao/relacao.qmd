@@ -12,6 +12,7 @@ categories: [aulas]
 google-scholar: true
 image: "meuinss.jpeg"
 ---
+
 ## Conceito
 
 Relação jurídica previdenciária é o *vínculo jurídico* que liga o segurado ou seu dependente ao ente previdenciário e que tem por objeto a garantia contra riscos sociais previstos em lei.

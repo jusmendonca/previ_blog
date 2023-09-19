@@ -109,5 +109,11 @@
   },
   "posts/12-segurados-obrigatorios/segurados.qmd": {
     "segurados.html": "e4808da7"
+  },
+  "posts/13-manutencao-segurado/manutencao-segurado.qmd": {
+    "manutencao-segurado.html": "38bff0ca"
+  },
+  "posts/14-dependentes/dependentes.qmd": {
+    "dependentes.html": "af82b317"
   }
 }

@@ -2,7 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/17-carencia/carencia.html",
+      "/posts/16-acidentes/acidentes.html",
       "/posts/14-dependentes/dependentes.html",
+      "/posts/15-visao-geral/visao.html",
       "/posts/13-manutencao-segurado/manutencao-segurado.html",
       "/posts/12-segurados-obrigatorios/segurados.html",
       "/posts/10-RGPS/disposicoes_gerais.html",

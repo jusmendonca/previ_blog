@@ -1,0 +1,104 @@
+---
+title: "Carência"
+# description: 
+date: "2023-09-26"
+author: 
+  - name: "Igor MENDONÇA"
+draft: false
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/carencia/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "carencia.png"
+---
+
+## Conceito legal
+
+Carência é o número mínimo de contribuições que o segurado precisa ter para que ele ou seus dependentes façam jus a determinada prestação previdenciária, consideradas essas contribuições a partir do transcurso do primeiro dia dos meses de suas competências (art. 24 LBPS). Ou seja, contam-se os períodos de carência mês a mês, e não dia a dia.
+
+O conceito de carência assemelha-se, mas não se confunde, com o de tempo de contribuição. Ambos são períodos contributivos, mas alguns lapsos temporais podem contar como "tempo de contribuição" mas não como "carência." Por exemplo, não contam para efeito de carência, embora contem como períodos contributivos, os períodos de inatividade por motivo de incapacidade temporária ou permanente, exceto se intercalados entre períodos de atividade laborativa. Este é o entendimento pacificado pelo STF:
+
+> **Tese firmada no Tema 1125/STF**. É constitucional o cômputo, para fins de carência, do período no qual o segurado esteve em gozo do benefício de auxílio-doença, desde que intercalado com atividade laborativa.
+
+## Forma de comprovação
+
+A carência é um requisito legal exigido para alguns benefícios previdenciários. Quando legalmente exigida, é necessário ter em mente que algumas espécies de segurados possuem contribuições presumidas, haja vista que o recolhimento é feito pela pessoa física ou jurídica a quem se encontram vinculadas. Nesse contexto, possuem contribuições presumidas os seguintes segurados obrigatórios:
+
+a)  empregado;
+b)  empregado doméstico, a partir da competência junho 2015 (art. 26, § 4º-A RPS, haja vista a redação dada ao art. 27, I, da LBPS pela EC 150/2015);
+c)  trabalhador avulso;
+d)  contribuinte individual prestador de serviços a empresa, a partir da competência abril de 2003 (de acordo com a Lei n.º 10.666/2003).
+
+Em tais casos, a carência é comprovada através do exercício da atividade laborativa remunerada pelo número de meses exigido para que o segurado faça jus ao benefício previdenciário pleitado, devendo a Receita Federal do Brasil providenciar a cobrança das contribuições previdenciárias de seus responsáveis (se não passado o prazo decadencial).
+
+Por outro lado, certos segurados devem comprovar o efetivo recolhimento das contribuições relativas ao período de carência do benefício pleiteado. Para estes, o período de carência é contado a partir da primeira contribuição previdenciária recolhida *sem atraso*. São eles:
+
+a)  o contribuinte individual que desenvolve atividade econômica por conta própria;
+b)  o segurado especial que contribui sobre 20% do salário de contribuição (para fazer jus ao benefício de aposentadoria programada, em valor superior ao salário-mínimo);
+c)  o segurado facultativo.
+
+Por último, há um caso de dispensa legal de contribuições: o segurado especial não contribuinte (aquele que não recolhe sobre 20% do salário de contribuição) tem seus períodos de carência contados em número de meses de efetivo labor rural, ainda que descontínuos, imediatamente anteriores ao requerimento do benefício previdenciário.
+
+O recolhimento das contribuições previdenciárias alimenta o CNIS - Cadastro Nacional de Informações Sociais -, utilizado pelo INSS para apuração dos vínculos e das remunerações dos segurados da Previdência Social. Havendo dúvida, a Autarquia poderá solicitar os documentos que serviram de base à anotação, mas esses registros são, hoje, a principal fonte de informação da Autarquia Previdenciária para a análise de requerimentos de benefícios.
+
+### Comprovação da carência pelo segurado especial (art. 11, VII, e art. 39, I, e parágrafo único, da Lei 8.213/91)
+
+Merece um tópico à parte o estudo da comprovação da carência do segurado especial não contribuinte, em vista de sua especificidade e importância prática.
+
+Conforme já visto, o segurado especial do RGPS encontra-se dispensado de comprovar o efetivo recolhimento das contribuições previdenciárias para fazer jus a certos benefícios previdenciários, no valor de até um salário-mínimo (art. 39, I, art. 39, I, e parágrafo único, da Lei 8.213/91). Para tanto, deve comprovar o efetivo labor rural pelo número de meses correspondente à carência do benefício (se este exigir carência).
+
+É entendimento jurisprudencial pacificado que a regra prevista no art. 55, § 3º, da LBPS aplica-se ao segurado especial, de modo que este deve apresentar início de prova material referente ao período contributivo que pretende contar como carência, não bastando a prova exclusivamente testemunhal.
+
+> Súmula 149/STJ. A prova exclusivamente testemunhal não basta a comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário.
+
+Porém, não se exige que o início de prova material (ou seja, documental) seja referente a *todo* o período de carência, podendo sua eficácia ter efeitos retrospectivos ou prospectivos, de acordo com os demais elementos probatórios apresentados. Vejamos:
+
+> Súmula 14/TNU. Para a concessão de aposentadoria rural por idade, não se exige que o início de prova material corresponda a todo o período equivalente à carência do benefício.
+
+Em sentido semelhante, fixou o Superior Tribunal de Justiça:
+
+> Súmula 577/STJ. É possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório.
+
+É necessário que os documentos sejam contemporâneos dos fatos a provar, não sendo admitidos documentos produzidos intempestivamente, apenas com finalidade previdenciária, embora isso seja muito comum na prática:
+
+> Súmula 34 TNU. Para fins de comprovação do tempo de labor rural, o início de prova material deve ser contemporâneo à época dos fatos a provar.
+
+O art. 106 da LBPS enumera documentos admitidos como início de prova material. Porém, referida lista não é taxativa, de modo que o juiz pode considerar outros documentos que não os ali mencionados.
+
+## Períodos de carência
+
+Os períodos de carência encontram-se dispostos no art. 25 da LBPS. A tabela abaixo compila os prazos exigidos para cada benefício vigente no RGPS:
+
+| Benefício                                                                       | Carência (em número de contribuições mensais) |
+|:--------------------------------------------|:--------------------------|
+| salário-maternidade da contribuinte individual, facultativa e segurada especial | 10                                            |
+| aposentadoria por incapacidade permanente (invalidez)                           | Em regra, 12                                  |
+| auxílio por incapacidade temporária (auxílio-doença)                            | Em regra, 12                                  |
+| auxílio-reclusão                                                                | 24                                            |
+| aposentadoria por idade do trabalhador rural                                    | 180                                           |
+| aposentadoria programada                                                        | 180                                           |
+| aposentadoria especial                                                          | 180                                           |
+
+Por outro lado, de acordo com o art. 26 da LBPS, *independem* de carência as seguintes prestações previdenciárias:
+
+a)  o salário-maternidade das seguradas empregadas, trabalhadoras avulsas e empregadas domésticas;
+b)  quando provenientes de acidente de qualquer natureza ou causa (inclusive acidente do trabalho, moléstia ocupacional) ou doenças e afecções especificadas em lista elaborada pelos Ministérios da Saúde e da Previdência Social, os benefícios de aposentadoria por incapacidade permanente (aposentadoria por invalidez) e auxílio por incapacidade temporária (auxílio-doença);
+c)  em qualquer caso, a pensão por morte, o salário-família, o auxílio-acidente e os serviços previdenciários (serviço social e reabilitação profissional).
+
+No que se refere ao item "b", vigora a Portaria Interministerial MTP/MS nº 22, de 31 de agostro de 2022. Referido ato normativo elenca as seguintes moléstias (art. 2º):
+
+I - tuberculose ativa; II - hanseníase; III - transtorno mental grave, desde que esteja cursando com alienação mental; IV - neoplasia maligna; V - cegueira; VI - paralisia irreversível e incapacitante; VII - cardiopatia grave; VIII - doença de Parkinson; IX - espondilite anquilosante; X - nefropatia grave; XI - estado avançado da doença de Paget (osteíte deformante); XII - síndrome da deficiência imunológica adquirida (Aids); XIII - contaminação por radiação, com base em conclusão da medicina especializada; XIV - hepatopatia grave; XV - esclerose múltipla; XVI - acidente vascular encefálico (agudo); e XVII - abdome agudo cirúrgico.
+
+De acordo com o parágrafo único do mesmo dispositivo "As doenças e afecções listadas nos incisos XVI e XVII do caput serão enquadradas como isentas de carência quando apresentarem quadro de evolução aguda e atenderem a critérios de gravidade."
+
+## Carência na hipótese de reaquisição da qualidade de segurado
+
+A redação original da Lei n.º 8.213/1991, previa uma vantagem para o segurado que readquirisse essa qualidade, após findo o "período de graça" (art. 15, LBPS). De acordo com o parágrafo único do art. 24, havendo perda da qualidade de segurado, as contribuições anteriores a essa data só eram computadas para efeito de carência depois que o segurado contasse, a partir da nova filiação ao RGPS, com, no mínimo, 1/3 (um terço) do número de contribuições exigidas para o cumprimento da carência definida para o benefício requerido. Dessa forma, por exemplo, o segurado empregado que, contando 10 (dez) contribuições mensais, fosse despedido e somente voltasse a exercer atividade laborativa remunerada após o transcurso da integralidade do período de graça, deveria ter, no mínimo, 4 (quatro) contribuições mensais, a partir da nova filiação, a fim de cumprir a carência necessária para gozar do auxílio-doença (que exige carência de doze meses).
+
+Por seu turno, a Lei n.º 13.457, de 2017 (resultante da conversão da Medida Provisória n.º 767/2017) simplesmente *revogou* o parágrafo único no art. 24 da LBPS, de maneira que, durante a sua vigência, o segurado que reingressasse no RGPS deveria cumprir a integralidade dos períodos de carência previstos em lei.
+
+Posteriormente, a MP 871/2019, depois convertida na Lei n.º 13.846/2019, passou a exigir o cumprimento de *metade* dos prazos de carência a partir da nova filiação (art. 27-A da LBPS). Esse é o regime que vigora atualmente. Portanto, no exemplo exposto antes exposto, o requerente deve cumprir, no mínimo, 6 (seis) meses de carência após a nova filiação.
+
+É importante perceber que essa regra aplica-se apenas a alguns benefícios que exigem carência. Nomeadamente, auxílio por incapacidade temporária, aposentadoria por incapacidade permanente, salário-maternidade e auxílio-reclusão. O dispositivo deixa de fora as aposentadorias (exceto a por incapacidade permanente). Para tais benefícios, a perda da qualidade de segurado *não afeta o cumprimento da carência, quando exigida*.

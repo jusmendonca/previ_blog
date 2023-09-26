@@ -1,0 +1,129 @@
+---
+title: "Acidentes de trabalho"
+# description: 
+date: "2023-09-19"
+author: 
+  - name: "Igor MENDONÇA"
+draft: false
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/acidentes/
+  language: portuguese
+categories: [aulas]
+bibliography: references.bib
+google-scholar: true
+image: "acidentes.jpg"
+---
+
+## Acidente de trabalho típico
+
+Estabelece o art. 19 da LBPS que acidente de trabalho é aquele que ocorre pelo exercício do trabalho a serviço de empresa ou de empregador doméstico ou pelo exercício do trabalho dos segurados especiais, provocando lesão corporal ou perturbação funcional que cause morte, ou ainda, perda ou redução, permanente ou temporária, da capacidade para o trabalho.
+
+Trata-se do chamado acidente de trabalho "típico", ou seja, aquele sofrido *no exercício da atividade laborativa* sujeita à filiação obrigatória, a serviço de empresa ou de empregado doméstico, ou, ainda, no exercício do labor dos segurados especiais.
+
+Do conceito citado podem-se extrair algumas conclusões importantes a respeito de quais categorias de segurados podem sofrer acidentes de trabalho, no sentido técnico. São elas:
+
+a)  segurado empregado;
+b)  segurado empregado doméstico (somente a partir da Lei Complementar n.º 150/2015);
+c)  trabalhador avulso;
+d)  segurado especial;
+e)  contribuinte individual que preste serviço a empresa.
+
+Por outro lado, não sofrem tecnicamente acidente de trabalho:
+
+a)  contribuinte individual que desenvolva atividade econômica por conta própria ou preste serviços a pessoas físicas;
+b)  segurado facultativo.
+
+Vale lembrar que o conceito de empresa, conforme o art. 14, da LBPS, abrange a firma individual e a sociedade que assume o risco de atividade econômica urbana ou rural, com fins lucrativos ou não, bem como os órgãos e entidades da administração pública direta, indireta ou fundacional. Por equiparação, considera-se também empresa o contribuinte individual e a pessoa física na condição de proprietário ou dono de obra de construção civil, em relação a segurado que lhe presta serviço, bem como a cooperativa, a associação ou entidade de qualquer natureza ou finalidade, a missão diplomática e a repartição consular de carreira estrangeiras. Finalmente, empregador doméstico é a pessoa ou a família que admite a seu serviço, sem finalidade lucrativa, empregado doméstico.
+
+## Acidente de trabalho atípico ou equiparado
+
+Existem outros eventos que, apesar de não comporem o núcleo conceitual de acidente de trabalho, são eventos equiparados. Tais fatos encontram-se tipificados nos incisos do art. 21 da LBPS e podem ser resumidos, didaticamente, em três subespécies:
+
+### Concausas da morte ou da lesão redutora da capacidade laborativa, ligadas ao trabalho (inciso I).
+
+No primeiro grupo está o acidente, ligado ao trabalho que, embora não tenha sido a causa única, haja contribuído diretamente para a morte, redução ou perda da capacidade para o trabalho do segurado, ou tenha produzido lesão que exija atenção médica para a sua recuperação.
+
+Cuida-se da concausa da morte ou lesão redutora da capacidade laborativa. Pode-se citar o exemplo de Frederico Amado[^1], do empregado hemofílico que sofre uma lesão no exercício do trabalho. O evento acidentário, a despeito de não ser bastante para provocar sozinho a incapacidade laborativa, funciona como uma causa concorrente, pois soma-se à condição de saúde prévia do trabalhador (a hemofilia), motivando a necessidade de afastamento.
+
+[^1]: @amado2015, p. 403.
+
+### Atos de terceiros, casos fortuitos ou de força maior, no local de trabalho (inciso II).
+
+Trata-se do acidente sofrido no local e no horário de trabalho em razão de atos de terceiros ou de companheiros de trabalho (agressão, sabotagem, terrorismo, ofensa física intencional por disputas relacionadas ao trabalho, atos de pessoas privadas do uso da razão) e casos fortuitos ou decorrentes de força maior (dos quais são exemplos o desabamento, a inundação e o incêndio).
+
+### Doenças provocadas por contaminação acidental no exercício do trabalho (inciso III).
+
+O exemplo mais evidente é o do profissional da área de saúde que maneja materiais biológicos de pessoas afetadas por doenças contagiosas. O vocábulo "contaminação" pode também referir-se à exposição a outros agentes nocivos, como radiações.
+
+### Acidentes *in itinere*, ainda que fora do local e do horário do trabalho.
+
+Cuida-se do acidente sofrido pelo segurado, ainda que fora do local e horário de trabalho, nas seguintes situações:
+
+-   na execução de ordem ou na realização de serviço sob a autoridade da empresa;
+-   na prestação espontânea de qualquer serviço à empresa para lhe evitar prejuízo ou proporcionar proveito;
+-   em viagem a serviço da empresa, inclusive para estudo quando financiado por esta dentro de seus planos para melhor capacitação da mão de obra, independentemente do meio de locomoção utilizado, inclusive veículo de propriedade do segurado;
+-   no percurso da residência para o local de trabalho ou deste para aquela, qualquer que seja o meio de locomoção, inclusive veículo de propriedade do segurado.
+
+Os períodos de descanso, refeição, ou de intervalo para satisfação de outras necessidades fisiológicas no local do trabalho ou durante este são considerados como períodos de exercício do trabalho, conforme o § 1º do art. 21 da LBPS. Já o § 2º do mesmo artigo estabelece que não se considera "agravação ou complicação" de acidente do trabalho a lesão que, resultante de outra origem, se associe ou se sobreponha às consequências do acidente anterior.
+
+Nessa hipótese, o evento posterior funciona como uma causa superveniente relativamente (associação) ou absolutamente (superposição) independente das lesões provocadas ao segurado, rompendo o nexo causal entre o evento acidentário original e a incapacidade posterior.
+
+## Moléstias (ou doenças) ocupacionais
+
+Também se equiparam a acidentes de trabalho, embora não guardem com estes a nota de evento súbito, as chamadas moléstias (ou doenças) ocupacionais. O art. 20 da LBPS as divide em dois grupos de "entidades mórbidas":
+
+i)  as doenças profissionais (tecnopatias ou ergopatias) e
+ii) as doenças do trabalho (mesopatias).
+
+O fator de discriminação eleito pela lei entre os dois tipos de moléstias é o caráter diretamente relacionado ao trabalho peculiar a determinada atividade profissional, existente no primeiro e ausente no segundo.
+
+Por essa razão, pode-se dizer, sem risco de imprecisão, que as doenças profissionais são doenças ocupacionais em sentido estrito, enquanto as doenças do trabalho o são em sentido amplo. O último grupo de moléstias está relacionado não ao trabalho específico desempenhado pelo acidentado, mas às condições especiais a que este se encontra submetido e poderiam eventualmente surgir sem qualquer nexo de causalidade com seu trabalho.
+
+É justamente a preocupação com a prova do nexo causal que parece ter levado o legislador previdenciário a entender relevante a diferenciação. No caso do primeiro grupo de doenças, é presumida a existência do nexo causal entre o trabalho e a doença incapacitante, coisa que não ocorre no segundo grupo. Alguns exemplos podem aclarar a distinção e sua importância prática.
+
+Costuma-se citar[^2] como exemplo de doença profissional a *silicose*, espécie de pneumoconiose relacionada à atividade dos mineradores. Dessa forma, o mineiro que se afastasse do trabalho em decorrência de sintomas como tosse seca, dor no peito, falta de ar constante, fraqueza, tontura etc., diagnosticado com silicose (CID-10 J62), não precisaria demonstrar o nexo de causalidade entre o trabalho e a doença, de forma que seu benefício por incapacidade eventualmente deferido pelo INSS seria necessariamente qualificado como "acidentário." Por outro lado, o diagnóstico de transtorno do pânico (CID-10 F41.0) em um trabalhador da área administrativa de um escritório de uma grande empresa não configura uma doença profissional, mas pode ser considerado uma doença do trabalho pela perícia médica, se comprovado o nexo de causalidade entre a atividade laborativa e a moléstia incapacitante.
+
+[^2]: @amado2015, p. 401; @lazzari2021, p. 285.
+
+Para ficar apenas em uma consequência relevante da caracterização de um benefício como "acidentário", leia-se o 118 da LBPS:
+
+> Art.118. O segurado que sofreu acidente do trabalho tem garantida, pelo prazo mínimo de doze meses, a manutenção do seu contrato de trabalho na empresa, após a cessação do auxílio-doença acidentário, independentemente de percepção de auxílio-acidente.
+
+Note-se que o legislador delegou à autoridade administrativa (Ministério da Previdência Social) a competência para elaborar uma lista de doenças ocupacionais (art. 20, incisos I e II, LBPS). Embora essa regulamentação não tenha vindo a lume, o próprio § 2º do mesmo dispositivo possibilitou o estabelecimento excepcional do nexo de causalidade entre a doença e "as condições especiais em que o trabalho é executado."
+
+Dessa forma, a Previdência Social sempre pôde qualificar uma incapacidade como "acidentária", de acordo com a conclusão da perícia médica, através do estabelecido do chamado "Nexo Técnico Previdenciário - NTP" (art. 337 do Regulamento da Previdência Social). Em realidade, a lista prevista em lei terminou sendo estabelecida pelo Anexo II, do Decreto n.º 3.048/1999, com redação determinada pelo Decreto n.º 6.957/2009. Sua primeira tabela estabelece uma relação entre "agentes patogênicos" e "trabalhos que contém risco." Através dessa tabela, ficamos sabendo, por exemplo, que a pessoa que trabalha na produção de tintas está exposta aos agentes químicos "benzeno e seus homólogos tóxicos" (Quadro III). Já na Lista A do mesmo Anexo, que relaciona os "agentes etiológicos ou fatores de risco de natureza ocupacional" e as "doenças causalmente relacionadas com os respectivos agentes ou fatores de risco", vemos que o "benzeno e seus homólogos tóxicos" estão relacionados à doença denominada "Encefalopatia Tóxica Crônica", codificada no CID-10 pelo símbolo G92.2 (Quadro III). Na medida em que essa espécie de encefalopatica não é peculiar ao trabalho de quem labora na indústria de tintas (podendo ter outras causas), classifica-se como uma doença do trabalho.
+
+## Reconhecimento administrativo dos acidentes de trabalho
+
+A forma tradicional de reconhecimento administrativo da natureza acidentária de um evento incapacitante (seja ele um acidente do trabalho típico, atípico ou uma moléstia ocupacional) é a Comunicação de Acidente de Trabalho - CAT, prevista no art. 22 da LBPS. De acordo com o *caput* do dispositivo mencionado, a empresa ou o empregador doméstico deverão comunicar o acidente do trabalho à Previdência Social (ou seja, ao INSS) até o primeiro dia útil seguinte ao de sua ocorrência e, em caso de morte, de imediato "à autoridade competente", sob pena de multa variável entre os limites mínimo e máximo do salário de contribuição, sucessivamente aumentada nas reincidências, aplicada e cobrada pela Previdência Social. Cópias da CAT devem ser fornecidas tanto ao acidentado (ou seus dependentes, se for o caso), e ao sindicato da respectiva categoria (§ 1º).
+
+No caso de sonegação da CAT pelo empregador, possuem legitimidade subsidiária para sua apresentação o próprio acidentado, seus dependentes, a entidade sindical competente, o médico que o assistiu e, por último, qualquer autoridade pública (§ 2º), não sendo aplicáveis a essas pessoas o prazo estabelecido para a empresa ou o empregador doméstico disposto no caput. Em caso de comunicação na forma do § 2º, é mantida a multa pela falta de comunicação (§ 3º), que, porém, não será devida pela empresa ou empregador doméstico na hipótese em que o reconhecimento administrativo do acidente de trabalho for feito pela perícia médica através da metodologia do Nexo Técnico Previdenciário (NTEP), prevista no art. 21-A da LBPS (§ 5º). Por fim, sindicatos e entidades representativas de classe poderão acompanhar a cobrança das multas em decorrência de sonegação da CAT (§ 4º).
+
+Em razão dos diversos efeitos negativos que a comunicação de acidentes de trabalho provoca para o empregador (e que veremos adiante), não é raro que a CAT deixe de ser apresentada. Também não é raro que o próprio trabalhador e seus dependentes não disponham de informações suficientes para fazer a comunicação e ainda que os demais legitimados sequer tomem conhecimento dos eventos acidentários. Nesses casos, sempre foi a perícia médica previdenciária quem, ao analisar um requerimento de benefício por incapacidade (ou mesmo de pensão por morte) caracterizava tecnicamente o acidente de trabalho mediante o reconhecimento do nexo entre o trabalho e o agravo. Porém, o caráter individualista dessa abordagem sempre gerou um índice absurdo de subnotificações. Se não preenchida a CAT, o médico perito previdenciário deveria estudar o caso a fim de verificar se a incapacidade poderia ou não ser caracterizada como acidentária, sem considerar o contexto amplo no qual se encontrava inserido o trabalhador. Não se levava em conta, por exemplo, se a atividade própria da empresa gerava, estatisticamente, muitos afastamentos semelhantes - sobretudo nos casos de doenças ocupacionais -, fato que poderia levar à conclusão sobre o caráter acidentário da incapacidade no caso específico.
+
+O modelo fundado primordialmente na CAT e, subsidiariamente, no nexo técnico previdenciário de viés individualista - que não gerava os incentivos corretos para a efetiva notificação dos acidentes de trabalho e, por via de consequência, para a confiabilidade dos dados governamentais sobre o assunto - foi complementado por um modelo probabilístico, fundado na regularidade estatística dos agravos notificados por empregadores, de acordo com seu ramo de atividade empresarial. Trata-se do modelo do Nexo Técnico Epidemiológico Previdenciário (NTEP), introduzido em 2006 pela Medida Provisória n.º 316, posteriormente convertida na Lei n.º 11.430, de 26 de dezembro daquele ano. Em 2008, foi publicada a Instrução Normativa INSS PRES n.º 31, que dispõe sobre procedimentos e rotinas referentes ao Nexo Técnico Previdenciário (NTP). Seu art. 3º estabelece:
+
+> Art. 3º O nexo técnico previdenciário poderá ser de natureza causal ou não, havendo três espécies: I - nexo técnico profissional ou do trabalho, fundamentado nas associações entre patologias e exposições constantes das listas A e B do anexo II do Decreto nº 3.048/99; II - nexo técnico por doença equiparada a acidente de trabalho ou nexo técnico individual, decorrente de acidentes de trabalho típicos ou de trajeto, bem como de condições especiais em que o trabalho é realizado e com ele relacionado diretamente, nos termos do § 2º do art. 20 da Lei nº 8.213/91; III - nexo técnico epidemiológico previdenciário, aplicável quando houver significância estatística da associação entre o código da Classificação Internacional de Doenças-CID, e o da Classificação Nacional de Atividade Econômica-CNAE, na parte inserida pelo Decreto nº 6.042/07, na lista B do anexo II do Decreto nº 3.048/99.
+
+## Eventos que não se consideram acidentes de trabalho
+
+Excluem-se do conceito legal de moléstia ocupacional, de acordo com o art. 20, § 1º, da LBPS:
+
+a)  a doença degenerativa;
+b)  a inerente a grupo etário;
+c)  a que não produza incapacidade laborativa e
+d)  a doença endêmica habitante de região em que ela se desenvolva, salvo comprovação de que é resultante de exposição ou contato direto determinado pela natureza do trabalho.
+
+As exclusões expressas nos itens "a" a "c" operam como presunções absolutas de que a doença em questão não está relacionada ao trabalho; ou seja, em face de uma doença caracterizada como degenerativa (v. g., a osteoporose), característica de grupo etário (v. g., demência senil), ou que não chegue a provocar incapacidade laborativa, está vedada a qualificação ocupacional. Já quanto ao item "d", a vedação opera como uma presunção relativa, sujeita à prova em contrário do nexo causal entre a exposição e o contato direto determinado pela natureza do trabalho realizado pelo segurado. Ora, se alguém está exposto, pela própria natureza de seu trabalho, a uma doença endêmica de determinada região, esse fato não poderia servir para excluir o caráter acidentário da contaminação.
+
+Sobre este tópico, parece haver uma subinclusão importante na alínea "c." É que certas patologias, mesmo relacionadas ao trabalho, podem não resultar em incapacidade, mas apenas em diminuição da capacidade laborativa do segurado, ou mesmo em necessidade permanente de cuidados terapêuticos. Pense-se no exemplo das LER/DORT que não chegam a provocar afastamento do trabalho, mas somente diminuição da produtividade ou necessidade de cuidados médicos e fisioterapêuticos por prazo indefinido. Pela interpretação literal do dispositivo mencionado, não parece haver espaço para classificar como moléstias ocupacionais as patologias assim identificadas. Porém, existe uma clara incongruência entre esse dispositivo e o art. 21, I, da LBPS, na medida em que o evento acidentário que funciona como uma concausa da redução da capacidade laborativa ou da lesão que exija atenção médica para sua recuperação é classificado como acidente do trabalho por equiparação (atípico). A nosso ver, a exclusão estabelecida pela alínea "c" do § 1º do art. 20 - ao exigir que toda moléstia, para ser classificada como ocupacional (e, portanto, acidentária), deve obrigatoriamente gerar incapacidade - gera os incentivos errados, pois favorece que o segurado acometido de doenças relacionadas ao labor trabalhe até o limite da incapacidade para, somente aí, ter reconhecido o caráter acidentário de suas lesões. São muitos os exemplos de empresas que, prevendo o futuro afastamento de seus empregados, apressam-se em demiti-los, mesmo sabendo serem eles portadores de doenças relacionadas ao trabalho em fase ainda controlável (muitas vezes, ao custo de fortes medicamentos).
+
+## Principais consequências jurídicas da ocorrência de um acidente de trabalho
+
+As consequências mais relevantes da caracterização de um evento (seja um acidente típico, atípico ou uma moléstia ocupacional) como acidente do trabalho são as seguintes:
+
+a)  O benefício por incapacidade concedido pelo INSS terá natureza acidentária, dispensando-se o requisito carência (v. Art. 26, II, LBPS). Em realidade, a dispensa da carência não é uma consequência exclusiva da ocorrência do acidente de trabalho, mas do acidente de qualquer natureza ou causa;
+b)  Implicação na estatística da empresa para majoração da alíquota da contribuição "destinada ao financiamento do benefício de aposentadoria especial ou daqueles concedidos em razão do grau de incidência de incapacidade laborativa decorrente dos riscos ambientais do trabalho" (contribuição SAT), nos termos do art. 10 da Lei n.º 10.666/2003;
+c)  Estabilidade do segurado empregado por 12 (doze) meses após o retorno do afastamento (art. 118 da LBPS);
+d)  Competência da Justiça Estadual para eventual ação contra o INSS em decorrência do indeferimento do benefício previdenciário por incapacidade (art. 109, I, da Constituição Federal);
+e)  Possibilidade de ajuizamento da ação regressiva acidentária prevista no art. 120 da LBPS em caso de negligência quanto às normas padrão de segurança e higiene do trabalho indicadas para a proteção individual e coletiva.

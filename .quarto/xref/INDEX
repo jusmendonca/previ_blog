@@ -115,5 +115,20 @@
   },
   "posts/14-dependentes/dependentes.qmd": {
     "dependentes.html": "af82b317"
+  },
+  "posts/15-visao-geral/visao.qmd": {
+    "visao.html": "07bf9e86"
+  },
+  "posts/16-acidentes/acidentes.qmd": {
+    "acidentes.html": "e7ea8380"
+  },
+  "posts/acidentes.qmd": {
+    "acidentes.html": "4c12d705"
+  },
+  "posts/carencia.qmd": {
+    "carencia.html": "cb6c7ee7"
+  },
+  "posts/17-carencia/carencia.qmd": {
+    "carencia.html": "582eae00"
   }
 }

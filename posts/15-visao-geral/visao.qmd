@@ -1,0 +1,69 @@
+---
+title: "Visão Geral das Prestações Previdenciárias no RGPS"
+# description: 
+date: "2023-09-18"
+author: 
+  - name: "Igor MENDONÇA"
+draft: false
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/visao/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "visao.jpg"
+---
+
+## Introdução
+
+A previdência social é um subsistema da seguridade social que visa a garantir a seus filiados a cobertura contra riscos sociais previstos em lei. Por sua vez, o regime geral de previdência social é o regime mais amplo vigente no País. Mas quais são os "riscos sociais" cobertos pelo RGPS? Essa resposta nos é fornecida, inicialmente, pelo art. 201, *caput*, da Constituição Federal, cujos incisos elencam as proteções previdenciárias que devem ser previstas pela legislação infraconstitucional. São elas:
+
+(i) incapacidade temporária ou permanente para o trabalho;
+(ii) idade avançada;
+(iii) gestação e maternidade;
+(iv) desemprego involuntário;
+(v) salário-família (encargos familiares) para dependentes do segurado de baixa renda;
+(vi) auxílio-reclusão para os dependentes do segurado de baixa renda;
+(vii) morte.
+
+Por sua vez, a Lei 8.213/91 (LBPS), em seu art. 18, elenca as seguintes prestações previdenciárias, em atenção ao texto constitucional:
+
+##  Prestações previdenciárias
+
+### Benefícios
+
+#### Benefícios dos segurados
+
+a)  aposentadoria por incapacidade permanente (invalidez);
+b)  aposentadoria por idade do trabalhador rural;
+c)  aposentadoria programada;
+d)  aposentadoria especial;
+e)  auxílio por incapacidade temporária (auxílio-doença);
+f)  salário-família;
+g)  salário-maternidade;
+h)  auxílio-acidente.
+
+#### Benefícios dos dependentes
+
+a)  pensão por morte;
+b)  auxílio-reclusão.
+
+### Serviços
+
+#### Serviços dos segurados e dependentes
+
+a)  serviço social;
+b)  reabilitação profissional.
+
+A diferença entre os tipos de prestações (benefícios e serviços) é o caráter pecuniário dos primeiros e não pecuniário dos últimos. Enquanto a prestação envolvida na concessão de um benefício corresponde uma obrigação de dar dinheiro, na de um serviço essa prestação é uma obrigação de fazer.
+
+### Requisitos
+
+Para que o segurado ou dependente faça jus aos benefícios e serviços do RGPS deve:
+
+(i) manter a qualidade de segurado ou a qualidade de dependente;
+(ii) ocorrer um fato gerador de acordo com a legislação vigente à época;
+(iii) cumprir requisitos legais "complementares" (carência, tempo de contribuição, idade mínima, ausência de acumulação, etc.);
+(iv) protocolar um requerimento administrativo junto ao INSS.
+
+Nos tópicos seguintes cuidaremos de cada um desses requisitos legais, abordando, inicialmente, aqueles conceitos que são importantes para o entendimento da generalidade das prestações previdenciárias.

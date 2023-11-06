@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.319">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Igor MENDONÇA">
+
+<title>previ_blog - Aposentadoria por idade do trabalhador rural</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta name="citation_title" content="Aposentadoria por idade do trabalhador rural">
+<meta name="citation_author" content="Igor MENDONÇA">
+<meta name="citation_publication_date" content="2023-10-26">
+<meta name="citation_cover_date" content="2023-10-26">
+<meta name="citation_year" content="2023">
+<meta name="citation_online_date" content="2023-10-26">
+<meta name="citation_fulltext_html_url" content="https://jusmendonca.quarto.pub/previ_blog/posts/aposentadoria-rural/">
+<meta name="citation_language" content="portuguese">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">previ_blog</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Procurar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">Sobre este blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.linkedin.com/in/igor-mendonça-93a2b3151/" rel="" target=""><i class="bi bi-linkedin" role="img">
+</i> 
+ <span class="menu-text">LinkedIn</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/jusmendonca" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text">Github</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Alternar modo de leitor">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Aposentadoria por idade do trabalhador rural</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">aulas</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Autor</div>
+      <div class="quarto-title-meta-contents">
+               <p>Igor MENDONÇA </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Data de Publicação</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">26 de outubro de 2023</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#introdução" id="toc-introdução" class="nav-link active" data-scroll-target="#introdução"><span class="header-section-number">1</span> Introdução</a></li>
+  <li><a href="#requisitos" id="toc-requisitos" class="nav-link" data-scroll-target="#requisitos"><span class="header-section-number">2</span> Requisitos</a>
+  <ul class="collapse">
+  <li><a href="#trabalhador-rural" id="toc-trabalhador-rural" class="nav-link" data-scroll-target="#trabalhador-rural"><span class="header-section-number">2.1</span> “Trabalhador rural”</a></li>
+  <li><a href="#carência" id="toc-carência" class="nav-link" data-scroll-target="#carência"><span class="header-section-number">2.2</span> Carência</a></li>
+  <li><a href="#prova-da-qualidade-de-segurado-e-do-cumprimento-da-carência" id="toc-prova-da-qualidade-de-segurado-e-do-cumprimento-da-carência" class="nav-link" data-scroll-target="#prova-da-qualidade-de-segurado-e-do-cumprimento-da-carência"><span class="header-section-number">2.3</span> Prova da qualidade de segurado e do cumprimento da carência</a></li>
+  <li><a href="#cadastro-de-segurados-especiais-no-cnis" id="toc-cadastro-de-segurados-especiais-no-cnis" class="nav-link" data-scroll-target="#cadastro-de-segurados-especiais-no-cnis"><span class="header-section-number">2.4</span> Cadastro de segurados especiais no CNIS</a></li>
+  </ul></li>
+  <li><a href="#renda-mensal-inicial-rmi" id="toc-renda-mensal-inicial-rmi" class="nav-link" data-scroll-target="#renda-mensal-inicial-rmi"><span class="header-section-number">3</span> Renda mensal inicial (RMI)</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/jusmendonca/previ_blog/issues/new" class="toc-action">Criar uma issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<section id="introdução" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução"><span class="header-section-number">1</span> Introdução</h2>
+<p>A EC 103/2019 manteve a aposentadoria por idade os trabalhadores rurais, com requisitos diferenciados, nos termos da redação atual do art. 201, § 7º, inciso II, da Constituição Federal. A distinção constitucional não afronta o princípio da uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais (art. 194, II). Pelo contrário, trata-se de uma regra instituída com atenção à igualdade sustancial, que reclama um tratamento diferenciado aos trabalhadores rurais em função das características intrínsecas ao trabalho no campo.</p>
+</section>
+<section id="requisitos" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="requisitos"><span class="header-section-number">2</span> Requisitos</h2>
+<p>A aposentadoria por idade do trabalhador rural exige:</p>
+<p>a) que o segurado seja um trabalhador rural;<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>b) idade de 60 anos (homem) ou 55 anos (mulher);</p>
+<p>c) carência de 180 contribuições mensais.</p>
+<section id="trabalhador-rural" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="trabalhador-rural"><span class="header-section-number">2.1</span> “Trabalhador rural”</h3>
+<p>A redação constitucional, ao escolher a categoria “trabalhador rural” como merecedora de especial proteção previdenciária, não guarda congruência com as espécies de segurados previstas na legislação ordinária. Disso resulta que o direito à aposentadoria por idade pode ser acionado por espécies distintas de segurados do RGPS, quais sejam<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>:</p>
+<p>a) <em>segurado especial</em>, ou seja, o pequeno produtor agropecuário, o pescador artesanal, o seringueiro e o extrativista vegetal (art. 11, VII, da Lei 8.213/91);</p>
+<p>b) <em>empregado rural</em>, que é um segurado empregado (art. 11, I, a, da Lei 8.213/91) que exerce efetivamente a atividade agropecuária<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>, como o vaqueiro, o tratador, o lavrador etc;<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>c) <em>trabalhador avulso rural</em>, isto é, aquele que, sindicalizado ou não, presta serviço de natureza rural a diversas empresas, ou equiparados, sem vínculo empregatício, com intermediação obrigatória do órgão gestor de mão de obra (Lei 8.213/91, art. 11, VII e RPS, art. 9º, VI, a);</p>
+<p>d) <em>contribuinte individual rural</em>, como o diarista, o safrista (“boia-fria”)<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>, o produtor agropecuário que não se enquadre como segurado especial (art. 11, V, a, da Lei 8.213/91) e o garimpeiro que trabalhe em regime de economia familiar.</p>
+<p>É bastante comum que o trabalhador rural transite entre as categorias acima elencadas (o segurado especial pode, durante a sua vida laboral, ter sido contratado como vaqueiro de uma fazenda, ter trabalhado como safrista em várias fazendas etc.). Na medida em que todos esses enquadramentos dariam direito à aposentadoria por idade, não há alteração substancial da situação do trabalhador, já tendo a TNU<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> reconhecido a cômputo dos diversos períodos como de “trabalho rural.”</p>
+<p>De acordo com o entendimento do STJ, o trabalhador rural tem que estar laborando no campo quando completar a idade mínima para se aposentar por idade rural. Ressalva-se, porém, a hipótese de direito adquirido, ou seja, a situação em que o segurado afastado do labor rurícola vem a requerer o benefício, já tendo cumprido, no passado, os requisitos idade e carência (Tese firmada no <strong>Tema 642/STJ</strong>).</p>
+<p>Se trabalhador rural ainda não tiver cumprido a carência exigida por lei na época do requerimento administrativo, mas continuar trabalhando, é possível a chamada “reafirmação da DER”, seja na fase administrativa ou no curso do processo judicial (Tese firmada no <strong>Tema 995/STJ</strong>).<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> Na mesma linha, a TNU fixou o entendimento de que “<em>Para a concessão de aposentadoria por idade de trabalhador rural, o tempo de exercício de atividade equivalente à carência deve ser aferido no período imediatamente anterior ao requerimento administrativo ou à data do implemento da idade mínima</em>” (<strong>Súmula 54/TNU</strong>).</p>
+<p>Em regra, não pode ser considerado trabalhador rural aquele que recebe o Benefício de Prestação Continuada da Lei Orgânica da Assistência Social (BPC-LOAS). Entretanto, se comprovado o labor rurícola durante o recebimento do BPC-LOAS, esse período pode ser computado como carência, nos termos da jurisprudência da TNU<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a>, sem prejuízo de eventual responsabilização pelo recebimento indevido do benefício assistencial. Em qualquer caso, é vedado o recebimento simultâneo do BPC-LOAS e da aposentadoria por idade que vier a ser deferida (art. 20, § 4º, da Lei 9.742/93).</p>
+</section>
+<section id="carência" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="carência"><span class="header-section-number">2.2</span> Carência</h3>
+<p>Além da idade de 60 anos (homem) e 55 anos (mulher), o trabalhador rural deverá cumprir a carência de 180 contribuições mensais, nos termos da Lei (art. 25, II, da Lei 8.213/91).</p>
+<p>Por isso, em princípio, seria necessário o efetivo recolhimento das contribuições previdenciárias durante o período exigido por lei. No entanto, é importante recordar que o recolhimento é <em>presumido</em>, <em>desde que comprovado o exercício da atividade laborativa</em>, para o segurado empregado, o trabalhador avulso e o contribuinte individual que preste serviços a empresas (art. 34, I, da LBPS e art. 26, § 4º, do RPS). Caso o empregador ou contratante não tenha recolhido as contribuições devidas, a cobrança deve ser feita em face dele, responsável por arrecadar e recolher a contribuição previdenciárias. A ausência de recolhimento não prejudica a concessão do benefício previdenciário, desde que seja comprovado o efetivo labor rural pelo segurado.</p>
+<p>Já para a concessão da aposentadoria por idade do trabalhador rural que se enquadre como <em>segurado especial</em>, o § 8º do art. 195 da Constituição Federal prevê uma contribuição sobre o resultado da comercialização da produção para que esses segurados façam jus aos benefícios previdenciários “nos termos da lei.” A Lei 8.212/91 efetivamente instituiu essa contribuição obrigatória, no <em>caput</em> de seu art. 25, e o § 1º estabelece, também, uma contribuição facultativa, na forma do art. 21 da Lei 8.212/91 (20% sobre o salário-de-contribuição).</p>
+<p>Sucede que o art. 39, I, da Lei 8.313/91 averba o seguinte (destaques acrescidos ao original):</p>
+<blockquote class="blockquote">
+<p><strong>Art. 39.</strong> Para os segurados especiais, referidos no inciso VII do&nbsp;caput&nbsp;do art. 11 desta Lei, fica garantida a concessão:</p>
+<p>I - de aposentadoria por idade ou por invalidez, de auxílio-doença, de auxílio-reclusão ou de pensão, no valor de 1 (um) salário mínimo, e de auxílio-acidente, conforme disposto no art. 86 desta Lei, desde que comprovem o exercício de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, igual ao número de meses correspondentes à carência do benefício requerido, observado o disposto nos arts. 38-A e 38-B desta Lei; ou</p>
+<p>II - dos benefícios especificados nesta Lei, observados os critérios e a forma de cálculo estabelecidos, desde que contribuam facultativamente para a Previdência Social, na forma estipulada no Plano de Custeio da Seguridade Social.</p>
+<p><strong>Parágrafo único.</strong> Para a segurada especial fica garantida a concessão do salário-maternidade no valor de 1 (um) salário mínimo, desde que comprove o exercício de atividade rural, ainda que de forma descontínua, nos 12 (doze) meses imediatamente anteriores ao do início do benefício.</p>
+</blockquote>
+<p>Conclui-se que, para os benefícios de aposentadoria por idade, aposentadoria por invalidez, auxílio-doença, auxílio-reclusão e pensão por morte, o segurado especial não necessita recolher contribuições previdenciárias. Em lugar delas, deve comprovar o “exercício de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, igual ao número de meses correspondentes à carência do benefício requerido” observado o disposto nos arts. 38-A e 38-B da LBPS.</p>
+<p>Sendo assim, para a concessão dos benefícios citados no valor de até um salário-mínimo mensal, o pagamento das contribuições previdenciárias <em>não é presumido</em>, e sim legalmente <em>dispensado</em> (equivale a uma isenção tributária).</p>
+<p>Na realidade, a maioria dos produtores rurais brasileiros dedica-se à agricultura familiar, enquadrando-se potencialmente na categoria dos segurados especiais. O Censo Agropecuário de 2017<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a> demonstra que 94% dos trabalhadores rurais brasileiros dedica-se à agricultura familiar, variando de 73% no Mato Grosso do Sul a 98% no Estado do Piauí.</p>
+<p>Outro dado que dá a dimensão da importância do tema é que, das pessoas ocupadas com 14 anos ou mais de idade, caracterizadas como trabalhadores por conta própria e empregadores e que se dedicam à atividade agropecuária, 68% não contribuem para a Previdência Social.<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>Diante da desnecessidade de recolhimento de contribuições, as controvérsias relativas à qualidade de segurado especial entre os requerentes de benefícios e o INSS ocupam boa parte da força de trabalho no Judiciário brasileiro, sobretudo nos Juizados Especiais Federais. A maior parte das ações judiciais sobre o assunto gira em torna de questões probatórias acerca do cumprimento do requisito carência. Diante da dificuldade probatória dos segurados especiais a jurisprudência nacional foi forçada a assentar diversos entendimentos jurisprudenciais sobre a matéria, adiante comentados.</p>
+</section>
+<section id="prova-da-qualidade-de-segurado-e-do-cumprimento-da-carência" class="level3" data-number="2.3">
+<h3 data-number="2.3" class="anchored" data-anchor-id="prova-da-qualidade-de-segurado-e-do-cumprimento-da-carência"><span class="header-section-number">2.3</span> Prova da qualidade de segurado e do cumprimento da carência</h3>
+<section id="início-de-prova-material" class="level4" data-number="2.3.1">
+<h4 data-number="2.3.1" class="anchored" data-anchor-id="início-de-prova-material"><span class="header-section-number">2.3.1</span> Início de prova material</h4>
+<p>Os trabalhadores rurais que pagam contribuições previdenciárias (o empregado rural, o contribuinte individual rural, o trabalhador avulso rural e o segurado especial que contribui facultativamente) possuem, via de regra, seus dados inseridos no Cadastro Nacional de Informações Sociais (CNIS). Os registros do CNIS relativos a vínculos, remunerações e contribuições valem como prova de filiação à previdência social, tempo de contribuição e salários-de-contribuição (art. 19, caput, do RPS). Sobre tais anotações incide presunção <em>iuris tantum</em> de veracidade (v. <strong>Súmula 75/TNU</strong><a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a>), podendo o INSS exigir a apresentação dos documentos que serviram de base às anotações, em caso de divergência.</p>
+<p>Já o segurado especial <em>que não contribui facultativamente</em> tem maior dificuldade de comprovar sua condição e o cumprimento da carência exigida para gozar benefícios previdenciários, pois, em geral, o exercício da atividade rural em regime de economia familiar não é documentada.</p>
+<p>O § 3º do art. 55 da LBPS determina que a comprovação de “tempo de serviço” só é admissível quando se baseie em “início de prova material contemporânea dos fatos, não admitida a prova exclusivamente testemunhal, exceto na ocorrência de motivo de força maior ou caso fortuito, na forma prevista no regulamento. Essa exigência estende-se aos aos segurados especiais, conforme o Superior Tribunal de Justiça já sumulou (<strong>Súmula 149/STJ</strong>).<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a></p>
+<p>Ainda de acordo do Superior Tribunal de Justiça, a exigência de início de prova documental estende-se aos chamados “boias-frias” (Tese firmada no <strong>Tema 554/STJ</strong>)<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a></p>
+<p>A despeito disso, não é necessário que a prova documental se refira a todo o período de carência, podendo ser estendida a eficácia probatória para o período posterior ou anterior à data do documento, desde que corroborado por prova testemunhal (<strong>Súmula 577/STJ</strong><a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a> e <strong>Súmula 14/TNU</strong><a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a>). O que se exige é que o documento refira-se ao período de labor rurícola que o interessado pretende comprovar, ou seja, o documento deve ser contemporâneo dos fatos a provar (<strong>Súmula 34/TNU</strong>)<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a>.</p>
+<p>Para a comprovação do exerício do labor rural pelo tempo equivalente à carência do benefício de aposentadoria por idade do trabalhador rural (180 meses), o INSS tem exigido a apresentação de <em>um documento para cada metade do período de carência</em> (Ofício SEI Circular nº 62 /DIRBEN, de 19/12/2019). Trata-se, no entanto, de uma regra administrativa que não reflete a exigência legal e, por isso, não vincula o Poder Judiciário.</p>
+<p>Na visão do STJ (Tese firmada no <strong>Tema 629</strong><a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a>), o início de prova material da qualidade de segurado especial tem a natureza de documento obrigatório à propositura da ação. Por isso, sua ausência provoca a extinção do processo <em>sem resolução do mérito</em>, na forma do art. 485, I, do CPC, c/c os arts. 320 e 321 do mesmo Código. Dessa maneira, a Corte admite a repropositura da ação em face da apresentação de novo documento.</p>
+<p>Muitas vezes, o segurado especial deixa de apresentar o início de prova material quando protocola seu requerimento administrativo, provocando o indeferimento. Depois, na via judicial, apresenta o documento cuja falta havia motivado o indeferimento administrativo. Nesses casos, a representação judicial do INSS costuma alegar a falta de interesse de agir ou, subsidiariamente, a fixação do termo inicial dos efeitos financeiros somente a partir da citação do INSS, pois o documento apresentado só surgiu na via judicial e a Autarquia não teve oportunidade de analisá-lo administrativamente. Essa questão está, atualmente, submetida ao STJ (<strong>Tema 1.124</strong>).</p>
+<p>A indicação precisa dos períodos e locais de efetivo exercício da atividade rural constitui um ônus do autor da ação previdenciária, sob pena de indeferimento da petição inicial (<strong>Enunciado 186/FONAJEF</strong><a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a>). De fato, a alegação genérica de exercício do trabalho rural sem indicação dos locais e períodos a reconhecer implica a inépcia da petição inicial (art. 330, § 1º, do CPC). Porém, antes de extinguir o feito sem resolução do mérito, o Juiz deverá intimar a parte autora para sanar a irregularidade, de acordo com o art 321 do CPC e <strong>Enunciado 223/FONAJEF</strong>.<a href="#fn19" class="footnote-ref" id="fnref19" role="doc-noteref"><sup>19</sup></a></p>
+<p>É controversa a possibilidade de julgar o mérito <em>exclusivamente</em> com base na prova documental (ou seja, sem a produção de prova oral em audiência). Caso o julgamento seja de procedência e a parte autora tenha requerido a prova testemunhal, parece-nos que a ausência de audiência não pode ser alegada como nulidade, por não haver prejuízo.</p>
+<p>No entanto, se a prova testemunhal ou depoimento pessoal da parte autora tiver sido requerida pelo INSS, é de rigor a marcação de audiência de instrução, sob pena de cerceamento de defesa da Autarquia Previdenciária. Essa parece ser a interpretação do <strong>Enunciado 222/FONAJEF</strong><a href="#fn20" class="footnote-ref" id="fnref20" role="doc-noteref"><sup>20</sup></a> mais congruente com o princípio do contraditório.</p>
+<p>O documento apresentado como início de prova pode estar em nome do segurado ou de pessoa de seu grupo familiar. A própria Advocacia-Geral da União já sumulou entendimento de que os documentos que qualifiquem o cônjuge/companheiro ou os ascendentes do segurado como trabalhadores rurais podem ser aceitos como início de prova material, enquanto vigente o casamento/união estável ou a relação de dependência (<strong>Súmula 32/AGU</strong><a href="#fn21" class="footnote-ref" id="fnref21" role="doc-noteref"><sup>21</sup></a>). Especificamente sobre a admissibilidade da certidão de casamento que qualifique o cônjuge do requerente do benefício como trabalhador rural, dispõe a <strong>Súmula 6/TNU</strong><a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a>.</p>
+<p>Há, porém, uma exceção à regra da admissibilidade de documentos de outros integrantes do grupo familiar para comprovação do trabalho rural do requerente. Embora o trabalho urbano de um dos componentes da família não descaracterize, por si só, a qualidade de segurado especial dos demais membros (Tese firmada no Tema 532/STJ, <strong>Súmula 41/TNU</strong><a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a> e Tese firmada no <strong>Tema 23/TNU</strong>)<a href="#fn24" class="footnote-ref" id="fnref24" role="doc-noteref"><sup>24</sup></a>, o documento em nome daquele que exerça atividade urbana não pode ser aceito como início de prova material (Tese firmada no <strong>Tema 533/STJ</strong>)<a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a>.</p>
+<p>Outros documentos admitidos expressamente pela jurisprudência da TNU são a certidão de óbito de trabalhador rural (Tese firmada no <strong>Tema 32/TNU</strong>)<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a> e a certidão do INCRA ou outro documento que comprove propriedade de imóvel em nome de integrantes do grupo familiar (Tese firmada no <strong>Tema 18/TNU</strong>)<a href="#fn27" class="footnote-ref" id="fnref27" role="doc-noteref"><sup>27</sup></a>.</p>
+<p>Por outro lado, não se admite a declaração extemporânea de ex-empregador, nem anotação extemporânea em CTPS como início de prova material, uma vez que, obviamente, não se trata de prova contemporânea do labor rural (Teses fixadas no <strong>Tema 199/TNU</strong><a href="#fn28" class="footnote-ref" id="fnref28" role="doc-noteref"><sup>28</sup></a> e no <strong>Tema 240/TNU</strong>).<a href="#fn29" class="footnote-ref" id="fnref29" role="doc-noteref"><sup>29</sup></a></p>
+<p>Na prática judiciária tem-se admitido como início de prova material o documento que comprove a concessão de outro benefício ao autor na condição de trabalhador rural. Nessa mesma linha, dispõe o <strong>Enunciado 188/FONAJEF</strong>.<a href="#fn30" class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a></p>
+<p>É bastante comum que o trabalhador rural exerça, no decorrer de sua vida laboral, atividades de natureza urbana. Já vimos que não induz descontinuidade da qualidade de segurado especial o labor urbano exercido nos limites do art. 11, § 9º, inciso III, da LBPS (120 dias corridos ou intercalados no ano civil). Essa limitação foi introduzida pela Lei 11.718/2008. Para o período anterior à vigência dessa Lei, adotam-se como parâmetros os períodos de graça (art. 15 da LBPS), conforme já assentou a TNU<a href="#fn31" class="footnote-ref" id="fnref31" role="doc-noteref"><sup>31</sup></a>.</p>
+<p>Mesmo se houver exercício de atividade urbana em períodos superiores ao limite legal (de 120 dias corridos ou intercalados no ano civil), será possível computar como carência a soma dos períodos descontínuos, desde que seja apresentado início de prova material de cada um deles. Nesse sentido é a <strong>Súmula 46/TNU</strong><a href="#fn32" class="footnote-ref" id="fnref32" role="doc-noteref"><sup>32</sup></a> e a Tese firmada no <strong>Tema 301/TNU</strong>.<a href="#fn33" class="footnote-ref" id="fnref33" role="doc-noteref"><sup>33</sup></a></p>
+<p>Para efeito de carência, é possível, inclusive, a contagem do período comprovadamente trabalhado no campo pelo menor com idade inferior a 12 (doze) anos, conforme já assentou a TNU (Tese firmada no <strong>Tema 219/TNU</strong><a href="#fn34" class="footnote-ref" id="fnref34" role="doc-noteref"><sup>34</sup></a>). A despeito da expressa vedação existente na parte final do art 55, § 2º, da Lei 8.213/91, o Superior Tribunal de Justiça considera que “O tempo de serviço rural, ainda que remoto e descontínuo, anterior ao advento da Lei 8.213/1991, pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, § 3o. da Lei 8.213/1991 (…)” (Tese firmada no <strong>Tema 1.007/STJ</strong>).</p>
+<p>Em que pese o julgado referir-se à chamada “aposentadoria híbrida” (da qual trataremos adiante), o importante é perceber que o Superior Tribunal de Justiça terminou afastando a regra de que o período trabalhado antes da vigência da Lei 8.213/1991 só poderia ser computado como carência se recolhidas as respectivas contribuições.</p>
+<!--# No mesmo sentido é o entendimento atual da TNU (Súmula 24), ficando superada a Súmula 10/TNU. -->
+</section>
+<section id="autodeclaração-ratificada-por-entidades-públicas-credenciadas-no-pronater" class="level4" data-number="2.3.2">
+<h4 data-number="2.3.2" class="anchored" data-anchor-id="autodeclaração-ratificada-por-entidades-públicas-credenciadas-no-pronater"><span class="header-section-number">2.3.2</span> Autodeclaração ratificada por entidades públicas credenciadas no PRONATER</h4>
+<p>Desde a edição da <strong>MP 871/2019</strong>, que alterou o art. 106 da LBPS, passou-se a exigir que o segurado especial apresente uma autodeclaração ratificada por entidades públicas credenciadas no PRONATER (Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária, de que trata da Lei n.º 12.188/2010). Na impossibilidade de ratificação, o segurado especial deve apresentar algum dos documentos elencados nos incisos do art. 106 da LBPS (que constituirão o início de prova material exigido legalmente), tais como:</p>
+<blockquote class="blockquote">
+<p>II – contrato de arrendamento, parceria ou comodato rural;</p>
+<p>IV - Declaração de Aptidão ao Programa Nacional de Fortalecimento da Agricultura Familiar, de que trata o inciso II do caput do art. 2º da Lei nº 12.188, de 11 de janeiro de 2010, ou por documento que a substitua; (Redação dada pela Lei nº 13.846, de 2019) V – bloco de notas do produtor rural;</p>
+<p>VI – notas fiscais de entrada de mercadorias, de que trata o&nbsp;§ 7o&nbsp;do art. 30 da Lei no&nbsp;8.212, de 24 de julho de 1991, emitidas pela empresa adquirente da produção, com indicação do nome do segurado como vendedor;</p>
+<p>VII – documentos fiscais relativos a entrega de produção rural à cooperativa agrícola, entreposto de pescado ou outros, com indicação do segurado como vendedor ou consignante; (Incluído pela Lei nº 11.718, de 2008)</p>
+<p>VIII – comprovantes de recolhimento de contribuição à Previdência Social decorrentes da comercialização da produção;</p>
+<p>IX – cópia da declaração de imposto de renda, com indicação de renda proveniente da comercialização de produção rural; ou</p>
+<p>X – licença de ocupação ou permissão outorgada pelo Incra.</p>
+</blockquote>
+<p>Conforme já vinha admitindo o STJ, referido rol é apenas exemplificativo, podendo ser apresentados outros documentos, desde que sejam contemporâneos dos períodos a comprovar.<a href="#fn35" class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a></p>
+</section>
+</section>
+<section id="cadastro-de-segurados-especiais-no-cnis" class="level3" data-number="2.4">
+<h3 data-number="2.4" class="anchored" data-anchor-id="cadastro-de-segurados-especiais-no-cnis"><span class="header-section-number">2.4</span> Cadastro de segurados especiais no CNIS</h3>
+<p>Buscando aperfeiçoar a prova da qualidade de segurado especial, a <strong>MP 871/2019</strong>, posteriormente convertida na Lei 13,846/2019, previu a instituição do cadastro de segurados especiais no CNIS (Cadastro Nacional de Informações Sociais), a ser mantido pelo Ministério da Economia, que poderá firmar acordo de cooperação com o Ministério da Agricultura, Pecuária e Abastecimento e com outros órgãos da Administração Pública federal, estadual, distrital e municipal para a manutenção e a gestão do sistema de cadastro.</p>
+<p>O sistema deverá ser anualmente atualizado (até 30 de junho do ano subsequente) e conterá as informações necessárias à caracterização da condição de segurado especial, nos termos do art. 19-D do RPS, cujo § 2º prevê a apresentação, pelo segurado especial, de declaração anual ou de “documento equivalente”, conforme definido em ato do Secretário Especial de Previdência e Trabalho do Ministério da Economia (art. 38-A da LBPS).</p>
+<p>A atualização anual dos dados do sistema é vedada após o prazo de cinco anos, constados a partir de 30 de junho do ano posterior ao ano de referência (exemplo: a atualização dos dados de 2024 só poderá ser feita até 30 de junho de 2030). Passado esse prazo, o cômputo do período de trabalho rural só poderá ser efetivado mediante a comercialização da produção e o respectivo recolhimento da contribuição previdenciária na época própria, a que se refere o art. 25 da Lei 8.212/1991.</p>
+<p>A partir de 1º de janeiro de 2023, as informações existentes no cadastro de segurados especiais no CNIS passam a ser o meio exclusivo de prova da qualidade de segurado especial, mas, para o período anterior a essa data, o segurado poderá continuar comprovando sua qualidade através da autodeclaração ratificada por entidades públicas credenciadas ao PRONATER e por outros órgãos públicos.</p>
+<p>O § 1º do art. 25 da EC 103/2019 prevê a prorrogação desse marco temporal até a data em que o CNIS atingir a cobertura mínima de 50% dos segurados especiais do Brasil, (art. 195, § 8º, da Constituição Federal), apurada conforme o quantitativo da Pesquisa Nacional por Amostra de Domicílio (PNAD).</p>
+<!--# Estamos, portanto, em um período de transição do regime probatório da qualidade de segurado especial para efeito de concessão de benefícios previdenciários. Vigora ainda o regramento que exige a autodeclaração ratificada pelas entidades credenciadas ao PRONATER ou outros órgãos públicos, mediante consultas realizadas nas bases de dados governamentais às quais o INSS tem acesso e, na impossibilidade da ratificação, mediante apresentação de início de prova material (documento) contemporâneo do período a comprovar (v. Art. 19-D, § 10, do RPS). -->
+</section>
+</section>
+<section id="renda-mensal-inicial-rmi" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="renda-mensal-inicial-rmi"><span class="header-section-number">3</span> Renda mensal inicial (RMI)</h2>
+<p>Calcula-se a RMI da aposentadoria por idade do trabalhador rural na forma do art. 56, § 2º, do Dec.&nbsp;3.048/1999: 70% do salário de benefício tal como definido no art. 26 da EC 103/2019, com acréscimo de um ponto percentual para cada ano de contribuição.</p>
+<p>Frise-se: a forma de cálculo descrita aplica-se para os trabalhadores rurais em geral<a href="#fn36" class="footnote-ref" id="fnref36" role="doc-noteref"><sup>36</sup></a>. Só não será calculado dessa maneira o benefício do segurado especial que não contribua facultativamente na forma do art. 21 da Lei 8.212/1991. Este, como já visto, fará jus ao benefício no valor de um salário mínimo mensal.</p>
+<!--# Híbrida: tema 1007, 644, e contagem recíproca.encaixar tema 532 do STJ  -->
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas de rodapé</h2>
+
+<ol>
+<li id="fn1"><p>Ver <strong>?@sec-urbanos-e-rurais</strong> .<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>V. art. 56, <em>caput</em>, do Dec.&nbsp;3.048/1999.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Não importa a atividade empresarial do empregador, e sim a real atividade do empregado. Nesse sentido, a Tese firmada no Tema 115/TNU.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Alguns precedentes da TNU tratam especificamente do enquadramento de certos trabalhadores como “rurais.” De acordo com o entendimento da Turma, não são trabalhadores rurais, por exemplo: o <em>administrador rural</em> (PEDILEF 0500763-72.2020.4.05.8307, j. em 27/09/2022), o <em>cozinheiro</em> (PEDILEF 0000533-96.2016.4.03.6201, j. em 20/09/2022), o <em>motorista de caminhão</em> (PEDILEF 0531195-20.2019.4.05.8013, j. em 25/10/2021) e o <em>carvoeiro</em> que não se enquadre como extrativista ou silvicultor, limitando-se a adquirir a madeira de terceiros e proceder à sua industrialização (PEDILEF 0002632-38.2014.4.01.3817, j. Em 24/09/2019).<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Nada obstante, a jurisprudência tem equiparado a figura do “boia-fria” à do segurado especial, em razão da vulnerabilidade social a que ambos se encontram submetidos. Na prática isso implica a possibilidade de dispensar os chamados “boias-frias” da comprovação do efetivo recolhimento das contribuições previdenciárias, concessão dada ao segurado especial pelo art. 39, I, da LBPS). No <strong>Tema</strong> <strong>554/STJ</strong>, o Superior Tribunal de Justiça decidiu que se aplica ao “boia-fria” a regra da exigência de início de prova material inerente aos trabalhadores rurais em geral, com mitigação, a partir de produção de robusta prova testemunhal.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. CÔMPUTO DE PERÍODOS TRABALHADOS COMO SEGURADO ESPECIAL E TRABALHADOR RURAL. POSSIBILIDADE. A EXISTÊNCIA DE VÍNCULOS FORMAIS DE TRABALHO RURAL NÃO CONSTITUI ÓBICE À CONCESSÃO DE APOSENTADORIA RURAL POR IDADE. INCIDENTE CONHECIDO E PROVIDO. (Pedido de Uniformização de Interpretação de Lei (Turma) 0001564-11.2014.4.03.6335, FABIO DE SOUZA SILVA - TURMA NACIONAL DE UNIFORMIZAÇÃO, 19/02/2020.)<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>“É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.”<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. RECEBIMENTO DE BPC/LOAS DURANTE O PERÍODO AQUISITIVO. INEXISTÊNCIA DE ÓBICE À CONCESSÃO DO BENEFÍCIO PREVIDENCIÁRIO. 1. O recebimento do BPC por pessoa com deficiência durante o período que antecede o requerimento administrativo impede a concessão da aposentadoria por idade rural, salvo se o órgão julgador se convencer de que há prova da efetiva atividade rural por período equivalente à carência. Eventual irregularidade na concessão ou na manutenção do benefício assistencial pode gerar responsabilização do beneficiário, mas não obstar o acesso ao benefício previdenciário” 2. Incidente conhecido e não provido. (Pedido de Uniformização de Interpretação de Lei (Turma) 0002753-65.2011.4.01.3819, FABIO DE SOUZA SILVA - TURMA NACIONAL DE UNIFORMIZAÇÃO, 19/02/2020.)<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>V. &lt;Disponível em &lt;https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria/21814-2017-censo-agropecuario.html?=&amp;t=resultados&gt;, Indicador 6.<a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p><a href="https://www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html">V.</a> <a href="https://www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html">&lt;https://www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html</a>?=&amp;t=resultados&gt;, Estruturas Econômicas e Mercado de Trabalho, Tabela 1.26.<a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>“A Carteira de Trabalho e Previdência Social (CTPS) em relação à qual não se aponta defeito formal que lhe comprometa a fidedignidade goza de presunção relativa de veracidade, formando prova suficiente de tempo de serviço para fins previdenciários, ainda que a anotação de vínculo de emprego não conste no Cadastro Nacional de Informações Sociais (CNIS).”<a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>“A prova exclusivamente testemunhal não basta a comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário.” O entendimento foi ratificado na Tese firmada no <strong>Tema 297/STJ</strong>.<a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>“Aplica-se a Súmula 149/STJ (‘A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeitos da obtenção de benefício previdenciário’) aos trabalhadores rurais denominados ‘boias-frias’, sendo imprescindível a apresentação de início de prova material. Por outro lado, considerando a inerente dificuldade probatória da condição de trabalhador campesino, a apresentação de prova material somente sobre parte do lapso temporal pretendido não implica violação da Súmula 149/STJ, cuja aplicação é mitigada se a reduzida prova material for complementada por idônea e robusta prova testemunhal.”<a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p>“É possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório.”<a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p>“Para a concessão de aposentadoria rural por idade, não se exige que o início de prova material corresponda a todo o período equivalente à carência do benefício.”<a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16"><p>“Para fins de comprovação do tempo de labor rural, o início de prova material deve ser contemporâneo à época dos fatos a provar.”<a href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17"><p>“A ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo sua extinção sem o julgamento do mérito (art. 267, IV do CPC) e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários à tal iniciativa.”<a href="#fnref17" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn18"><p>“É requisito de admissibilidade da petição inicial a indicação precisa dos períodos e locais de efetivo exercício de atividade rural que se pretende reconhecer, sob pena de indeferimento.”<a href="#fnref18" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn19"><p>“O juiz poderá indeferir a petição inicial, por inépcia, quando, em ações previdenciárias, intimada a parte para a emenda, não seja sanada a inadequada narrativa dos fatos ou a ausência de início de prova material.”<a href="#fnref19" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn20"><p>“É possível o julgamento do mérito dos pedidos de benefício previdenciário rural com base em prova exclusivamente documental, caso seja suficiente para a comprovação do período de atividade rural alegado na petição inicial.”<a href="#fnref20" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn21"><p>“Para fins de concessão dos benefícios dispostos nos artigos 39, inciso I e seu parágrafo único, e 143 da Lei 8.213, de 24 de julho de 1991, serão considerados como início razoável de prova material documentos públicos e particulares dotados de fé pública, desde que não contenham rasuras ou retificações recentes, nos quais conste expressamente a qualificação do segurado, de seu cônjuge, enquanto casado, ou companheiro, enquanto durar a união estável, ou de seu ascendente, enquanto dependente deste, como rurícola, lavrador ou agricultor, salvo a existência de prova em contrário.”<a href="#fnref21" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn22"><p>“A certidão de casamento ou outro documento idôneo que evidencie a condição de trabalhador rural do cônjuge constitui início razoável de prova material da atividade rurícola.”<a href="#fnref22" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn23"><p>Do STJ:“O trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ)”; da TNU: ”<a href="#fnref23" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn24"><p>“A condição de segurada especial em regime de economia familiar não é descaracterizada pelo trabalho urbano do marido da autora ou mesmo pela paga, posterior, de pensão alimentícia, em razão de separação.”<a href="#fnref24" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn25"><p>“Em exceção à regra geral (…), a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana.”<a href="#fnref25" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn26"><p>“Certidão de óbito configura início de prova material para caracterização da atividade rural, para fins de pensão por morte.”<a href="#fnref26" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn27"><p>“A certidão do INCRA ou outro documento que comprove propriedade de imóvel em nome de integrantes do grupo familiar do segurado é razoável início de prova material da condição de segurado especial para fins de aposentadoria rural por idade, inclusive dos períodos trabalhados a partir dos 12 anos de idade, antes da publicação da Lei n.&nbsp;8.213/91. Desnecessidade de comprovação de todo o período de carência.”<a href="#fnref27" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn28"><p>“A declaração extemporânea de ex-empregador não é documento hábil à formação do início de prova material necessário à comprovação de atividade laboral em determinado período.”<a href="#fnref28" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn29"><p>“I) É extemporânea a anotação de vínculo empregatício em CTPS, realizada voluntariamente pelo empregador após o término do contrato de trabalho; (II) Essa anotação, desacompanhada de outros elementos materiais de prova a corroborá-la, não serve como início de prova material para fins previdenciários.”<a href="#fnref29" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn30"><p>“O benefício concedido ao segurado especial, administrativamente ou judicialmente, configura início de prova material válida para posterior concessão aos demais integrantes do núcleo familiar, assim como ao próprio beneficiário.”<a href="#fnref30" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn31"><p>PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA POR IDADE RURAL. EXERCÍCIO DE ATIVIDADE URBANA. LAPSO ANTERIOR À LEI N.º 11.718/2008. QUALIDADE DE SEGURADO. APLICAÇÃO ANALÓGICA DO ARTIGO 15 DA LEI N.º 8.213/91. FIXAÇÃO DA SEGUINTE TESE: PARA FINS DE APOSENTADORIA POR IDADE RURAL, PERDE A QUALIDADE DE SEGURADO ESPECIAL AQUELE QUE, EM PERÍODO ANTERIOR À VIGÊNCIA DA LEI N.º 11.718/2008, INTERROMPE A ATIVIDADE RURAL POR PERÍODO SUPERIOR AO DA GRAÇA, PREVISTO NO ARTIGO 15 DA LEI N.º 8.213/91. INCIDENTE PROVIDO.<a href="#fnref31" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn32"><p>“O exercício de atividade urbana intercalada não impede a concessão de benefício previdenciário de trabalhador rural, condição que deve ser analisada no caso concreto.”<a href="#fnref32" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn33"><p>“Cômputo do Tempo de Trabalho Rural I. Para a aposentadoria por idade do trabalhador rural não será considerada a perda da qualidade de segurado nos intervalos entre as atividades rurícolas. Descaracterização da condição de segurado especial II. A condição de segurado especial é descaracterizada a partir do 1º dia do mês seguinte ao da extrapolação dos 120 dias de atividade remunerada no ano civil (Lei 8.213/91, art. 11, § 9º, III); III. Cessada a atividade remunerada referida no item II e comprovado o retorno ao trabalho de segurado especial, na forma do art. 55, parag. 3o, da Lei 8.213/91, o trabalhador volta a se inserir imediatamente no VII, do art. 11 da Lei 8.213/91, ainda que no mesmo ano civil.”<a href="#fnref33" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn34"><p>“É possível o cômputo do tempo de serviço rural exercido por pessoa com idade inferior a 12 (doze) anos na época da prestação do labor campesino.”<a href="#fnref34" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn35"><p>REsp 1650326/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2017, DJe 30/06/2017.<a href="#fnref35" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn36"><p>PEDIDO DE UNIFORMIZAÇÃO NACIONAL. PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. EMPREGADO RURAL. CONSIDERAÇÃO DAS CONTRIBUIÇÕES DO PBC. CÁLCULO DE RMI. 1. A renda mensal inicial da Aposentadoria Rural por Idade do empregado rural, restando comprovado o respectivo vínculo laboral com registro de contribuições, deve ser calculada computando-se os salários-de-contribuição relativos ao período básico de cálculo do benefício, não se justificando a sua fixação em um salário mínimo, porquanto esta forma de cálculo se destina aos trabalhadores rurais que não recolheram contribuições. 2. Tese firmada: “para concessão da aposentadoria prevista no artigo 48, §1º, da Lei 8213/91, para o segurado empregado rural, o cálculo da Renda Mensal Inicial (RMI) deve considerar os salários-de-contribuição apurados no período contributivo.” 3. Incidente provido. (Pedido de Uniformização de Interpretação de Lei (Turma) 0003002-09.2012.4.03.6314, SUSANA SBROGIO GALIA - TURMA NACIONAL DE UNIFORMIZAÇÃO, 28/05/2021).<a href="#fnref36" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div>Licença Creative Commons BY-NC-ND Atribuição-NãoComercial-SemDerivações 4.0 Internacional.</div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mendonça2023,
+  author = {MENDONÇA, Igor},
+  title = {Aposentadoria Por Idade Do Trabalhador Rural},
+  date = {2023-10-26},
+  url = {https://jusmendonca.quarto.pub/previ_blog/posts/aposentadoria-rural/},
+  langid = {portuguese}
+}
+</code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">Por favor, cite este trabalho como:</div><div id="ref-mendonça2023" class="csl-entry quarto-appendix-citeas" role="listitem">
+MENDONÇA, I. <strong>Aposentadoria por idade do trabalhador
+rural</strong>. Disponível em: &lt;<a href="https://jusmendonca.quarto.pub/previ_blog/posts/aposentadoria-rural/">https://jusmendonca.quarto.pub/previ_blog/posts/aposentadoria-rural/</a>&gt;.
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copiada");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copiada");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

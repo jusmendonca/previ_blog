@@ -12,6 +12,7 @@ categories: [aulas]
 # bibliography: references.bib
 google-scholar: true
 image: "carencia.png"
+csl: abnt.csl
 ---
 
 ## Conceito legal
@@ -72,7 +73,7 @@ O art. 106 da LBPS enumera documentos admitidos como início de prova material. 
 Os períodos de carência encontram-se dispostos no art. 25 da LBPS. A tabela abaixo compila os prazos exigidos para cada benefício vigente no RGPS:
 
 | Benefício                                                                       | Carência (em número de contribuições mensais) |
-|:--------------------------------------------|:--------------------------|
+|:--------------------------------------------------------------------------------|:----------------------------------------------|
 | salário-maternidade da contribuinte individual, facultativa e segurada especial | 10                                            |
 | aposentadoria por incapacidade permanente (invalidez)                           | Em regra, 12                                  |
 | auxílio por incapacidade temporária (auxílio-doença)                            | Em regra, 12                                  |

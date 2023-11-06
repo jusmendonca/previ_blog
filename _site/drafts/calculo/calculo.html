@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.319">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Igor MENDONÇA">
+<meta name="dcterms.date" content="2023-05-22">
+<meta name="description" content="Lei 8.213/91, art. 11.">
+
+<title>previ_blog - Cálculo</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../../styles.css">
+<meta name="citation_title" content="Cálculo">
+<meta name="citation_author" content="Igor MENDONÇA">
+<meta name="citation_publication_date" content="2023-05-22">
+<meta name="citation_cover_date" content="2023-05-22">
+<meta name="citation_year" content="2023">
+<meta name="citation_online_date" content="2023-05-22">
+<meta name="citation_fulltext_html_url" content="https://jusmendonca.quarto.pub/previ_blog/posts/segurados/">
+<meta name="citation_language" content="portuguese">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">previ_blog</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html" rel="" target="">
+ <span class="menu-text">Sobre este blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.linkedin.com/in/igor-mendonça-93a2b3151/" rel="" target=""><i class="bi bi-linkedin" role="img">
+</i> 
+ <span class="menu-text">LinkedIn</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/jusmendonca" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text">Github</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Cálculo</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">aulas</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    <p>Lei 8.213/91, art. 11.</p>
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Igor MENDONÇA </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 22, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Cálculo dos benefícios previdenciários</p>
+<p>Os artigos 28 a 40 da LBPS tratam da forma de cálculo dos benefícios previdenciários. Existem quatro conceitos básicos que será necessário conhecer para compreender como se calcula o valor de um benefício previdenciário: (i) salário de contribuição; (ii) salário de benefício; (ii) período básico de cálculo e (iv) renda mensal inicial.</p>
+<p>Salário de benefício</p>
+<p>Salário de benefício é a base de calculo para a renda mensal inicial de alguns benefícios previdenciários: aposentadorias, auxílio por incapacidade temporária (auxílio-doença) e auxílio-acidente. Indiretamente, como veremos, o salário de benefício é também utilizado para o cálculo da pensão por morte. Mas a renda mensal inicial do salário-maternidade e do salário-família não é calculada sobre o salário de benefício (art. 28 da LBPS).</p>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">O salário de benefício é</th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">a base de cálculo</td>
+<td style="text-align: left;">utilizada diretamente para calcular a RMI</td>
+<td style="text-align: left;">das aposentadorias</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">a base de cálculo</td>
+<td style="text-align: left;">utilizada diretamente para calcular a RMI</td>
+<td style="text-align: left;">do auxílio por incapacidade temporária</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">a base de cálculo</td>
+<td style="text-align: left;">utilizada diretamente para calcular a RMI</td>
+<td style="text-align: left;">e do auxílio-acidente</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">a base de cálculo</td>
+<td style="text-align: left;">e utilizada indiretamente para calcular a RMI</td>
+<td style="text-align: left;">da pensão por morte</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">a base de cálculo</td>
+<td style="text-align: left;">mas não é utilizado para calcular a RMI</td>
+<td style="text-align: left;">do salário-maternidade</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">a base de cálculo</td>
+<td style="text-align: left;">mas não é utilizado para calcular a RMI</td>
+<td style="text-align: left;">e do salário-família</td>
+</tr>
+</tbody>
+</table>
+<p>Desde a Emenda Constitucional n.º 103/2019 e “até que lei discipline o cálculo dos benefícios do RGPS”, o salário de benefício equivale à média aritmética simples de todos os salários de contribuição adotados como base de cálculo para as contribuições do segurado ao RGPS, desde a competência julho de 1994 (ou desde o início das contribuições, se posterior àquela competência), atualizados monetariamente (art. 26, caput, da Emenda Constitucional n.º 103/2019). Apesar de o cálculo incluir, atualmente, 100% dos salários de contribuição, poderão ser excluídas da média as contribuições que resultem em redução do valor do benefício, desde que mantido o tempo mínimo de contribuição exigido, vedada a utilização do tempo excluído para qualquer finalidade (art. 26, § 6º, da EC 103/2019). O índice de correção monetária a ser aplicado, mês a mês, sobre os salários de contribuição para o cálculo do salário de benefício é o INPC (Índice Naiconal de Preços ao Consumidor) do IBGE (art. 201, § 3º, da Constituição Federal, c/c o art. 29-B da LBPS). O valor do salário de benefício não poderá ser superior ao valor máximo do salário de contribuição do RGPS, fixado anualmente (art. 26, § 1º, da EC 103/2019) nem inferior ao salário mínimo na data de início do benefício (art. 29, § 2º da LBPS). Pode-se dizer que o salário de benefício é uma grandeza intermediária entre os salários de contribuição e a renda mensal inicial do benefício.</p>
+<blockquote class="blockquote">
+<p>Histórico</p>
+<p>art. 202 CF e art. 29 da LBPS. era a média aritmética simples de todos os últimos salários de contribuição dos meses imediatamente anteriores ao do afastamento, ou data do requerimento, até o máximo de 36, apurados em período não superior a 48 meses.</p>
+<p>Lei 9876/1999: média aritmética simples dos 80% maiores salários de contribuição de todo o período contributivo, multiplicado pelo fator previdenciário, quando fosse aplicável (alargamento do PBC e instituição do FP).</p>
+<p>O art. 3º da lei 9876/99 criou uma regra de transição - média dos 80% maiores salários-de contribuição do período contributivo a partir de julho de 1994. Ponto central de discussão da revisão da vida toda. Tema 1.102 do STF e 999 STJ. (isso é benéfico para quem contribuições anteriores a 1994.</p>
+<p>Novidades da EC 103/2019 a respeito de salário-de-benefício:</p>
+<ul>
+<li><p>possibilidade de mudança por lei superveniente;</p></li>
+<li><p>aumento do ppc para 100 dos sc</p></li>
+<li><p>status constitucional do limitador em julho de 94.</p></li>
+<li><p>média limitada ao valor máximo do sc do rgps</p></li>
+<li><p>de 13/11/2019 até 05/05/2022, ausência de divisor mínimo para as aposentadorias.</p></li>
+<li><p>proteçaõ do direito adquirido até 13/11/2019.</p></li>
+<li><p>Ausência fator previdenciário.</p></li>
+</ul>
+<p>Regra de descarte (art. 26, § 6º da EC 103). Opção do segurado, se mais favorável. tese do “milagre da contribuição única”. Isso levou o legislador a instituir um divisor mínimo. Lei 14. 331/2022. art. 135-A. Havia um divisor fixo diferente do regramento da lei 9876/199 (que era flexível, de acordo com a data de início do benefício - mínimo de 60% do período decorrido entre 07/94 e a DIB.</p>
+<p>O valor do auxíli-acidnte integra o salário de contribuição para aposentadoria, porque passou a não ser possível acumulá-lo com aposentadoria. Porém, a IN 128/2022 diz que o auxílio-acidente não é computado se, no PBC, não houver salários de contribuição concomitantes (só auxílio-acidente).</p>
+<p>TEse 555 STJ: acumulação.</p>
+<p>NO caso de atividades concomitantes art. 32 da LB (redação da Lei 13.846/2019). soma dos salários de contribuição. Período anterior (antes de 2019): cálculo percentual dos vínculos existentes, quando não preenchidos os requisitos em todos os vínculos.</p>
+<p>Tema 1070 STJ. Após a lei, soma.</p>
+</blockquote>
+<p>Período básico de cálculo</p>
+<p>Período básico de cálculo - PBC é aquele lapso temporal considerado para apuração da média aritmética dos salários de contribuição, cujo valor resultará no salário de benefício do segurado.</p>
+<p>Salário de contribuição</p>
+<p>Em termos gerais, salário de contribuição é a base de cálculo das contribuições sociais previdenciárias devidas pelos segurados, ou seja, o elemento quantitativo<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> do fato gerador da obrigação tributária de pagar contribuições sociais previdenciárias imposta a esses segurados. A partir dessa grandeza é que se calcula o montante devido - o quantum debeatur - nos casos previstos em lei. A imprecisão da definição acima (que tentaremos, adiante, suprimir) deriva do fato de que, em certos casos, a cota patronal das contribuições previdenciárias também é calculada sobre o salário de contribuição do empregado, quais sejam (i) a contribuição previdenciária devida pelos empregadores domésticos (art. 24, LCPS); (ii) a contribuição previdenciária devida pelo empregador enquadrado como MEI (microempreendedor individual) que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional (art. 18-C, caput, e §1º, I, da LCPS). Verifica-se, ainda, que os segurados especiais têm sua contribuição “obrigatória” calculada sobre a receita bruta proveniente da comercialização da sua produção (art. 25, caput, LCPS), e não sobre o salário de contribuição, sendo esta uma exceção à regra de que o salário de contribuição é a base de cálculo da contribuição previdenciária do segurado.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> Dito isso, pode-se definir, de maneira mais precisa, o salário de contribuição como a base de cálculo sobre a qual incide a alíquota da contribuição social previdenciária: (i) do segurado empregado; (ii) do segurado empregado doméstico; (iii) do trabalhador avulso; (iv) do contribuinte individual; (v) do segurado especial que recolhe, facultativamente, na forma do art. 25, § 1º, da Lei n.º 8.212/91; (vi) do segurado facultativo; (vii) a cota patronal do empregador doméstico e (viii) a cota patronal do empregador enquadrado como MEI (microempreendedor individual) que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional. Na medida em que o fato gerador das contribuições sociais previdenciárias é, grosso modo, a remuneração do trabalho paga, devida ou creditada aos segurados do RGPS, as parcelas recebidas por estes a título indenizatório não compõem, via de regra, o salário de contribuição. As parcelas componentes do salário de contribuição de cada categoria de segurados estão no art. 28 da LCPS:</p>
+<ul>
+<li><p><em>para o empregado e trabalhador avulso</em>: a remuneração auferida em uma ou mais empresas, assim entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês, destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença normativa;</p></li>
+<li><p><em>para o empregado doméstico</em>: a remuneração registrada na Carteira de Trabalho e Previdência Social, observadas as normas a serem estabelecidas em regulamento para comprovação do vínculo empregatício e do valor da remuneração;</p></li>
+<li><p><em>para o contribuinte individual</em>: a remuneração auferida em uma ou mais empresas ou pelo exercício de sua atividade por conta própria, durante o mês, observado o limite máximo a que se refere o § 5º;</p></li>
+<li><p><em>para o segurado facultativo</em>: o valor por ele declarado, observado o limite máximo a que se refere o § 5º.</p></li>
+</ul>
+<p>Ainda, para o segurado especial que recolhe, facultativamente, na forma do art. 25, § 1º, da Lei n.º 8.212/91, o salário de contribuição será declarado por este.</p>
+<p>Renda Mensal Inicial</p>
+<blockquote class="blockquote">
+<p>pode ser superior ao teto do SC em razão do acréscimo de 25% (auxílio-acompanhante). Também a ADI 1.946 (seguradas empregadas e avulsas, respeitado o teto do STF).</p>
+<p>Exceções ao piso: benefícios por totalização (art. 35, § 1º, do RPS): benefícios decorrentes de acordos internacionais; auxílio-acidente e salário-família, pois não são substitutivos da renda; auxílio por incapacidade temporária em atividades concoritantes (art. 73, § 4º, RPS), com afastamento em um só vinculo.</p>
+</blockquote>
+<p>A renda mensal inicial será o valor efetivamente pago ao beneficiário na data de início do benefício (DIB). A RMI será sempre uma fração ou a totalidade do salário de benefício, calculado na forma acima. As regras atinentes a cada benefício previdenciário preveem qual será o valor da RMI paga ao beneficiário. Como exemplo, pode-se citar o art. 61 da LBPS, que determina a forma de cálculo da RMI do benefício de auxílio-doença (auxílio por incapacidade temporária), estipulando-a em 91% do salário de benefício. Um exemplo prático poderá ajudar na fixação dos conceitos acima.</p>
+<p>José Carlos, empregado de uma fábrica, que conta com 100 contribuições mensais, sofreu um acidente que o deixou temporariamente impedido de exercer seu trabalho por mais de 15 (quinze) dias. Por isso, requereu ao INSS o benefício de auxílio-doença, que foi deferido pela Autarquia, após perícia médica. Como se calcula o valor do benefício?</p>
+<p>De acordo com as regras vistas acima, podemos formular um passo-a-passo (obviamente, na concessão administrativa, essas operações são feitas pelos sistemas do INSS):</p>
+<ol type="1">
+<li>Identificar os salários de contribuição de José Carlos durante o Período Básico de Cálculo (PBC);</li>
+<li>Atualizar todos os salários de contribuição, mês a mês, pelo INPC;</li>
+<li>Somar todos os salários de contribuição corrigidos;</li>
+<li>Dividir pelo número de meses do PBC, para encontrar o SB;</li>
+<li>Calcular 91/% do SB para encontrar a RMI;</li>
+<li>Se for inferior ao mínimo, a RMI será de valor mínimo. Se for superior ao teto, a RMI será igual ao teto.</li>
+</ol>
+<p>Além disso, no caso específico, a RMI não pode exceder a média aritmética simples dos 12 últimos salários de contribuição (trata-se de uma regra aplicável à concessão do auxílio por incapacidade temporária, estabelecida pelo art. 29, § 10, LBPS). Transpondo esses cálculos para uma planilha e atribuindo valores arbitrários aos salários de contribuição, teríamos algo semelhante a isto:</p>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Mês de competência da contribuição</th>
+<th style="text-align: left;">Salário de contribuição (R<span class="math inline">\() | Salários de contribuição corrigidos pelo INPC (R\)</span>)</th>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">01</td>
+<td style="text-align: left;">2.500,00</td>
+<td style="text-align: left;">4.156,87</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">02</td>
+<td style="text-align: left;">2.500,00</td>
+<td style="text-align: left;">4.122,44</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">03</td>
+<td style="text-align: left;">2.500,00</td>
+<td style="text-align: left;">4.007,02</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">100</td>
+<td style="text-align: left;">5.000,00</td>
+<td style="text-align: left;">5.000,00</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Soma dos salários de contribuição corrigidos</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><em>470.258,77</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>SB = 470.258,77 / 100 = R$ 4.702,25</em> <em>RMI (auxílio por incapacidade temporária = 91% do SB = RMI = R$ 4.279,04</em></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Observações</p>
+<p>No período básico de cálculo, pode ocorrer de o segurado ter gozado benefícios por incapacidade, durante os quais não há pagamento de contribuições previdenciárias. Nessa hipótese, o art. 29, § 5º, da LBPS determina que se conte esse período, considerando-se como salário de contribuição, o salário de benefício que serviu de base para o cálculo da renda mensal, reajustado nas mesmas épocas e bases dos benefícios em geral, não podendo ser inferior ao valor de 1 (um) salário mínimo. No caso do segurado especial que não contribui facultativamente para o RGPS, o salário de benefício será de um salário mínimo, de acordo com o art. 29, § 6º, da LBPS. Por sua vez, os arts. 35 e 36 da LBPS estabelecem que o segurado empregado, inclusive o doméstico, e o trabalhador avulso que tenham cumprido todas as condições para a concessão do benefício pleiteado, mas não possam comprovar o valor de seus salários de contribuição no período básico de cálculo, será concedido o benefício de valor mínimo, devendo esta renda ser recalculada quando da apresentação de prova dos salários de contribuição. Deve-se lembrar que as contribuições desses segurados devem ser arrecadadas e recolhidas pelos empregadores e tomadores de serviço, não se podendo indeferir benefícios previdenciários em razão da falta de recolhimento.</p>
+<p>Reajustamento</p>
+<p>O reajuste anual dos benefícios em manutenção é feito na mesma data do reajuste do salário mínimo. O índice a ser utilizado para o reajuste dos benefícios é o INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, pro rata, de acordo com a data de início ou último reajuste de cada benefício (art. 41-A da LBPS). Como se vê, não existe indexação do reajuste dos benefício ao percentual de reajuste do salário mínimo. Por isso, pode ocorrer eventualmente que o salário mínimo tenham aumento real, enquanto os benefícios previdenciários terão apenas atualização monetária (já que o INPC é um índice inflacionário que mede a desvalorização da moeda). No entanto, como o valor dos benefícios não pode ser inferior ao salário mínimo, aqueles que estiverem em manutenção e forem de valor equivalente ao salário mínimo deverão acompanhar seu valor. Para esta hipótese, determina o § 6º do art. 41-A que o referido aumento deverá ser compensado no momento da aplicação do disposto no caput do art. 41-A, de acordo com normas a serem baixadas pelo Ministério da Previdência Social.</p>
+<p>Data de pagamento</p>
+<p>O primeiro pagamento do benefício será efetuado até quarenta e cinco dias após a data da apresentação, pelo segurado, da documentação necessária a sua concessão (§ 5º do art. 41-A da LBPS). Os benefícios com renda mensal superior a um salário mínimo serão pagos do primeiro ao quinto dia útil do mês subsequente ao de sua competência, observada a distribuição proporcional do número de beneficiários por dia de pagamento. (§ 2º). Já os benefícios com renda mensal no valor de até um salário mínimo serão pagos no período compreendido entre o quinto dia útil que anteceder o final do mês de sua competência e o quinto dia útil do mês subseqüente, observada a distribuição proporcional dos beneficiários por dia de pagamento (§ 3º). Para efeitos de fixação da data de pagamento, considera-se dia útil aquele de expediente bancário com horário normal de atendimento (§ 4º).</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>AMARO, Luciano da S. DIREITO TRIBUTÁRIO BRASILEIRO. São Paulo: Editora Saraiva, 2021. <em>E-book</em>. Disponível em: <a href="https://integrada.minhabiblioteca.com.br/#/books/9786555592993" class="uri">https://integrada.minhabiblioteca.com.br/#/books/9786555592993</a>/. Acesso em: 22 abr. 2022. Pág. 116.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>O segurado especial pode, facultativamente, além da contribuição “obrigatória” de que trata o art. 25, <em>caput</em>, da LCPS, recolher contribuições na forma do art. 21 da mesma Lei, ou seja, sobre 20% do salário de contribuição. Porém, a contribuição tratada como “obrigatória” pela Lei de Custeio está dispensada pelo art. 39, I, e parágrafo único da Lei de Benefícios da Previdência Social, para a concessão dos benefícios de aposentadoria por idade ou por invalidez, auxílio-doença, auxílio-reclusão, pensão por morte e salário maternidade <em>no valor de até um salário mínimo</em>. Na prática, portanto, só recolherá “facultativamente” sobre o salário de contribuição o segurado especial que pretenda fazer jus a todos os benefícios do regime geral de previdência social, sem o limite do salário mínimo, de acordo com o art. 39, II, da LBPS.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{mendonça2023,
+  author = {MENDONÇA, Igor},
+  title = {Cálculo},
+  date = {2023-05-22},
+  url = {https://jusmendonca.quarto.pub/previ_blog/posts/segurados/},
+  langid = {portuguese}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mendonça2023" class="csl-entry quarto-appendix-citeas" role="listitem">
+MENDONÇA, Igor. 2023. <span>“Cálculo.”</span> May 22, 2023. <a href="https://jusmendonca.quarto.pub/previ_blog/posts/segurados/">https://jusmendonca.quarto.pub/previ_blog/posts/segurados/</a>.
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/jusmendonca/previ_blog/issues/new" class="toc-action">Report an issue</a></p></div></div></div></div></footer></body></html>

@@ -1,0 +1,168 @@
+---
+title: Pensão por morte
+description: Benefício que cobre o risco de morte do segurado do RGPS.
+date: "2023-10-11"
+author: 
+  - name: "Igor MENDONÇA"
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/pensao-por-morte/
+  language: portuguese
+categories: [aulas]
+bibliography: references.bib
+google-scholar: true
+image: "dia-de-los-muertos.jpg"
+csl: abnt.csl
+---
+
+## Fato gerador
+
+O benefício de pensão por morte é devido ao conjunto dos dependentes do segurado que falecer, aposentado ou não. O fato gerador do benefício, portanto, é a morte do segurado, que pode ser *real* ou *presumida.*
+
+A morte real é comprovada por registro público (art. 9º, I, do Código Civil brasileiro), através de atestado de óbito.
+
+Já a morte presumida deve ser reconhecida no âmbito previdenciário desde que declarada pela autoridade judiciária competente, depois de seis meses da *ausência*. A morte presumida pode, ainda, ser reconhecida no âmbito previdenciário *independente da declaração de ausência*, através de comprovação do acidente, desastre ou catástrofe, com desaparecimento do segurado (por exemplo, um acidente aéreo em área remota, em que não se tem notícias de sobreviventes). Em ambos os casos de morte presumida, há de ser concedida *pensão por morte provisória*. Verificado o reaparecimento do segurado, o pagamento da pensão cessa imediatamente, não sendo os dependentes obrigados à devolução do valor, exceto em caso de má-fé comprovada.
+
+## Requisitos
+
+Os requisitos para a concessão do benefício são:
+
+a\) ocorrência da morte do segurado (real ou presumida);
+
+b\) qualidade de segurado, aposentado ou não, na data da morte;
+
+c\) existência de dependentes.
+
+A pensão por morte não exige o cumprimento de carência (art. 26, I, LBPS).
+
+O benefício é devido ao *conjunto* dos dependentes do segurado, aposentado ou não (chamado, a partir de então, de *instituidor da pensão*). Esse conjunto deve ser apurado de acordo com as regras do art. 16 da LBPS e com as exclusões do art. 74, §§ 1º e 2º (dependente condenado criminalmente por sentença com trânsito em julgado, como autor, coautor ou partícipe de homicídio doloso, ou de tentativa desse crime, cometido contra a pessoa do segurado, ressalvados os absolutamente incapazes e os inimputáveis, bem como o (a)companheiro(a) quando comprovada, a qualquer tempo, simulação ou fraude no casamento ou na união estável, ou a formalização desses com o fim exclusivo de constituir benefício previdenciário, apuradas em processo judicial no qual será assegurado o direito ao contraditório e à ampla defesa).
+
+O rol de dependentes do art. 16 é taxativo, mas valem todas as observações feitas em capítulo próprio, em especial, os entendimentos jurisprudenciais aplicáveis.
+
+## Data de início do benefício (DIB)
+
+O benefício é devido aos dependentes a partir da data do óbito, se requerido:
+
+a\) em até 180 dias após essa ocorrência para os filhos menores de 16 anos;
+
+b\) em até 90 dias para os demais dependentes.
+
+Passados esses prazos, o benefício a DIB será equivalente à data de entrada do requerimento administrativo (DER).
+
+Já no caso de morte presumida, a DIB da pensão provisória será a data da sentença judicial. No caso de morte presumida sem declaração de ausência, que independe de reconhecimento judicial, a pensão provisória é devida a partir da data do acidente, desastre ou catástrofe, mediante prova do desaparecimento do segurado (art. 112, II, RPS).
+
+## Habilitação tardia
+
+Habilitação tardia é aquela promovida após a concessão e pagamento de benefício a outro pensionista.
+
+A concessão da pensão por morte aos dependentes já conhecidos não será protelada pela falta de habilitação de outro possível dependente, e qualquer inscrição ou habilitação posterior que importe em exclusão ou inclusão de dependente só produzirá efeito a contar da data da inscrição ou habilitação.
+
+No caso da habilitação tardia do absolutamente incapaz que compunha o mesmo grupo familiar dos pensionistas já habilitados, havia uma discussão sobre a data de início do benefício. Era uma tese frequentemente levantada pelo INSS que, se o dependente absolutamente incapaz fosse do mesmo grupo familiar dos dependentes já habilitados (exemplo: a mãe do menor já recebia o benefício), sua habilitação tardia implicaria no pagamento de sua cota a partir da data do requerimento, e não da data do óbito. Isso porque se presumia que a cota já paga a dependentes de seu grupo familiar estaria sendo revertida em favor do menor. Por isso, retroagir o pagamento à data óbito implicaria em pagamento em duplicidade. A discussão terminou chegando à TNU que firmou entendimento até mais duro do que a tese do INSS, pois considera que a DIB dever ser igual à DER, e não à data do óbito, mesmo nos casos em que o menor é de grupo familiar diferente dos dependentes que já recebem a pensão por morte (**Tese firmada no Tema 223/TNU**):
+
+> O dependente absolutamente incapaz faz jus à pensão por morte desde o requerimento administrativo, na forma do art. 76 da Lei 8.213/91, havendo outro dependente previamente habilitado e percebendo benefício, do mesmo ou de outro grupo familiar, ainda que observados os prazos do art. 74 da Lei 8.213/91. Obs.: tese alterada no julgamento dos embargos de declaração (sessão ordinária de 25/2/2021).
+
+## Habilitação provisória
+
+Apesar de a habilitação tardia não implicar só ter efeitos a partir da data em que ocorrer, é possível a reserva de cota da pensão por morte em favor do suposto dependente do instituidor da pensão, cuja condição ainda não esteja comprovada. Ajuizada ação judicial para reconhecimento da condição de dependente (por exemplo, ação de reconhecimento de paternidade), o autor poderá requerer a sua habilitação provisória ao benefício de pensão por morte, exclusivamente para fins de rateio dos valores com outros dependentes.
+
+Trata-se, na verdade, de um pedido de medida cautelar que visa à reserva da cota do autor, resguardando seu direito às parcelas mensais vencidas no curso do processo.
+
+Nessa hipótese, é vedado o pagamento da respectiva cota até o trânsito em julgado da respectiva ação, ressalvada a existência de decisão judicial em contrário.
+
+Além dessa possibilidade de medida cautelar deferida a pedido do autor, o próprio INSS, nas ações em que for parte, poderá proceder de ofício à habilitação excepcional da referida pensão, apenas para efeitos de rateio. Neste caso, a Autarquia deverá descontar, das demais cotas, os valores referentes à habilitação, sendo vedado o pagamento da cota reservada até o trânsito em julgado da respectiva ação, ressalvada a existência de decisão judicial em contrário.
+
+## Renda mensal inicial (RMI)
+
+O cálculo da RMI da pensão por morte está disciplinado atualmente pelo art. 23, § 1º, da **Emenda Constitucional n.º 103/2019** e corresponderá a 50% do valor da aposentadoria que o segurado recebia em vida ou daquela a que ele teria direito se fosse aposentado por invalidez na data do óbito, acrescido de 10% por dependente, até o máximo de 100%.
+
+Assim, o valor mínimo global do benefício será de 60% do valor da aposentadoria do segurado falecido ou da aposentadoria por invalidez a que ele teria direito na data do óbito (no caso de existência de apenas um dependente). Se o falecido tiver cinco ou mais dependentes, a cota familiar será 100%.
+
+Quando houver, entre os dependentes, algum que seja inválido ou pessoa com deficiência intelectual, mental ou (física) grave, o valor global da pensão por morte será equivalente a 100% da aposentadoria do falecido ou da aposentadoria por invalidez a que ele tinha direito na data do óbito. Após esses cálculos, a pensão deve ser divida pelo número de dependentes, em partes iguais (art. 77, LBPS).
+
+A despeito de o valor total do benefício devido ao conjunto de dependentes não poder ser inferior ao salário mínimo, a cota parte de cada um dos dependentes poderá ser inferior a esse valor.
+
+Quando não houver mais dependente inválido ou com deficiência intelectual, mental ou grave, o valor da pensão será recalculado (art. 23, §3º, EC 103/2019), excluindo os efeitos da existência daquele dependente no cálculo do valor global do benefício.
+
+Com a perda da qualidade de dependente (exemplo: filho não inválido e não deficiente que alcança os 21 anos de idade), cessa a pensão por morte e sua cota parte não é revertida para os demais dependentes com benefício ativo, preservado o valor de 100% (cem por cento) da pensão por morte quando o número de dependentes remanescente for igual ou superior a 5 (cinco).[^1]
+
+[^1]: Dessa forma, o art. 75 da LBPS encontra-se tacitamente revogado.
+
+## Data de cessação do benefício (DCB)
+
+O direito à percepção da cota individual da pensão por morte cessará:
+
+a\) na data do óbito do dependente pensionista;
+
+b\) na data em que o filho (ou equiparado) completar 21 anos de idade, salvo se for inválido ou pessoa com deficiência indelectual, mental ou deficiência (física) grave;
+
+c\) na data em que o irmão menor de 21 anos completar essa idade, salvo se for inválido ou pessoa com deficiência indelectual, mental ou deficiência (física) grave;
+
+d\) na data em que o filho ou irmão do segurado, que seja inválido ou pessoa com deficiência indelectual, mental ou deficiência (física) grave, superar a invalidez ou deficiência.
+
+e\) conforme as regras de cessação específicas para cônjuge e companheiro.
+
+### DCB da pensão por morte do cônjuge ou companheiro
+
+As regras sobre cessação do benefício para cônjuge ou companheiro, introduzidas pela Lei n.º 13.135/2015, merecem destaque, haja vista que a duração dessa modalidade de pensão varia em função dos seguintes fatores (i) condição do cônjuge (se é ou não pessoa com deficiência ou inválida); (ii) motivo do óbito (se decorreu ou não acidente); (iv) tempo de convivência ou de casamento; (iv) número de contribuições vertidas pelo instituidor e (v) idade do cônjuge ou companheiro na data do óbito.
+
+De acordo com essas regras, o benefício cessará:
+
+a\) para o cônjuge ou companheiro inválido ou com deficiência, na data da cessação da invalidez ou pelo afastamento da deficiência, respeitados os prazos mínimos estabelecidos pelas regras adiante citadas;
+
+b\) para o cônjuge ou companheiro do segurado que, na data do óbito, tiver **menos de** dois anos de casamento ou união estável **ou** tiver vertido **menos de** 18 contribuições mensais, o benefício durará apenas quatro meses;
+
+c\) para o cônjuge ou companheiro do segurado que, na data do óbito, tiver **no mínimo** dois anos de casamento ou união estável **e** tiver vertido **no mínimo** 18 contribuições mensais, o benefício durará de acordo com a idade do cônjuge ou companheiro na data do óbito, conforme tabela abaixo.
+
+d\) para o cônjuge do segurado cujo óbito tenha decorrido de acidente de qualquer natureza ou de doença profissional ou do trabalho, o benefício durará de acordo com a idade do cônjuge ou companheiro na data do óbito, conforme tabela abaixo.
+
+| Idade (anos)  | Duração (anos) |
+|---------------|----------------|
+| Menos de 22   | 03             |
+| Entre 22 e 27 | 06             |
+| Entre 28 e 30 | 10             |
+| Entre 31 e 41 | 15             |
+| Entre 42 e 44 | 20             |
+| 45 ou mais    | Vitalício      |
+
+: Tabela_duração_pensão. V. art. 77, V, "c", e seu § 2º-B da LBPS, bem como a *Portaria ME nº 424, de 29 de dezembro de 2020*. <!--# Atualizar anualmente -->
+
+A cota do dependente que perder essa qualidade não é reversível aos demais (art. 23, § 1º, EC 103/2019). Com a nova regra constitucional, está revogado tacitamente o § 1º do art. 77 da Lei 8.213/91.
+
+Extingue-se o benefício de pensão por morte com a extinção da cota-parte do último pensionista (art. 77, § 3º, LBPS).
+
+### DCB da pensão por morte do ex-cônjuge que recebia alimentos
+
+O cônjuge divorciado ou separado de fato que recebe pensão alimentícia concorre com os demais dependentes de primeira classe (art. 76, § 1º).
+
+Na hipótese de o segurado falecido estar, na data do óbito, obrigado a prestar alimentos provisórios ao ex-cônjuge, ex-companheiro ou ex-companheira, o benefício previdenciário de pensão por morte será também provisório e durará pelo prazo remanescente na data do óbito, ressalvada a ocorrência anterior de outro fato que implique cessação do benefício (art. 76, § 3º).
+
+## Regras de acumulação
+
+### Pensão + pensão
+
+A **Emenda Constitucional n.º 103/2019** vedou a acumulação de mais de uma pensão por morte deixada por cônjuge ou companheiro, no âmbito do mesmo regime de previdência social, ressalvadas as pensões do mesmo instituidor decorrentes do exercício de cargos acumuláveis na forma do art. 37 da Constituição Federal (art. 24, *caput*).
+
+Por outro lado, são acumuláveis as pensões por morte de cônjuge ou companheiro concedidas por regimes diversos (RGPS, regimes próprios e regime dos militares), nos termos do art. 24, § 1º, I, da EC 103/2019.
+
+### Pensão + aposentadoria
+
+O beneficiário pode acumular a pensão por morte deixada por cônjuge ou companheiro de um regime de previdência social com aposentadoria concedida no âmbito do RGPS ou de regime próprio de previdência social ou com proventos de inatividade decorrentes das atividades militares de que tratam os arts. 42 e 142 da Constituição Federal (art. 24, § 1º, II, EC 103/2019).
+
+São igualmente acumuláveis as pensões decorrentes das atividades militares de que tratam os arts. 42 e 142 da Constituição Federal com aposentadoria concedida no âmbito do RGPS ou RPPS (art. 24, § 1º, III, EC 103/2019).
+
+Nas hipóteses de acumulações tratadas pelo art. 24, § 1º, da EC 103/2019, é assegurada a percepção integral do benefício mais vantajoso e de um percentual do benefício menos vantajoso, acumulado de acordo com as seguintes faixas:
+
+| Faixa de valores do benefício menos vantajoso            | Percentual a ser pago ao segurado |
+|--------------------------------------------|----------------------------|
+| \> que um salário-mínimo até dois salários-mínimos       | 60%                               |
+| \> que dois salários-mínimos até três salários-mínimos   | 40%                               |
+| \> que três salários-mínimos até quatro salários-mínimos | 20%                               |
+| \> que quatro salários-mínimos                           | 10%                               |
+
+A aplicação do disposto no acima poderá ser revista a qualquer tempo, a pedido do interessado, em razão de alteração de algum dos benefícios (§ 3º). As restrições previstas acima não serão aplicadas se o direito aos benefícios houver sido adquirido antes da data de entrada em vigor da EC 103/2019 (13/11/2019).
+
+## Recursos complementares
+
+Vídeos:
+
+1.  [#AGUExplica "Pensão por Morte".](https://youtu.be/m50yZIXjdNM "#AGU Explica "Pensão por Morte".")
+2.  [#AGUExplica "Pensão por Morte na Nova Previdência".](https://youtu.be/7TqqSodgQ1o "#AGU Explica "Pensão por Morte na Nova Previdência".")

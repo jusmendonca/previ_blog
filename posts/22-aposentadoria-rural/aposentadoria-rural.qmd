@@ -1,0 +1,238 @@
+---
+title: Aposentadoria por idade do trabalhador rural
+# description: |
+date: "2023-10-26"
+author: 
+  - name: "Igor MENDONÇA"
+number-sections: true
+citation: 
+  url: https://jusmendonca.quarto.pub/previ_blog/posts/aposentadoria-rural/
+  language: portuguese
+categories: [aulas]
+# bibliography: references.bib
+google-scholar: true
+image: "rural.jpg"
+cls: abnt.csl
+---
+
+## Introdução
+
+A EC 103/2019 manteve a aposentadoria por idade os trabalhadores rurais, com requisitos diferenciados, nos termos da redação atual do art. 201, § 7º, inciso II, da Constituição Federal. A distinção constitucional não afronta o princípio da uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais (art. 194, II). Pelo contrário, trata-se de uma regra instituída com atenção à igualdade sustancial, que reclama um tratamento diferenciado aos trabalhadores rurais em função das características intrínsecas ao trabalho no campo.
+
+## Requisitos
+
+A aposentadoria por idade do trabalhador rural exige:
+
+a\) que o segurado seja um trabalhador rural;[^1]
+
+[^1]: Ver @sec-urbanos-e-rurais .
+
+b\) idade de 60 anos (homem) ou 55 anos (mulher);
+
+c\) carência de 180 contribuições mensais.
+
+### "Trabalhador rural"
+
+A redação constitucional, ao escolher a categoria "trabalhador rural" como merecedora de especial proteção previdenciária, não guarda congruência com as espécies de segurados previstas na legislação ordinária. Disso resulta que o direito à aposentadoria por idade pode ser acionado por espécies distintas de segurados do RGPS, quais sejam[^2]:
+
+[^2]: V. art. 56, *caput*, do Dec. 3.048/1999.
+
+a\) *segurado especial*, ou seja, o pequeno produtor agropecuário, o pescador artesanal, o seringueiro e o extrativista vegetal (art. 11, VII, da Lei 8.213/91);
+
+b\) *empregado rural*, que é um segurado empregado (art. 11, I, a, da Lei 8.213/91) que exerce efetivamente a atividade agropecuária[^3], como o vaqueiro, o tratador, o lavrador etc;[^4]
+
+[^3]: Não importa a atividade empresarial do empregador, e sim a real atividade do empregado. Nesse sentido, a Tese firmada no Tema 115/TNU.
+
+[^4]: Alguns precedentes da TNU tratam especificamente do enquadramento de certos trabalhadores como "rurais." De acordo com o entendimento da Turma, não são trabalhadores rurais, por exemplo: o *administrador rural* (PEDILEF 0500763-72.2020.4.05.8307, j. em 27/09/2022), o *cozinheiro* (PEDILEF 0000533-96.2016.4.03.6201, j. em 20/09/2022), o *motorista de caminhão* (PEDILEF 0531195-20.2019.4.05.8013, j. em 25/10/2021) e o *carvoeiro* que não se enquadre como extrativista ou silvicultor, limitando-se a adquirir a madeira de terceiros e proceder à sua industrialização (PEDILEF 0002632-38.2014.4.01.3817, j. Em 24/09/2019).
+
+c\) *trabalhador avulso rural*, isto é, aquele que, sindicalizado ou não, presta serviço de natureza rural a diversas empresas, ou equiparados, sem vínculo empregatício, com intermediação obrigatória do órgão gestor de mão de obra (Lei 8.213/91, art. 11, VII e RPS, art. 9º, VI, a);
+
+d\) *contribuinte individual rural*, como o diarista, o safrista ("boia-fria")[^5], o produtor agropecuário que não se enquadre como segurado especial (art. 11, V, a, da Lei 8.213/91) e o garimpeiro que trabalhe em regime de economia familiar.
+
+[^5]: Nada obstante, a jurisprudência tem equiparado a figura do "boia-fria" à do segurado especial, em razão da vulnerabilidade social a que ambos se encontram submetidos. Na prática isso implica a possibilidade de dispensar os chamados "boias-frias" da comprovação do efetivo recolhimento das contribuições previdenciárias, concessão dada ao segurado especial pelo art. 39, I, da LBPS). No **Tema** **554/STJ**, o Superior Tribunal de Justiça decidiu que se aplica ao "boia-fria" a regra da exigência de início de prova material inerente aos trabalhadores rurais em geral, com mitigação, a partir de produção de robusta prova testemunhal.
+
+É bastante comum que o trabalhador rural transite entre as categorias acima elencadas (o segurado especial pode, durante a sua vida laboral, ter sido contratado como vaqueiro de uma fazenda, ter trabalhado como safrista em várias fazendas etc.). Na medida em que todos esses enquadramentos dariam direito à aposentadoria por idade, não há alteração substancial da situação do trabalhador, já tendo a TNU[^6] reconhecido a cômputo dos diversos períodos como de "trabalho rural."
+
+[^6]: PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. CÔMPUTO DE PERÍODOS TRABALHADOS COMO SEGURADO ESPECIAL E TRABALHADOR RURAL. POSSIBILIDADE. A EXISTÊNCIA DE VÍNCULOS FORMAIS DE TRABALHO RURAL NÃO CONSTITUI ÓBICE À CONCESSÃO DE APOSENTADORIA RURAL POR IDADE. INCIDENTE CONHECIDO E PROVIDO. (Pedido de Uniformização de Interpretação de Lei (Turma) 0001564-11.2014.4.03.6335, FABIO DE SOUZA SILVA - TURMA NACIONAL DE UNIFORMIZAÇÃO, 19/02/2020.)
+
+De acordo com o entendimento do STJ, o trabalhador rural tem que estar laborando no campo quando completar a idade mínima para se aposentar por idade rural. Ressalva-se, porém, a hipótese de direito adquirido, ou seja, a situação em que o segurado afastado do labor rurícola vem a requerer o benefício, já tendo cumprido, no passado, os requisitos idade e carência (Tese firmada no **Tema 642/STJ**).
+
+Se trabalhador rural ainda não tiver cumprido a carência exigida por lei na época do requerimento administrativo, mas continuar trabalhando, é possível a chamada "reafirmação da DER", seja na fase administrativa ou no curso do processo judicial (Tese firmada no **Tema 995/STJ**).[^7] Na mesma linha, a TNU fixou o entendimento de que "*Para a concessão de aposentadoria por idade de trabalhador rural, o tempo de exercício de atividade equivalente à carência deve ser aferido no período imediatamente anterior ao requerimento administrativo ou à data do implemento da idade mínima*" (**Súmula 54/TNU**).
+
+[^7]: "É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir."
+
+Em regra, não pode ser considerado trabalhador rural aquele que recebe o Benefício de Prestação Continuada da Lei Orgânica da Assistência Social (BPC-LOAS). Entretanto, se comprovado o labor rurícola durante o recebimento do BPC-LOAS, esse período pode ser computado como carência, nos termos da jurisprudência da TNU[^8], sem prejuízo de eventual responsabilização pelo recebimento indevido do benefício assistencial. Em qualquer caso, é vedado o recebimento simultâneo do BPC-LOAS e da aposentadoria por idade que vier a ser deferida (art. 20, § 4º, da Lei 9.742/93).
+
+[^8]: PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. RECEBIMENTO DE BPC/LOAS DURANTE O PERÍODO AQUISITIVO. INEXISTÊNCIA DE ÓBICE À CONCESSÃO DO BENEFÍCIO PREVIDENCIÁRIO. 1. O recebimento do BPC por pessoa com deficiência durante o período que antecede o requerimento administrativo impede a concessão da aposentadoria por idade rural, salvo se o órgão julgador se convencer de que há prova da efetiva atividade rural por período equivalente à carência. Eventual irregularidade na concessão ou na manutenção do benefício assistencial pode gerar responsabilização do beneficiário, mas não obstar o acesso ao benefício previdenciário" 2. Incidente conhecido e não provido. (Pedido de Uniformização de Interpretação de Lei (Turma) 0002753-65.2011.4.01.3819, FABIO DE SOUZA SILVA - TURMA NACIONAL DE UNIFORMIZAÇÃO, 19/02/2020.)
+
+### Carência
+
+Além da idade de 60 anos (homem) e 55 anos (mulher), o trabalhador rural deverá cumprir a carência de 180 contribuições mensais, nos termos da Lei (art. 25, II, da Lei 8.213/91).
+
+Por isso, em princípio, seria necessário o efetivo recolhimento das contribuições previdenciárias durante o período exigido por lei. No entanto, é importante recordar que o recolhimento é *presumido*, *desde que comprovado o exercício da atividade laborativa*, para o segurado empregado, o trabalhador avulso e o contribuinte individual que preste serviços a empresas (art. 34, I, da LBPS e art. 26, § 4º, do RPS). Caso o empregador ou contratante não tenha recolhido as contribuições devidas, a cobrança deve ser feita em face dele, responsável por arrecadar e recolher a contribuição previdenciárias. A ausência de recolhimento não prejudica a concessão do benefício previdenciário, desde que seja comprovado o efetivo labor rural pelo segurado.
+
+Já para a concessão da aposentadoria por idade do trabalhador rural que se enquadre como *segurado especial*, o § 8º do art. 195 da Constituição Federal prevê uma contribuição sobre o resultado da comercialização da produção para que esses segurados façam jus aos benefícios previdenciários "nos termos da lei." A Lei 8.212/91 efetivamente instituiu essa contribuição obrigatória, no *caput* de seu art. 25, e o § 1º estabelece, também, uma contribuição facultativa, na forma do art. 21 da Lei 8.212/91 (20% sobre o salário-de-contribuição).
+
+Sucede que o art. 39, I, da Lei 8.313/91 averba o seguinte (destaques acrescidos ao original):
+
+> **Art. 39.** Para os segurados especiais, referidos no inciso VII do caput do art. 11 desta Lei, fica garantida a concessão:
+>
+> I - de aposentadoria por idade ou por invalidez, de auxílio-doença, de auxílio-reclusão ou de pensão, no valor de 1 (um) salário mínimo, e de auxílio-acidente, conforme disposto no art. 86 desta Lei, desde que comprovem o exercício de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, igual ao número de meses correspondentes à carência do benefício requerido, observado o disposto nos arts. 38-A e 38-B desta Lei; ou
+>
+> II - dos benefícios especificados nesta Lei, observados os critérios e a forma de cálculo estabelecidos, desde que contribuam facultativamente para a Previdência Social, na forma estipulada no Plano de Custeio da Seguridade Social.
+>
+> **Parágrafo único.** Para a segurada especial fica garantida a concessão do salário-maternidade no valor de 1 (um) salário mínimo, desde que comprove o exercício de atividade rural, ainda que de forma descontínua, nos 12 (doze) meses imediatamente anteriores ao do início do benefício.
+
+Conclui-se que, para os benefícios de aposentadoria por idade, aposentadoria por invalidez, auxílio-doença, auxílio-reclusão e pensão por morte, o segurado especial não necessita recolher contribuições previdenciárias. Em lugar delas, deve comprovar o "exercício de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, igual ao número de meses correspondentes à carência do benefício requerido" observado o disposto nos arts. 38-A e 38-B da LBPS.
+
+Sendo assim, para a concessão dos benefícios citados no valor de até um salário-mínimo mensal, o pagamento das contribuições previdenciárias *não é presumido*, e sim legalmente *dispensado* (equivale a uma isenção tributária).
+
+Na realidade, a maioria dos produtores rurais brasileiros dedica-se à agricultura familiar, enquadrando-se potencialmente na categoria dos segurados especiais. O Censo Agropecuário de 2017[^9] demonstra que 94% dos trabalhadores rurais brasileiros dedica-se à agricultura familiar, variando de 73% no Mato Grosso do Sul a 98% no Estado do Piauí.
+
+[^9]: V. \<Disponível em \<https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria/21814-2017-censo-agropecuario.html?=&t=resultados\>, Indicador 6.
+
+Outro dado que dá a dimensão da importância do tema é que, das pessoas ocupadas com 14 anos ou mais de idade, caracterizadas como trabalhadores por conta própria e empregadores e que se dedicam à atividade agropecuária, 68% não contribuem para a Previdência Social.[^10]
+
+[^10]: [V.](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html) [\<https://www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9221-sintese-de-indicadores-sociais.html)?=&t=resultados\>, Estruturas Econômicas e Mercado de Trabalho, Tabela 1.26.
+
+Diante da desnecessidade de recolhimento de contribuições, as controvérsias relativas à qualidade de segurado especial entre os requerentes de benefícios e o INSS ocupam boa parte da força de trabalho no Judiciário brasileiro, sobretudo nos Juizados Especiais Federais. A maior parte das ações judiciais sobre o assunto gira em torna de questões probatórias acerca do cumprimento do requisito carência. Diante da dificuldade probatória dos segurados especiais a jurisprudência nacional foi forçada a assentar diversos entendimentos jurisprudenciais sobre a matéria, adiante comentados.
+
+### Prova da qualidade de segurado e do cumprimento da carência
+
+#### Início de prova material
+
+Os trabalhadores rurais que pagam contribuições previdenciárias (o empregado rural, o contribuinte individual rural, o trabalhador avulso rural e o segurado especial que contribui facultativamente) possuem, via de regra, seus dados inseridos no Cadastro Nacional de Informações Sociais (CNIS). Os registros do CNIS relativos a vínculos, remunerações e contribuições valem como prova de filiação à previdência social, tempo de contribuição e salários-de-contribuição (art. 19, caput, do RPS). Sobre tais anotações incide presunção *iuris tantum* de veracidade (v. **Súmula 75/TNU**[^11]), podendo o INSS exigir a apresentação dos documentos que serviram de base às anotações, em caso de divergência.
+
+[^11]: "A Carteira de Trabalho e Previdência Social (CTPS) em relação à qual não se aponta defeito formal que lhe comprometa a fidedignidade goza de presunção relativa de veracidade, formando prova suficiente de tempo de serviço para fins previdenciários, ainda que a anotação de vínculo de emprego não conste no Cadastro Nacional de Informações Sociais (CNIS)."
+
+Já o segurado especial *que não contribui facultativamente* tem maior dificuldade de comprovar sua condição e o cumprimento da carência exigida para gozar benefícios previdenciários, pois, em geral, o exercício da atividade rural em regime de economia familiar não é documentada.
+
+O § 3º do art. 55 da LBPS determina que a comprovação de "tempo de serviço" só é admissível quando se baseie em "início de prova material contemporânea dos fatos, não admitida a prova exclusivamente testemunhal, exceto na ocorrência de motivo de força maior ou caso fortuito, na forma prevista no regulamento. Essa exigência estende-se aos aos segurados especiais, conforme o Superior Tribunal de Justiça já sumulou (**Súmula 149/STJ**).[^12]
+
+[^12]: "A prova exclusivamente testemunhal não basta a comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário." O entendimento foi ratificado na Tese firmada no **Tema 297/STJ**.
+
+Ainda de acordo do Superior Tribunal de Justiça, a exigência de início de prova documental estende-se aos chamados "boias-frias" (Tese firmada no **Tema 554/STJ**)[^13]
+
+[^13]: "Aplica-se a Súmula 149/STJ ('A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeitos da obtenção de benefício previdenciário') aos trabalhadores rurais denominados 'boias-frias', sendo imprescindível a apresentação de início de prova material. Por outro lado, considerando a inerente dificuldade probatória da condição de trabalhador campesino, a apresentação de prova material somente sobre parte do lapso temporal pretendido não implica violação da Súmula 149/STJ, cuja aplicação é mitigada se a reduzida prova material for complementada por idônea e robusta prova testemunhal."
+
+A despeito disso, não é necessário que a prova documental se refira a todo o período de carência, podendo ser estendida a eficácia probatória para o período posterior ou anterior à data do documento, desde que corroborado por prova testemunhal (**Súmula 577/STJ**[^14] e **Súmula 14/TNU**[^15]). O que se exige é que o documento refira-se ao período de labor rurícola que o interessado pretende comprovar, ou seja, o documento deve ser contemporâneo dos fatos a provar (**Súmula 34/TNU**)[^16].
+
+[^14]: "É possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório."
+
+[^15]: "Para a concessão de aposentadoria rural por idade, não se exige que o início de prova material corresponda a todo o período equivalente à carência do benefício."
+
+[^16]: "Para fins de comprovação do tempo de labor rural, o início de prova material deve ser contemporâneo à época dos fatos a provar."
+
+Para a comprovação do exerício do labor rural pelo tempo equivalente à carência do benefício de aposentadoria por idade do trabalhador rural (180 meses), o INSS tem exigido a apresentação de *um documento para cada metade do período de carência* (Ofício SEI Circular nº 62 /DIRBEN, de 19/12/2019). Trata-se, no entanto, de uma regra administrativa que não reflete a exigência legal e, por isso, não vincula o Poder Judiciário.
+
+Na visão do STJ (Tese firmada no **Tema 629**[^17]), o início de prova material da qualidade de segurado especial tem a natureza de documento obrigatório à propositura da ação. Por isso, sua ausência provoca a extinção do processo *sem resolução do mérito*, na forma do art. 485, I, do CPC, c/c os arts. 320 e 321 do mesmo Código. Dessa maneira, a Corte admite a repropositura da ação em face da apresentação de novo documento.
+
+[^17]: "A ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo sua extinção sem o julgamento do mérito (art. 267, IV do CPC) e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários à tal iniciativa."
+
+Muitas vezes, o segurado especial deixa de apresentar o início de prova material quando protocola seu requerimento administrativo, provocando o indeferimento. Depois, na via judicial, apresenta o documento cuja falta havia motivado o indeferimento administrativo. Nesses casos, a representação judicial do INSS costuma alegar a falta de interesse de agir ou, subsidiariamente, a fixação do termo inicial dos efeitos financeiros somente a partir da citação do INSS, pois o documento apresentado só surgiu na via judicial e a Autarquia não teve oportunidade de analisá-lo administrativamente. Essa questão está, atualmente, submetida ao STJ (**Tema 1.124**).
+
+A indicação precisa dos períodos e locais de efetivo exercício da atividade rural constitui um ônus do autor da ação previdenciária, sob pena de indeferimento da petição inicial (**Enunciado 186/FONAJEF**[^18]). De fato, a alegação genérica de exercício do trabalho rural sem indicação dos locais e períodos a reconhecer implica a inépcia da petição inicial (art. 330, § 1º, do CPC). Porém, antes de extinguir o feito sem resolução do mérito, o Juiz deverá intimar a parte autora para sanar a irregularidade, de acordo com o art 321 do CPC e **Enunciado 223/FONAJEF**.[^19]
+
+[^18]: "É requisito de admissibilidade da petição inicial a indicação precisa dos períodos e locais de efetivo exercício de atividade rural que se pretende reconhecer, sob pena de indeferimento."
+
+[^19]: "O juiz poderá indeferir a petição inicial, por inépcia, quando, em ações previdenciárias, intimada a parte para a emenda, não seja sanada a inadequada narrativa dos fatos ou a ausência de início de prova material."
+
+É controversa a possibilidade de julgar o mérito *exclusivamente* com base na prova documental (ou seja, sem a produção de prova oral em audiência). Caso o julgamento seja de procedência e a parte autora tenha requerido a prova testemunhal, parece-nos que a ausência de audiência não pode ser alegada como nulidade, por não haver prejuízo.
+
+No entanto, se a prova testemunhal ou depoimento pessoal da parte autora tiver sido requerida pelo INSS, é de rigor a marcação de audiência de instrução, sob pena de cerceamento de defesa da Autarquia Previdenciária. Essa parece ser a interpretação do **Enunciado 222/FONAJEF**[^20] mais congruente com o princípio do contraditório.
+
+[^20]: "É possível o julgamento do mérito dos pedidos de benefício previdenciário rural com base em prova exclusivamente documental, caso seja suficiente para a comprovação do período de atividade rural alegado na petição inicial."
+
+O documento apresentado como início de prova pode estar em nome do segurado ou de pessoa de seu grupo familiar. A própria Advocacia-Geral da União já sumulou entendimento de que os documentos que qualifiquem o cônjuge/companheiro ou os ascendentes do segurado como trabalhadores rurais podem ser aceitos como início de prova material, enquanto vigente o casamento/união estável ou a relação de dependência (**Súmula 32/AGU**[^21]). Especificamente sobre a admissibilidade da certidão de casamento que qualifique o cônjuge do requerente do benefício como trabalhador rural, dispõe a **Súmula 6/TNU**[^22].
+
+[^21]: "Para fins de concessão dos benefícios dispostos nos artigos 39, inciso I e seu parágrafo único, e 143 da Lei 8.213, de 24 de julho de 1991, serão considerados como início razoável de prova material documentos públicos e particulares dotados de fé pública, desde que não contenham rasuras ou retificações recentes, nos quais conste expressamente a qualificação do segurado, de seu cônjuge, enquanto casado, ou companheiro, enquanto durar a união estável, ou de seu ascendente, enquanto dependente deste, como rurícola, lavrador ou agricultor, salvo a existência de prova em contrário."
+
+[^22]: "A certidão de casamento ou outro documento idôneo que evidencie a condição de trabalhador rural do cônjuge constitui início razoável de prova material da atividade rurícola."
+
+Há, porém, uma exceção à regra da admissibilidade de documentos de outros integrantes do grupo familiar para comprovação do trabalho rural do requerente. Embora o trabalho urbano de um dos componentes da família não descaracterize, por si só, a qualidade de segurado especial dos demais membros (Tese firmada no Tema 532/STJ, **Súmula 41/TNU**[^23] e Tese firmada no **Tema 23/TNU**)[^24], o documento em nome daquele que exerça atividade urbana não pode ser aceito como início de prova material (Tese firmada no **Tema 533/STJ**)[^25].
+
+[^23]: Do STJ:"O trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ)"; da TNU: "
+
+[^24]: "A condição de segurada especial em regime de economia familiar não é descaracterizada pelo trabalho urbano do marido da autora ou mesmo pela paga, posterior, de pensão alimentícia, em razão de separação."
+
+[^25]: "Em exceção à regra geral (...), a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana."
+
+Outros documentos admitidos expressamente pela jurisprudência da TNU são a certidão de óbito de trabalhador rural (Tese firmada no **Tema 32/TNU**)[^26] e a certidão do INCRA ou outro documento que comprove propriedade de imóvel em nome de integrantes do grupo familiar (Tese firmada no **Tema 18/TNU**)[^27].
+
+[^26]: "Certidão de óbito configura início de prova material para caracterização da atividade rural, para fins de pensão por morte."
+
+[^27]: "A certidão do INCRA ou outro documento que comprove propriedade de imóvel em nome de integrantes do grupo familiar do segurado é razoável início de prova material da condição de segurado especial para fins de aposentadoria rural por idade, inclusive dos períodos trabalhados a partir dos 12 anos de idade, antes da publicação da Lei n. 8.213/91. Desnecessidade de comprovação de todo o período de carência."
+
+Por outro lado, não se admite a declaração extemporânea de ex-empregador, nem anotação extemporânea em CTPS como início de prova material, uma vez que, obviamente, não se trata de prova contemporânea do labor rural (Teses fixadas no **Tema 199/TNU**[^28] e no **Tema 240/TNU**).[^29]
+
+[^28]: "A declaração extemporânea de ex-empregador não é documento hábil à formação do início de prova material necessário à comprovação de atividade laboral em determinado período."
+
+[^29]: "I) É extemporânea a anotação de vínculo empregatício em CTPS, realizada voluntariamente pelo empregador após o término do contrato de trabalho; (II) Essa anotação, desacompanhada de outros elementos materiais de prova a corroborá-la, não serve como início de prova material para fins previdenciários."
+
+Na prática judiciária tem-se admitido como início de prova material o documento que comprove a concessão de outro benefício ao autor na condição de trabalhador rural. Nessa mesma linha, dispõe o **Enunciado 188/FONAJEF**.[^30]
+
+[^30]: "O benefício concedido ao segurado especial, administrativamente ou judicialmente, configura início de prova material válida para posterior concessão aos demais integrantes do núcleo familiar, assim como ao próprio beneficiário."
+
+É bastante comum que o trabalhador rural exerça, no decorrer de sua vida laboral, atividades de natureza urbana. Já vimos que não induz descontinuidade da qualidade de segurado especial o labor urbano exercido nos limites do art. 11, § 9º, inciso III, da LBPS (120 dias corridos ou intercalados no ano civil). Essa limitação foi introduzida pela Lei 11.718/2008. Para o período anterior à vigência dessa Lei, adotam-se como parâmetros os períodos de graça (art. 15 da LBPS), conforme já assentou a TNU[^31].
+
+[^31]: PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA POR IDADE RURAL. EXERCÍCIO DE ATIVIDADE URBANA. LAPSO ANTERIOR À LEI N.º 11.718/2008. QUALIDADE DE SEGURADO. APLICAÇÃO ANALÓGICA DO ARTIGO 15 DA LEI N.º 8.213/91. FIXAÇÃO DA SEGUINTE TESE: PARA FINS DE APOSENTADORIA POR IDADE RURAL, PERDE A QUALIDADE DE SEGURADO ESPECIAL AQUELE QUE, EM PERÍODO ANTERIOR À VIGÊNCIA DA LEI N.º 11.718/2008, INTERROMPE A ATIVIDADE RURAL POR PERÍODO SUPERIOR AO DA GRAÇA, PREVISTO NO ARTIGO 15 DA LEI N.º 8.213/91. INCIDENTE PROVIDO.
+
+Mesmo se houver exercício de atividade urbana em períodos superiores ao limite legal (de 120 dias corridos ou intercalados no ano civil), será possível computar como carência a soma dos períodos descontínuos, desde que seja apresentado início de prova material de cada um deles. Nesse sentido é a **Súmula 46/TNU**[^32] e a Tese firmada no **Tema 301/TNU**.[^33]
+
+[^32]: "O exercício de atividade urbana intercalada não impede a concessão de benefício previdenciário de trabalhador rural, condição que deve ser analisada no caso concreto."
+
+[^33]: "Cômputo do Tempo de Trabalho Rural I. Para a aposentadoria por idade do trabalhador rural não será considerada a perda da qualidade de segurado nos intervalos entre as atividades rurícolas. Descaracterização da condição de segurado especial II. A condição de segurado especial é descaracterizada a partir do 1º dia do mês seguinte ao da extrapolação dos 120 dias de atividade remunerada no ano civil (Lei 8.213/91, art. 11, § 9º, III); III. Cessada a atividade remunerada referida no item II e comprovado o retorno ao trabalho de segurado especial, na forma do art. 55, parag. 3o, da Lei 8.213/91, o trabalhador volta a se inserir imediatamente no VII, do art. 11 da Lei 8.213/91, ainda que no mesmo ano civil."
+
+Para efeito de carência, é possível, inclusive, a contagem do período comprovadamente trabalhado no campo pelo menor com idade inferior a 12 (doze) anos, conforme já assentou a TNU (Tese firmada no **Tema 219/TNU**[^34]). A despeito da expressa vedação existente na parte final do art 55, § 2º, da Lei 8.213/91, o Superior Tribunal de Justiça considera que "O tempo de serviço rural, ainda que remoto e descontínuo, anterior ao advento da Lei 8.213/1991, pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, § 3o. da Lei 8.213/1991 (...)" (Tese firmada no **Tema 1.007/STJ**).
+
+[^34]: "É possível o cômputo do tempo de serviço rural exercido por pessoa com idade inferior a 12 (doze) anos na época da prestação do labor campesino."
+
+Em que pese o julgado referir-se à chamada "aposentadoria híbrida" (da qual trataremos adiante), o importante é perceber que o Superior Tribunal de Justiça terminou afastando a regra de que o período trabalhado antes da vigência da Lei 8.213/1991 só poderia ser computado como carência se recolhidas as respectivas contribuições.
+
+<!--# No mesmo sentido é o entendimento atual da TNU (Súmula 24), ficando superada a Súmula 10/TNU. -->
+
+#### Autodeclaração ratificada por entidades públicas credenciadas no PRONATER
+
+Desde a edição da **MP 871/2019**, que alterou o art. 106 da LBPS, passou-se a exigir que o segurado especial apresente uma autodeclaração ratificada por entidades públicas credenciadas no PRONATER (Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária, de que trata da Lei n.º 12.188/2010). Na impossibilidade de ratificação, o segurado especial deve apresentar algum dos documentos elencados nos incisos do art. 106 da LBPS (que constituirão o início de prova material exigido legalmente), tais como:
+
+> II -- contrato de arrendamento, parceria ou comodato rural;
+>
+> IV - Declaração de Aptidão ao Programa Nacional de Fortalecimento da Agricultura Familiar, de que trata o inciso II do caput do art. 2º da Lei nº 12.188, de 11 de janeiro de 2010, ou por documento que a substitua; (Redação dada pela Lei nº 13.846, de 2019) V -- bloco de notas do produtor rural;
+>
+> VI -- notas fiscais de entrada de mercadorias, de que trata o § 7o do art. 30 da Lei no 8.212, de 24 de julho de 1991, emitidas pela empresa adquirente da produção, com indicação do nome do segurado como vendedor;
+>
+> VII -- documentos fiscais relativos a entrega de produção rural à cooperativa agrícola, entreposto de pescado ou outros, com indicação do segurado como vendedor ou consignante; (Incluído pela Lei nº 11.718, de 2008)
+>
+> VIII -- comprovantes de recolhimento de contribuição à Previdência Social decorrentes da comercialização da produção;
+>
+> IX -- cópia da declaração de imposto de renda, com indicação de renda proveniente da comercialização de produção rural; ou
+>
+> X -- licença de ocupação ou permissão outorgada pelo Incra.
+
+Conforme já vinha admitindo o STJ, referido rol é apenas exemplificativo, podendo ser apresentados outros documentos, desde que sejam contemporâneos dos períodos a comprovar.[^35]
+
+[^35]: REsp 1650326/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2017, DJe 30/06/2017.
+
+### Cadastro de segurados especiais no CNIS
+
+Buscando aperfeiçoar a prova da qualidade de segurado especial, a **MP 871/2019**, posteriormente convertida na Lei 13,846/2019, previu a instituição do cadastro de segurados especiais no CNIS (Cadastro Nacional de Informações Sociais), a ser mantido pelo Ministério da Economia, que poderá firmar acordo de cooperação com o Ministério da Agricultura, Pecuária e Abastecimento e com outros órgãos da Administração Pública federal, estadual, distrital e municipal para a manutenção e a gestão do sistema de cadastro.
+
+O sistema deverá ser anualmente atualizado (até 30 de junho do ano subsequente) e conterá as informações necessárias à caracterização da condição de segurado especial, nos termos do art. 19-D do RPS, cujo § 2º prevê a apresentação, pelo segurado especial, de declaração anual ou de "documento equivalente", conforme definido em ato do Secretário Especial de Previdência e Trabalho do Ministério da Economia (art. 38-A da LBPS).
+
+A atualização anual dos dados do sistema é vedada após o prazo de cinco anos, constados a partir de 30 de junho do ano posterior ao ano de referência (exemplo: a atualização dos dados de 2024 só poderá ser feita até 30 de junho de 2030). Passado esse prazo, o cômputo do período de trabalho rural só poderá ser efetivado mediante a comercialização da produção e o respectivo recolhimento da contribuição previdenciária na época própria, a que se refere o art. 25 da Lei 8.212/1991.
+
+A partir de 1º de janeiro de 2023, as informações existentes no cadastro de segurados especiais no CNIS passam a ser o meio exclusivo de prova da qualidade de segurado especial, mas, para o período anterior a essa data, o segurado poderá continuar comprovando sua qualidade através da autodeclaração ratificada por entidades públicas credenciadas ao PRONATER e por outros órgãos públicos.
+
+O § 1º do art. 25 da EC 103/2019 prevê a prorrogação desse marco temporal até a data em que o CNIS atingir a cobertura mínima de 50% dos segurados especiais do Brasil, (art. 195, § 8º, da Constituição Federal), apurada conforme o quantitativo da Pesquisa Nacional por Amostra de Domicílio (PNAD).
+
+<!--# Estamos, portanto, em um período de transição do regime probatório da qualidade de segurado especial para efeito de concessão de benefícios previdenciários. Vigora ainda o regramento que exige a autodeclaração ratificada pelas entidades credenciadas ao PRONATER ou outros órgãos públicos, mediante consultas realizadas nas bases de dados governamentais às quais o INSS tem acesso e, na impossibilidade da ratificação, mediante apresentação de início de prova material (documento) contemporâneo do período a comprovar (v. Art. 19-D, § 10, do RPS). -->
+
+## Renda mensal inicial (RMI)
+
+Calcula-se a RMI da aposentadoria por idade do trabalhador rural na forma do art. 56, § 2º, do Dec. 3.048/1999: 70% do salário de benefício tal como definido no art. 26 da EC 103/2019, com acréscimo de um ponto percentual para cada ano de contribuição.
+
+Frise-se: a forma de cálculo descrita aplica-se para os trabalhadores rurais em geral[^36]. Só não será calculado dessa maneira o benefício do segurado especial que não contribua facultativamente na forma do art. 21 da Lei 8.212/1991. Este, como já visto, fará jus ao benefício no valor de um salário mínimo mensal.
+
+[^36]: PEDIDO DE UNIFORMIZAÇÃO NACIONAL. PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. EMPREGADO RURAL. CONSIDERAÇÃO DAS CONTRIBUIÇÕES DO PBC. CÁLCULO DE RMI. 1. A renda mensal inicial da Aposentadoria Rural por Idade do empregado rural, restando comprovado o respectivo vínculo laboral com registro de contribuições, deve ser calculada computando-se os salários-de-contribuição relativos ao período básico de cálculo do benefício, não se justificando a sua fixação em um salário mínimo, porquanto esta forma de cálculo se destina aos trabalhadores rurais que não recolheram contribuições. 2. Tese firmada: "para concessão da aposentadoria prevista no artigo 48, §1º, da Lei 8213/91, para o segurado empregado rural, o cálculo da Renda Mensal Inicial (RMI) deve considerar os salários-de-contribuição apurados no período contributivo." 3. Incidente provido. (Pedido de Uniformização de Interpretação de Lei (Turma) 0003002-09.2012.4.03.6314, SUSANA SBROGIO GALIA - TURMA NACIONAL DE UNIFORMIZAÇÃO, 28/05/2021).
+
+<!--# Híbrida: tema 1007, 644, e contagem recíproca.encaixar tema 532 do STJ  -->

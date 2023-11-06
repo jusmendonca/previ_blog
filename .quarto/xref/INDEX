@@ -1,9 +1,11 @@
 {
   "index.qmd": {
-    "index.html": "05cefd99"
+    "index.html": "05cefd99",
+    "index.tex": "77bb7214"
   },
   "about.qmd": {
-    "about.html": "54f488da"
+    "about.html": "54f488da",
+    "about.tex": "a1d1f35c"
   },
   "posts/post-with-code/index.qmd": {
     "index.html": "4f19aca5"
@@ -33,7 +35,8 @@
     "pensao-por-morte.html": "d0f02d41"
   },
   "posts/aposentadoria-rural/aposentadoria-rural.qmd": {
-    "aposentadoria-rural.html": "049d103d"
+    "aposentadoria-rural.html": "049d103d",
+    "aposentadoria-rural.tex": "21e5d688"
   },
   "posts/calculo/calculo.qmd": {
     "calculo.html": "c80d6eaa"
@@ -54,10 +57,12 @@
     "segurados.html": "30a29bcf"
   },
   "posts/aposentadorias-voluntarias/aposentadorias-voluntarias.qmd": {
-    "aposentadorias-voluntarias.html": "eb89640d"
+    "aposentadorias-voluntarias.html": "eb89640d",
+    "aposentadorias-voluntarias.tex": "199359d0"
   },
   "posts/aposentadorias-voluntarias/aposentarias-programadas.md/aposentarias-programadas.md": {
-    "aposentarias-programadas.html": "683ead1f"
+    "aposentarias-programadas.html": "683ead1f",
+    "aposentarias-programadas.tex": "b941a676"
   },
   "posts/auxilio-acidente/auxilio-acidente.md": {
     "auxilio-acidente.html": "406bf09d"
@@ -66,61 +71,77 @@
     "custeio.html": "6f4d0083"
   },
   "posts/1-introducao/introducao.qmd": {
-    "introducao.html": "fd35cec0"
+    "introducao.html": "fd35cec0",
+    "introducao.tex": "432e5f7f"
   },
   "posts/2-Fontes/fontes.qmd": {
-    "fontes.html": "82a51757"
+    "fontes.html": "82a51757",
+    "fontes.tex": "ac3f483c"
   },
   "posts/3-historico/historico.qmd": {
-    "historico.html": "eded4e62"
+    "historico.html": "eded4e62",
+    "historico.tex": "85c848e0"
   },
   "posts/4-principios/principios_da_seguridade.qmd": {
-    "principios_da_seguridade.html": "daae1412"
+    "principios_da_seguridade.html": "daae1412",
+    "principios_da_seguridade.tex": "5e925a3c"
   },
   "posts/5-principios2/principios2.qmd": {
-    "principios2.html": "ac54c03f"
+    "principios2.html": "ac54c03f",
+    "principios2.tex": "e645f3ef"
   },
   "posts/6-principios3/principios3.qmd": {
-    "principios3.html": "ace59a04"
+    "principios3.html": "ace59a04",
+    "principios3.tex": "9ba1cc13"
   },
   "posts/principios3.md": {
     "principios3.html": "29cb8991"
   },
   "posts/7-indicacao1/indicacao1.qmd": {
-    "indicacao1.html": "9d88a9e0"
+    "indicacao1.html": "9d88a9e0",
+    "indicacao1.tex": "dc47fabf"
   },
   "posts/8-regimes/regimes.qmd": {
-    "regimes.html": "7bb6570f"
+    "regimes.html": "7bb6570f",
+    "regimes.tex": "5c4a6db0"
   },
   "posts/9-falacias/falacias.qmd": {
-    "falacias.html": "7d5dc6cb"
+    "falacias.html": "7d5dc6cb",
+    "falacias.tex": "ea8e02bb"
   },
   "posts/10-RGPS/relacao_jprev.qmd": {
     "relacao_jprev.html": "50341764"
   },
   "posts/10-RGPS/disposicoes_gerais.qmd": {
-    "disposicoes_gerais.html": "afcd6bdb"
+    "disposicoes_gerais.html": "afcd6bdb",
+    "disposicoes_gerais.tex": "385e02f3"
   },
   "posts/11-relacao/relacao_jprev.qmd": {
     "relacao_jprev.html": "7c1a8476"
   },
   "posts/11-relacao/relacao.qmd": {
-    "relacao.html": "fbac97fa"
+    "relacao.html": "fbac97fa",
+    "relacao.tex": "6fbd8c7a"
   },
   "posts/12-segurados-obrigatorios/segurados.qmd": {
-    "segurados.html": "e4808da7"
+    "segurados.html": "e4808da7",
+    "segurados.tex": "dca950fa"
   },
   "posts/13-manutencao-segurado/manutencao-segurado.qmd": {
-    "manutencao-segurado.html": "38bff0ca"
+    "manutencao-segurado.html": "38bff0ca",
+    "manutencao-segurado.tex": "4c6ae3b3"
   },
   "posts/14-dependentes/dependentes.qmd": {
-    "dependentes.html": "af82b317"
+    "dependentes.html": "af82b317",
+    "dependentes.tex": "2b77f2e5"
   },
   "posts/15-visao-geral/visao.qmd": {
-    "visao.html": "07bf9e86"
+    "visao.html": "07bf9e86",
+    "visao.tex": "388823a3"
   },
   "posts/16-acidentes/acidentes.qmd": {
-    "acidentes.html": "e7ea8380"
+    "acidentes.html": "e7ea8380",
+    "acidentes.tex": "51d51c3b"
   },
   "posts/acidentes.qmd": {
     "acidentes.html": "4c12d705"
@@ -129,6 +150,61 @@
     "carencia.html": "cb6c7ee7"
   },
   "posts/17-carencia/carencia.qmd": {
-    "carencia.html": "582eae00"
+    "carencia.html": "582eae00",
+    "carencia.tex": "78f7fb51"
+  },
+  "drafts/aposentadoria-rural/aposentadoria-rural.qmd": {
+    "aposentadoria-rural.tex": "8b84aea6",
+    "aposentadoria-rural.html": "b3256c41"
+  },
+  "drafts/aposentadorias-voluntarias/aposentadorias-voluntarias.qmd": {
+    "aposentadorias-voluntarias.tex": "68a6bfec",
+    "aposentadorias-voluntarias.html": "d0c001a1"
+  },
+  "drafts/aposentadorias-voluntarias/aposentarias-programadas.md/aposentarias-programadas.md": {
+    "aposentarias-programadas.tex": "9eb3966d",
+    "aposentarias-programadas.html": "7f31da2d"
+  },
+  "posts/18-b-incapacidade/incapacidade.qmd": {
+    "incapacidade.html": "f33a4cc2"
+  },
+  "drafts/auxilio-acidente/auxilio-acidente.md": {
+    "auxilio-acidente.html": "c7d7a629"
+  },
+  "drafts/calculo/calculo.qmd": {
+    "calculo.html": "0bd2ae8b"
+  },
+  "drafts/custeio/custeio.qmd": {
+    "custeio.html": "caa0559b"
+  },
+  "drafts/filiacao-inscrição/filiacao-inscricao.qmd": {
+    "filiacao-inscricao.html": "3c5aade0"
+  },
+  "drafts/salario-familia/salario-familia.qmd": {
+    "salario-familia.html": "b4fd69d5"
+  },
+  "drafts/salario-maternidade/salario-maternidade.qmd": {
+    "salario-maternidade.html": "5d00072e"
+  },
+  "drafts/segurados/segurados.qmd": {
+    "segurados.html": "986740d3"
+  },
+  "posts/18-b-incapacidade/diagramas.qmd": {
+    "diagramas.html": "1f38146f"
+  },
+  "posts/19-salario-maternidade/salario-maternidade.qmd": {
+    "salario-maternidade.html": "819f618c"
+  },
+  "posts/20-salario-familia/salario-familia.qmd": {
+    "salario-familia.html": "533a8c83"
+  },
+  "posts/21-pensao-por-morte/pensao-por-morte.qmd": {
+    "pensao-por-morte.html": "456c5b31"
+  },
+  "posts/22-aposentadoria-rural/aposentadoria-rural.qmd": {
+    "aposentadoria-rural.html": "56b9c9b1"
+  },
+  "posts/23-aposentadorias-programadas/aposentadorias.qmd": {
+    "aposentadorias.html": "4f476455"
   }
 }

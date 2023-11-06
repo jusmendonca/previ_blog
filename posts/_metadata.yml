@@ -9,3 +9,5 @@ page-navigation: true
 number-sections: true
 toc: true
 license: Licença Creative Commons BY-NC-ND Atribuição-NãoComercial-SemDerivações 4.0 Internacional.
+csl: abnt.csl
+lang: pt

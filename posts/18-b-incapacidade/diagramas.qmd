@@ -1,0 +1,23 @@
+
+```{dot}
+digraph G {
+rankdir=LR;
+  node [shape=box];
+  
+  "Auxílio-acidente" -> "requisitos";
+  "requisitos" -> "incapacidade parcial e permanente por acidente";
+  "requisitos" -> "qualidade de segurado na DII";
+  "qualidade de segurado na DII" -> "empregado"
+  "qualidade de segurado na DII" -> "empregado doméstico"
+  "qualidade de segurado na DII" -> "trabalhador avulso"
+  "qualidade de segurado na DII" -> "segurado especial"
+  "Auxílio-acidente" -> "disacusia";
+  "disacusia" -> "só acidente do trabalho";
+  "Auxílio-acidente" -> "DII";
+  "DII" -> "dia seguinte ao DCB do auxílio-doença";
+  "Auxílio-acidente" -> "RMI";
+  "RMI" -> "50% do SB";
+  "Auxílio-acidente" -> "DCB";
+  "DCB" -> "véspera da aposentadoria";
+}
+```

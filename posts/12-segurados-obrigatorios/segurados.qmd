@@ -12,10 +12,9 @@ bibliography: references.bib
 google-scholar: true
 image: "segurados.jpg"
 ---
-
 ## Segurados obrigatórios do Regime Geral de Previdência Social
 
-No Brasil, toda pessoa física que exerça atividade laborativa remunerada lícita e não esteja sujeita a nenhum regime próprio de previdência social será segurado obrigatório do regime geral de previdência social.
+No Brasil, toda pessoa física que exerça atividade laborativa remunerada lícita e não esteja sujeita a nenhum regime próprio de previdência social será segurada obrigatória do regime geral de previdência social.
 
 A legislação previdenciária classifica os segurados obrigatórios (art. 11 da LBPS) em:
 
@@ -25,6 +24,8 @@ A legislação previdenciária classifica os segurados obrigatórios (art. 11 da
 -   trabalhador avulso;
 -   segurado especial.
 
+Se o trabalhador desempenhar mais de uma atividade sujeita à filiação obrigatória no RGPS, será filiado em relação a cada uma dessas atividades (art. 11, § 2º, LBPS).
+
 Adiante, trataremos de cada uma das categorias elencadas.
 
 ### Empregado
@@ -33,7 +34,7 @@ O conceito trabalhista de empregado é estabelecido pelo art. 3º da Consolidaç
 
 > Art. 3º. Considera-se empregado toda pessoa física que prestar serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário.
 
-Contudo, o conceito de empregado adotado pela legislação previdenciária é mais amplo do que o conceito celetista e abarca (art. 11, I, da Lei 8.213/91):
+Contudo, o conceito adotado pela legislação previdenciária é mais amplo que o conceito celetista e abarca (art. 11, I, da Lei 8.213/91):
 
 a)  aquele que presta serviço de natureza urbana ou rural à empresa, em caráter não eventual, sob sua subordinação e mediante remuneração, inclusive como diretor empregado;
 b)  aquele que, contratado por empresa de trabalho temporário, definida em legislação específica, presta serviço para atender a necessidade transitória de substituição de pessoal regular e permanente ou a acréscimo extraordinário de serviços de outras empresas;
@@ -206,9 +207,36 @@ Finalmente, o desenquadramento do produtor agropecuário, pescador artesanal ou 
 
 De acordo com o art. 13 da LBPS, é "segurado facultativo o maior de 14 (quatorze) anos que se filiar ao Regime Geral de Previdência Social, mediante contribuição, desde que não incluído nas disposições do art. 11." Porém, o art. 11 do RPS estabelece a idade mínima de 16 (dezesseis) anos para essa categoria, contrariando disposição legal expressa.
 
-Exemplificativamente (art. 11 do RPS), trata-se da pessoa que se dedica a atividades domésticas, do síndico não remunerado, do estudante, do bolsista de pós-graduação, do brasileiro residente no exterior, do preso que não esteja vinculado a outro regime, do atleta beneficiário do bolsa-atleta, entre outros. Do mesmo modo pode inscrever-se como segurado facultativo o servidor público em gozo de afastamento sem remuneração, desde que não seja permitida a manutenção do vínculo com seu regime próprio, bem como aquele que tem seu contrato de trabalho suspenso, também sem remuneração (e, por conseguinte, sem contribuição).
+A discrepância entre a idade mínima estabelecida legalmente (14 anos) e aquela admitida pelo Decreto regulamentar (16 anos) não encontra explicação plausível no art. 7º, XXXIII, da Constituição Federal (com redação determinada pela EC 20/1998), que proíbe o trabalho dos menores de 16 anos, exceto na condição de aprendiz, a partir dos 14. Poder-se-ia argumentar[^3] que, não podendo trabalhar (exceto como aprendiz), o menor de 16 anos também não poderia inscrever-se na Previdência Social. Porém, o segurado facultativo é alguém que não desempenha *atividade laborativa remunerada* - do contrário, teria de estar incluído em alguma das categorias de segurados obrigatórios - de modo que não faz sentido a limitação regulamentar. 
 
-Para o segurado facultativo, a filiação depende da prévia inscrição somada ao primeiro recolhimento, uma vez que não exerce atividade laborativa remunerada.
+[^3]: @garcia2022, p. 333. De qualquer maneira, o INSS segue o que está escrito no RPS, ao confirmar, no art. 5ª, IV, a idade mínima de 16 anos para inscrição como segurado facultativo, a partir da vigência da EC 20/1998.
+
+Aliás, a possibilidade de inclusão previdenciária do menor a partir de seus 14 anos, como está na Lei, ampliaria a base contributiva e atenderia ao princípio da universalidade da cobertura e do atendimento (art. 194, parágrafo único, I, CRFB), em nada vulnerando sua situação social (muito pelo contrário).
+
+O § 1º do art. 11 do RPS elenca, *exemplificativamente*, quem *pode* filiar-se como segurado facultativo:
+
+- aquele que se dedique exclusivamente ao trabalho doméstico no âmbito de sua residência;
+- o síndico de condomínio, quando não remunerado;
+- o estudante;
+- o brasileiro que acompanha cônjuge que presta serviço no exterior;
+- aquele que deixou de ser segurado obrigatório da previdência social;
+- o membro de conselho tutelar de que trata o art. 132 da Lei nº 8.069, de 13 de julho de 1990, quando não esteja vinculado a qualquer regime de previdência social;
+- o estagiário que preste serviços a empresa nos termos do disposto na Lei nº 11.788, de 2008;
+- o bolsista que se dedique em tempo integral a pesquisa, curso de especialização, pós-graduação, mestrado ou doutorado, no Brasil ou no exterior, desde que não esteja vinculado a qualquer regime de previdência social;
+- o presidiário que não exerce atividade remunerada nem esteja vinculado a qualquer regime de previdência social;
+- o brasileiro residente ou domiciliado no exterior;
+- o segurado recolhido à prisão sob regime fechado ou semi-aberto, que, nesta condição, preste serviço, dentro ou fora da unidade penal, a uma ou mais empresas, com ou sem intermediação da organização carcerária ou entidade afim, ou que exerce atividade artesanal por conta própria;
+- o atleta beneficiário da Bolsa-Atleta não filiado a regime próprio de previdência social ou não enquadrado em uma das hipóteses previstas no art. 9º.
+
+Do mesmo modo, pode inscrever-se como segurado facultativo o servidor público em gozo de afastamento sem remuneração, desde que não seja permitida a manutenção do vínculo com seu regime próprio, bem como o segurado que esteja em período de afastamento ou inatividade, também sem remuneração (e, por conseguinte, sem contribuição) (RPS, art. 11, §§ 3º e 5º).
+
+Em suma, se alguém desempenha atividade laborativa remunerada lícita, está obrigatoriamente sujeito a algum regime de Previdência Social; nessa hipótese, não poderá filiar-se como segurado facultativo do RGPS.
+
+Para o segurado facultativo, a filiação depende da prévia inscrição e do primeiro recolhimento. O ato de filiação do segurado facultativo não gera efeitos retroativos, sendo vedado o pagamento de contribuições relativas a competências anteriores à data de inscrição (RPS, art. 11, § 3º). 
+
+Uma vez inscrito, o segurado facultativo somente poderá recolher contribuições em atraso quando não tiver ocorrido a perda da qualidade de segurado (após o período de seis meses, nos termos do art. 13, VI, do RPS). Por outro lado, mesmo após esse prazo, nada impede a nova filiação, através de uma nova inscrição e novo recolhimento.
+
+## Diagrama 
 
 ```{dot}
 digraph G {

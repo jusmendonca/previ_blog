@@ -12,6 +12,7 @@ bibliography: references.bib
 google-scholar: true
 image: "segurados.jpg"
 ---
+
 ## Segurados obrigatórios do Regime Geral de Previdência Social
 
 No Brasil, toda pessoa física que exerça atividade laborativa remunerada lícita e não esteja sujeita a nenhum regime próprio de previdência social será segurada obrigatória do regime geral de previdência social.
@@ -51,7 +52,7 @@ O "servidor público ocupante de cargo em comissão, sem vínculo efetivo com a 
 
 O "exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social" é um *agente político*. Seu regime jurídico é aquele previsto pela Constituição Federal, pela Constituição do Estado-membro e pela Lei Orgânica do Município ou do DF. No entanto, caso o parlamentar não esteja vinculado a regime próprio, estará obrigatoriamente vinculado ao RGPS, na qualidade de segurado empregado, apesar de, obviamente, não se tratar de celetista.
 
-Cabem ainda algumas observações sobre o chamado "empregado intermitente". Essa categoria foi inserida na CLT no âmbito da reforma trabalhista de 2017:
+Cabem algumas observações sobre o chamado "empregado intermitente", considerado também um segurado empregado para efeitos previdenciários (art. 45, II, IN 128/2022). Essa categoria foi inserida na CLT no âmbito da reforma trabalhista de 2017:
 
 > Art. 443 (...) § 3º. Considera-se como intermitente o contrato de trabalho no qual a prestação de serviços, com subordinação, não é contínua, ocorrendo com alternância de períodos de prestação de serviços e de inatividade, determinados em horas, dias ou meses, independentemente do tipo de atividade do empregado e do empregador, exceto para os aeronautas, regidos por legislação própria.
 
@@ -67,9 +68,13 @@ Nada impede, porém, que o trabalhador intermitente complemente as contribuiçõ
 
 ### Empregado doméstico
 
-Conceitua-se *empregado doméstico* como "aquele que presta serviços de forma contínua, subordinada, onerosa e pessoal e de finalidade não lucrativa à pessoa ou à família, no âmbito residencial destas, por mais de 2 (dois) dias por semana" (art. 2º da Lei Complementar 150/2015), sendo vedado o trabalho de menor de 18 (dezoito) anos.
+De acordo com o art. 11, inciso II, da LBPS, segurado empregado doméstico é "aquele que presta serviço de natureza contínua a pessoa ou família, no âmbito residencial desta, em atividades sem fins lucrativos." Esse dispositivo deve ser lido em conjunto com o art. 2º da Lei Complementar 150/2015, que conceitua *empregado doméstico* como "aquele que presta serviços de forma contínua, subordinada, onerosa e pessoal e de finalidade não lucrativa à pessoa ou à família, no âmbito residencial destas, por mais de 2 (dois) dias por semana", sendo vedado o trabalho de menor de 18 (dezoito) anos.
 
-A finalidade não lucrativa é essencial à qualificação do empregado doméstico. Se alguém trabalha no âmbito residencial de pessoa ou família com finalidade *lucrativa* (por exemplo: cozinhando para vender "quentinhas"), será considerado segurado empregado e não empregado doméstico. Já aquele que trabalha com finalidade não lucrativa no âmbito doméstico por até 2 (dois) dias por semana será considerado *contribuinte individual* ("diarista").
+A atividade de empregado doméstico só passou a ser considerada como de filiação obrigatória a partir de 8 de abril de 1973, em decorrência da publicação do Decreto nº 71.885, de 9 de março de 1973, que regulamentou a Lei nº 5.859, de 11 de dezembro de 1972 (art. 71, § 1º, da IN 128/2022). Portanto, apesar de não se tratar de uma novidade da Lei 8.213/91, vê-se que a cobertura previdenciária obrigatória dessa categoria de trabalhadores é relativamente recente.
+
+A finalidade não lucrativa da atividade é essencial à qualificação do empregado doméstico. Se alguém trabalha no âmbito residencial de pessoa ou família com finalidade *lucrativa* (por exemplo: cozinhando para vender "quentinhas"), será considerado *segurado empregado* e não empregado doméstico. Já aquele que trabalha com finalidade não lucrativa no âmbito doméstico por até 2 (dois) dias por semana será considerado *contribuinte individual* ("diarista").
+
+Na medida em que o empregador doméstico é o responsável por pagar a contribuição previdenciária patronal, bem como arrecadar e recolher a contribuição previdenciária devida pelo empregado (art. 35 da LC 150/2015), consideram-se presumidas tais contribuições para efeito de cômputo na carência dos benefícios previdenciários (desde que comprovado o exercício da atividade laborativa). Tudo isso sem prejuízo da cobrança das contribuições devidas e não pagas pelo empregador e da aplicação das penalidades cabíveis (art. 34, I, da LBPS; art. 26, § 4º, do RPS). Porém, essa presunção de recolhimentos só é reconhecida para as competências a partir da vigência da LC 150/2015, em 02/06/2015 (art. 71, § 3º, da IN 128/2022).
 
 ### Contribuinte individual
 
@@ -78,13 +83,24 @@ A figura do contribuinte individual surgiu da fusão das antigas figuras do segu
 Pode-se dizer --- correndo o risco de simplificar em excesso, mas com fins didáticos --- que o paradigma de contribuinte individual é a pessoa física que exerce atividade laborativa remunerada por conta própria. São exemplos os artífices que trabalham de forma autônoma, como pedreiros, carpinteiros, marceneiros, pintores, mecânicos, os revendedores autônomos e as pessoas que se dedicam à atividade empresarial. O inciso V do art. 11 assim descreve as espécies de contribuintes individuais:
 
 a)  a pessoa física, proprietária ou não, que explora atividade agropecuária, a qualquer título, em caráter permanente ou temporário, em área superior a 4 (quatro) módulos fiscais; ou, quando em área igual ou inferior a 4 (quatro) módulos fiscais ou atividade pesqueira, com auxílio de empregados ou por intermédio de prepostos; ou ainda nas hipóteses dos §§ 9o e 10 deste artigo;
+
 b)  a pessoa física, proprietária ou não, que explora atividade de extração mineral - garimpo, em caráter permanente ou temporário, diretamente ou por intermédio de prepostos, com ou sem o auxílio de empregados, utilizados a qualquer título, ainda que de forma não contínua;
+
 c)  o ministro de confissão religiosa e o membro de instituto de vida consagrada, de congregação ou de ordem religiosa;
+
+
 d)  (Revogado pela Lei nº 9.876, de 26.11.1999)
+
 e)  o brasileiro civil que trabalha no exterior para organismo oficial internacional do qual o Brasil é membro efetivo, ainda que lá domiciliado e contratado, salvo quando coberto por regime próprio de previdência social;
+
 f)  o titular de firma individual urbana ou rural, o diretor não empregado e o membro de conselho de administração de sociedade anônima, o sócio solidário, o sócio de indústria, o sócio gerente e o sócio cotista que recebam remuneração decorrente de seu trabalho em empresa urbana ou rural, e o associado eleito para cargo de direção em cooperativa, associação ou entidade de qualquer natureza ou finalidade, bem como o síndico ou administrador eleito para exercer atividade de direção condominial, desde que recebam remuneração;
+
 g)  quem presta serviço de natureza urbana ou rural, em caráter eventual, a uma ou mais empresas, sem relação de emprego;
-h)  a pessoa física que exerce, por conta própria, atividade econômica de natureza urbana, com fins lucrativos ou não; Cabe ao contribuinte individual que trabalha por conta própria ou presta serviços a pessoas físicas recolher as próprias contribuições previdenciárias. Já aquele que presta serviço a empresas tem suas contribuições arrecadas e recolhidas por estas, nos termos do art. 4º da Lei n.º 10.666/2003.
+
+
+h)  a pessoa física que exerce, por conta própria, atividade econômica de natureza urbana, com fins lucrativos ou não; 
+
+Cabe ao contribuinte individual que trabalha por conta própria ou presta serviços a pessoas físicas recolher as próprias contribuições previdenciárias. Já aquele que presta serviço a empresas tem suas contribuições arrecadas e recolhidas por estas, nos termos do art. 4º da Lei n.º 10.666/2003.
 
 ### Trabalhador avulso
 
@@ -127,7 +143,7 @@ Não só o proprietário, como também o condômino, o usufrutuário, o possuido
 
 Para caracterizar-se como pequeno produtor agropecuário, a área explorada não deve ultrapassar 4 (quatro) módulos fiscais. De acordo com informações da Embrapa[^3], módulo fiscal é uma unidade de medida, em hectares, cujo valor é fixado pelo INCRA para cada município levando-se em conta: (a) o tipo de exploração predominante no município (hortifrutigranjeira, cultura permanente, cultura temporária, pecuária ou florestal); (b) a renda obtida no tipo de exploração predominante; (c) outras explorações existentes no município que, embora não predominantes, sejam expressivas em função da renda ou da área utilizada; (d) o conceito de "propriedade familiar".
 
-[^3]: V. <https://www.embrapa.br/codigo-florestal/area-de-reserva-legal-arl/modulo-fiscal>.
+[^3]: @garcia2022, p. 333. De qualquer maneira, o INSS segue o que está escrito no RPS, ao confirmar, no art. 5ª, IV, a idade mínima de 16 anos para inscrição como segurado facultativo, a partir da vigência da EC 20/1998.
 
 A dimensão de um módulo fiscal varia de acordo com o município onde está localizada a propriedade. O tamanho do módulo fiscal varia de 5 a 110 hectares. Tomando como exemplo a região Sudoeste da Bahia, temos as seguintes extensões de módulos fiscais para os seguintes municípios:
 
@@ -207,36 +223,36 @@ Finalmente, o desenquadramento do produtor agropecuário, pescador artesanal ou 
 
 De acordo com o art. 13 da LBPS, é "segurado facultativo o maior de 14 (quatorze) anos que se filiar ao Regime Geral de Previdência Social, mediante contribuição, desde que não incluído nas disposições do art. 11." Porém, o art. 11 do RPS estabelece a idade mínima de 16 (dezesseis) anos para essa categoria, contrariando disposição legal expressa.
 
-A discrepância entre a idade mínima estabelecida legalmente (14 anos) e aquela admitida pelo Decreto regulamentar (16 anos) não encontra explicação plausível no art. 7º, XXXIII, da Constituição Federal (com redação determinada pela EC 20/1998), que proíbe o trabalho dos menores de 16 anos, exceto na condição de aprendiz, a partir dos 14. Poder-se-ia argumentar[^3] que, não podendo trabalhar (exceto como aprendiz), o menor de 16 anos também não poderia inscrever-se na Previdência Social. Porém, o segurado facultativo é alguém que não desempenha *atividade laborativa remunerada* - do contrário, teria de estar incluído em alguma das categorias de segurados obrigatórios - de modo que não faz sentido a limitação regulamentar. 
+A discrepância entre a idade mínima estabelecida legalmente (14 anos) e aquela admitida pelo Decreto regulamentar (16 anos) não encontra explicação plausível no art. 7º, XXXIII, da Constituição Federal (com redação determinada pela EC 20/1998), que proíbe o trabalho dos menores de 16 anos, exceto na condição de aprendiz, a partir dos 14. Poder-se-ia argumentar[^5] que, não podendo trabalhar (exceto como aprendiz), o menor de 16 anos também não poderia inscrever-se na Previdência Social. Porém, o segurado facultativo é alguém que não desempenha *atividade laborativa remunerada* - do contrário, teria de estar incluído em alguma das categorias de segurados obrigatórios - de modo que não faz sentido a limitação regulamentar.
 
-[^3]: @garcia2022, p. 333. De qualquer maneira, o INSS segue o que está escrito no RPS, ao confirmar, no art. 5ª, IV, a idade mínima de 16 anos para inscrição como segurado facultativo, a partir da vigência da EC 20/1998.
+[^5]: @garcia2022, p. 333. De qualquer maneira, o INSS segue o que está escrito no RPS, ao confirmar, no art. 5ª, IV, a idade mínima de 16 anos para inscrição como segurado facultativo, a partir da vigência da EC 20/1998.
 
-Aliás, a possibilidade de inclusão previdenciária do menor a partir de seus 14 anos, como está na Lei, ampliaria a base contributiva e atenderia ao princípio da universalidade da cobertura e do atendimento (art. 194, parágrafo único, I, CRFB), em nada vulnerando sua situação social (muito pelo contrário).
+Aliás, a possibilidade de inclusão previdenciária do menor a partir de seus 14 anos na qualidade de segurado facultativo, como está na Lei, ampliaria a base contributiva e atenderia ao princípio da universalidade da cobertura e do atendimento (art. 194, parágrafo único, I, CRFB), em nada vulnerando sua situação social (muito pelo contrário).
 
 O § 1º do art. 11 do RPS elenca, *exemplificativamente*, quem *pode* filiar-se como segurado facultativo:
 
-- aquele que se dedique exclusivamente ao trabalho doméstico no âmbito de sua residência;
-- o síndico de condomínio, quando não remunerado;
-- o estudante;
-- o brasileiro que acompanha cônjuge que presta serviço no exterior;
-- aquele que deixou de ser segurado obrigatório da previdência social;
-- o membro de conselho tutelar de que trata o art. 132 da Lei nº 8.069, de 13 de julho de 1990, quando não esteja vinculado a qualquer regime de previdência social;
-- o estagiário que preste serviços a empresa nos termos do disposto na Lei nº 11.788, de 2008;
-- o bolsista que se dedique em tempo integral a pesquisa, curso de especialização, pós-graduação, mestrado ou doutorado, no Brasil ou no exterior, desde que não esteja vinculado a qualquer regime de previdência social;
-- o presidiário que não exerce atividade remunerada nem esteja vinculado a qualquer regime de previdência social;
-- o brasileiro residente ou domiciliado no exterior;
-- o segurado recolhido à prisão sob regime fechado ou semi-aberto, que, nesta condição, preste serviço, dentro ou fora da unidade penal, a uma ou mais empresas, com ou sem intermediação da organização carcerária ou entidade afim, ou que exerce atividade artesanal por conta própria;
-- o atleta beneficiário da Bolsa-Atleta não filiado a regime próprio de previdência social ou não enquadrado em uma das hipóteses previstas no art. 9º.
+-   aquele que se dedique exclusivamente ao trabalho doméstico no âmbito de sua residência;
+-   o síndico de condomínio, quando não remunerado;
+-   o estudante;
+-   o brasileiro que acompanha cônjuge que presta serviço no exterior;
+-   aquele que deixou de ser segurado obrigatório da previdência social;
+-   o membro de conselho tutelar de que trata o art. 132 da Lei nº 8.069, de 13 de julho de 1990, quando não esteja vinculado a qualquer regime de previdência social;
+-   o estagiário que preste serviços a empresa nos termos do disposto na Lei nº 11.788, de 2008;
+-   o bolsista que se dedique em tempo integral a pesquisa, curso de especialização, pós-graduação, mestrado ou doutorado, no Brasil ou no exterior, desde que não esteja vinculado a qualquer regime de previdência social;
+-   o presidiário que não exerce atividade remunerada nem esteja vinculado a qualquer regime de previdência social;
+-   o brasileiro residente ou domiciliado no exterior;
+-   o segurado recolhido à prisão sob regime fechado ou semi-aberto, que, nesta condição, preste serviço, dentro ou fora da unidade penal, a uma ou mais empresas, com ou sem intermediação da organização carcerária ou entidade afim, ou que exerce atividade artesanal por conta própria;
+-   o atleta beneficiário da Bolsa-Atleta não filiado a regime próprio de previdência social ou não enquadrado em uma das hipóteses previstas no art. 9º.
 
 Do mesmo modo, pode inscrever-se como segurado facultativo o servidor público em gozo de afastamento sem remuneração, desde que não seja permitida a manutenção do vínculo com seu regime próprio, bem como o segurado que esteja em período de afastamento ou inatividade, também sem remuneração (e, por conseguinte, sem contribuição) (RPS, art. 11, §§ 3º e 5º).
 
 Em suma, se alguém desempenha atividade laborativa remunerada lícita, está obrigatoriamente sujeito a algum regime de Previdência Social; nessa hipótese, não poderá filiar-se como segurado facultativo do RGPS.
 
-Para o segurado facultativo, a filiação depende da prévia inscrição e do primeiro recolhimento. O ato de filiação do segurado facultativo não gera efeitos retroativos, sendo vedado o pagamento de contribuições relativas a competências anteriores à data de inscrição (RPS, art. 11, § 3º). 
+Para o segurado facultativo, a filiação depende da prévia inscrição e do primeiro recolhimento. O ato de filiação do segurado facultativo não gera efeitos retroativos, sendo vedado o pagamento de contribuições relativas a competências anteriores à data de inscrição (RPS, art. 11, § 3º).
 
 Uma vez inscrito, o segurado facultativo somente poderá recolher contribuições em atraso quando não tiver ocorrido a perda da qualidade de segurado (após o período de seis meses, nos termos do art. 13, VI, do RPS). Por outro lado, mesmo após esse prazo, nada impede a nova filiação, através de uma nova inscrição e novo recolhimento.
 
-## Diagrama 
+## Diagrama
 
 ```{dot}
 digraph G {

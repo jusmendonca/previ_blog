@@ -13,6 +13,7 @@ categories: [aulas]
 google-scholar: true
 image: "ampulheta.jpg"
 ---
+
 ## Aquisição da qualidade de segurado
 
 A qualidade de segurado do RGPS é adquirida pela *filiação.* Filiação é o fato jurídico que dá origem à *relação jurídica previdenciária*, existente entre um *filiado* e um ente previdenciário, e que tem por objeto uma série de direitos e obrigações de ambas as partes. De acordo com a IN 128/2022 (art. 2º, § 2º), "Filiado é aquele que se relaciona com a Previdência Social na qualidade de segurado obrigatório ou facultativo, mediante contribuição ao RGPS."
@@ -21,7 +22,7 @@ Para os *segurados obrigatórios*, a "filiação à previdência social decorre 
 
 Até mesmo o aposentado, inclusive por outro regime de Previdência Social, que vier a exercer atividade abrangida pelo RGPS, será segurado obrigatório em relação a essa atividade, ficando sujeito a contribuições previdenciárias (art. 3º, § 3º, IN 128/2022).
 
-Inscrição, por sua vez, é o ato pelo qual o segurado é cadastrado no RGPS, por meio da comprovação dos dados pessoais, da seguinte forma (art. 18, RPS):
+Inscrição, por sua vez, é o ato pelo qual o segurado é cadastrado no RGPS, por meio da comprovação dos dados pessoais. Trata-se de um ato com efeitos meramente administrativos, que ocorre da seguinte forma (art. 18, RPS):
 
 I - empregado - pelo empregador, por meio da formalização do contrato de trabalho e, a partir da obrigatoriedade do uso do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas - eSocial, instituído pelo Decreto nº 8.373, de 11 de dezembro de 2014, ou do sistema que venha a substituí-lo, por meio do registro contratual eletrônico realizado nesse Sistema;
 
@@ -31,19 +32,19 @@ III - empregado doméstico - pelo empregador, por meio do registro contratual el
 
 IV - contribuinte individual:
 
-a) por ato próprio, por meio do cadastramento de informações para identificação e reconhecimento da atividade, hipótese em que o Instituto Nacional do Seguro Social - INSS poderá solicitar a apresentação de documento que comprove o exercício da atividade declarada;
+a)  por ato próprio, por meio do cadastramento de informações para identificação e reconhecimento da atividade, hipótese em que o Instituto Nacional do Seguro Social - INSS poderá solicitar a apresentação de documento que comprove o exercício da atividade declarada;
 
-b) pela cooperativa de trabalho ou pela pessoa jurídica a quem preste serviço, no caso de cooperados ou contratados, respectivamente, se ainda não inscritos no RGPS; e
+b)  pela cooperativa de trabalho ou pela pessoa jurídica a quem preste serviço, no caso de cooperados ou contratados, respectivamente, se ainda não inscritos no RGPS; e
 
-c) pelo MEI, por meio do sítio eletrônico do Portal do Empreendedor;
+c)  pelo MEI, por meio do sítio eletrônico do Portal do Empreendedor;
 
 V - segurado especial - preferencialmente, pelo titular do grupo familiar que se enquadre em uma das condições previstas no inciso VII do caput do art. 9º, hipótese em que o INSS poderá solicitar a apresentação de documento que comprove o exercício da atividade declarada, observado o disposto no art. 19-D; e
 
 VI - segurado facultativo - por ato próprio, por meio do cadastramento de informações pessoais que permitam a sua identificação, desde que não exerça atividade que o enquadre na categoria de segurado obrigatório.
 
-O ato de inscrição não gera relação jurídica previdenciária, apenas leva ao conhecimento do ente previdenciário os dados do filiado (no caso do segurado obrigatório) ou da pessoa que pretende filiar-se (no caso do segurado facultativo).
+O ato de inscrição não gera relação jurídica previdenciária; apenas leva ao conhecimento do ente previdenciário os dados do filiado (no caso do segurado obrigatório) ou da pessoa que pretende filiar-se (no caso do segurado facultativo).
 
-Dessa maneira, é correto dizer, que a filiação dos segurados obrigatórios *precede* a inscrição (que ocorre na forma do art. 18, I a V do RPS), enquanto a filiação dos segurados facultativos *sucede* a inscrição (que ocorre na forma do inciso VI do mesmo artigo). 
+Dessa maneira, é correto dizer, que a filiação dos segurados obrigatórios sempre *precede* a inscrição (que ocorre na forma do art. 18, I a V do RPS), enquanto a filiação dos segurados facultativos *sucede* a inscrição (que ocorre na forma do inciso VI do mesmo artigo).
 
 Saber exatamente quando se inicia e quando se finda a qualidade de segurado é essencial para verificar a existência do direito a algum benefício previdenciário. Isso porque, em regra, os elementos constitutivos do fato gerador da prestação previdenciária devem ocorrer durante o período em que alguém mantinha a qualidade de segurado.
 
@@ -64,7 +65,7 @@ Seria intuitivo pensar que o segurado mantém essa qualidade apenas no período 
 O art. 15 da LBPS concede ao segurado alguns períodos adicionais, em que, mesmo após cessadas as contribuições previdenciárias, o segurado mantém essa qualidade. São os chamados "períodos de graça." O art. 15 da Lei 8.213/91 estabelece esses lapsos temporais, que são resumidos na tabela abaixo:
 
 | Segurado                                                                                                              | Período de graça (meses)                   | Fundamento (art. 15) |
-|:-----------------------|:-----------------------|:-----------------------|
+|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:---------------------|
 | em gozo de benefício previdenciário (exceto auxílio-acidente)                                                         | sem limite                                 | inciso I             |
 | que deixar de exercer atividade remunerada abrangida pelo RGPS, ou que estiver suspenso ou licenciado sem remuneração | até 12, após a cessação das contribuições. | inciso II            |
 | acometido de doença de segregação compulsória                                                                         | até 12, após cessar a segregação           | inciso III           |
@@ -77,7 +78,7 @@ O art. 15 da LBPS concede ao segurado alguns períodos adicionais, em que, mesmo
 Há, ainda, dois períodos adicionais para a hipótese descrita no inciso II, acima. São elas:
 
 | Segurado                                                                                                       | Período de graça adicional (meses) | Fundamento (art. 15) |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------|:---------------------|
 | que tiver pago mais de 120 contribuições mensais sem interrupção que acarrete a perda da qualidade de segurado | até 12                             | § 1º                 |
 | desempregado                                                                                                   | até 12                             | § 2º                 |
 
@@ -134,7 +135,7 @@ Primeiro, é necessário saber o número de meses que corresponde ao seu períod
 De acordo com o art. 14 do Dec. 3.048/99, a contagem fica da seguinte forma:
 
 | Evento                                                                                              | Termo final |
-|:-----------------------------------|:-----------------------------------|
+|:----------------------------------------------------------------------------------------------------|:------------|
 | Competência da última contribuição                                                                  | 11/2018     |
 | Término do período de graça                                                                         | 11/2020     |
 | Mês imediatamente posterior                                                                         | 12/2020     |
